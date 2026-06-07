@@ -1,0 +1,15 @@
+{
+  "hooks": {
+    "SessionStart": [
+      {
+        "hooks": [
+          {
+            "type": "command",
+            "command": "python \"C:\\Users\\SBS\\Desktop\\agetn_sj\\.claude\\hooks\\report-team-context.py\"",
+            "statusMessage": "report-team 컨텍스트 로딩 중..."
+          }
+        ]
+      }
+    ]
+  }
+}

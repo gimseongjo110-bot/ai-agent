@@ -1,0 +1,2 @@
+- [User Profile](user-profile.md) — Korean-language output, professional report format, TAM/SAM framework, all data must be sourced and dated
+- [Automotive Research Sources](research-sources-automotive.md) — reliable sources and terminology for automotive/EV/AV market research
