@@ -1,0 +1,2164 @@
+- generic [ref=e1]:
+  - generic:
+    - link "메뉴 영역으로 바로가기" [ref=e2] [cursor=pointer]:
+      - /url: "#lnb"
+      - generic [ref=e3]: 메뉴 영역으로 바로가기
+    - link "본문 영역으로 바로가기" [ref=e4] [cursor=pointer]:
+      - /url: "#content"
+      - generic [ref=e5]: 본문 영역으로 바로가기
+  - generic [ref=e6]:
+    - generic [ref=e8]:
+      - generic [ref=e9]:
+        - generic [ref=e11]:
+          - heading "NAVER" [level=1] [ref=e12]:
+            - link "NAVER" [ref=e13] [cursor=pointer]:
+              - /url: https://www.naver.com
+              - generic [ref=e14]: NAVER
+          - search [ref=e15]:
+            - group "검색" [ref=e16]:
+              - combobox "검색어를 입력해 주세요." [ref=e18]:
+                - text: 대전 맛집
+                - button "자동완성 레이어" [ref=e19] [cursor=pointer]:
+                  - generic [ref=e20]: 자동완성 레이어
+              - button "검색" [ref=e21] [cursor=pointer]:
+                - generic [ref=e22]: 검색
+              - button "한글 입력기" [ref=e24] [cursor=pointer]:
+                - generic [ref=e25]: 한글 입력기
+        - generic [ref=e2331]:
+          - strong [ref=e2332]: 사용자 링크
+          - list [ref=e2333]:
+            - listitem [ref=e2334]:
+              - link "로그인" [ref=e2335] [cursor=pointer]:
+                - /url: https://nid.naver.com/nidlogin.login?url=https%3A%2F%2Fsearch.naver.com%2Fsearch.naver%3Fwhere%3Dnexearch%26sm%3Dtop_hty%26fbm%3D0%26ie%3Dutf8%26query%3D%25EB%258C%2580%25EC%25A0%2584%2B%25EB%25A7%259B%25EC%25A7%2591%26ackey%3Ds03q15ae
+                - generic [ref=e2338]: 로그인
+            - listitem [ref=e2339]:
+              - link "서비스 더보기" [ref=e2340] [cursor=pointer]:
+                - /url: javascript:;
+                - generic [ref=e2341]: 서비스 더보기
+      - generic [ref=e26]:
+        - generic [ref=e28]:
+          - generic [ref=e30]:
+            - tablist [ref=e31]:
+              - tab "블로그" [ref=e32] [cursor=pointer]
+              - tab "카페" [ref=e33] [cursor=pointer]
+              - tab "이미지" [ref=e34] [cursor=pointer]
+              - tab "클립" [ref=e35] [cursor=pointer]
+              - tab "지식iN" [ref=e36] [cursor=pointer]
+              - tab "인플루언서" [ref=e37] [cursor=pointer]
+              - tab "동영상" [ref=e38] [cursor=pointer]
+              - tab "쇼핑" [ref=e39] [cursor=pointer]
+              - tab "뉴스" [ref=e40] [cursor=pointer]
+              - tab "숏텐츠" [ref=e41] [cursor=pointer]
+              - tab "어학사전" [ref=e42] [cursor=pointer]
+              - tab "지도" [ref=e43] [cursor=pointer]
+              - tab "도서" [ref=e44] [cursor=pointer]
+              - tab "지식백과" [ref=e45] [cursor=pointer]
+              - tab "학술정보" [ref=e46] [cursor=pointer]
+            - button "다음" [ref=e47] [cursor=pointer]:
+              - generic [ref=e49]: 다음
+          - button "더보기" [ref=e51] [cursor=pointer]:
+            - generic [ref=e52]: 더보기
+        - list [ref=e54]:
+          - listitem [ref=e55]:
+            - button "공유" [ref=e56] [cursor=pointer]
+    - main [ref=e57]:
+      - generic [ref=e58]:
+        - heading "대전 맛집 검색 결과" [level=1] [ref=e59]
+        - generic [ref=e60]:
+          - generic [ref=e61]:
+            - img [ref=e62]
+            - generic [ref=e65]:
+              - generic [ref=e66]:
+                - heading "플레이스 플레이스 검색결과 안내" [level=2] [ref=e68]:
+                  - text: 플레이스
+                  - button "플레이스 검색결과 안내" [ref=e70] [cursor=pointer]:
+                    - generic [ref=e71]: 플레이스 검색결과 안내
+                - generic [ref=e72]:
+                  - generic [ref=e73]:
+                    - generic [ref=e74]:
+                      - img [ref=e75]
+                      - generic [ref=e77]: 플레이스 플러스
+                    - button "안내" [ref=e79] [cursor=pointer]:
+                      - generic [ref=e80]: 안내
+                      - img [ref=e81]
+                  - button "내 업체 등록" [ref=e83] [cursor=pointer]
+                  - button "신규장소 등록" [ref=e84] [cursor=pointer]
+              - button "대전 맛집 업체명 검색하기" [ref=e88] [cursor=pointer]:
+                - emphasis [ref=e89]: 대전 맛집
+                - generic [ref=e90]: 업체명 검색하기
+                - img [ref=e91]
+              - generic [ref=e98]:
+                - button "전체필터" [ref=e100] [cursor=pointer]:
+                  - generic [ref=e101]: 전체필터
+                  - img [ref=e102]
+                - button "영업중" [ref=e105] [cursor=pointer]
+                - button "예약" [ref=e107] [cursor=pointer]:
+                  - img [ref=e108]
+                  - text: 예약
+                - button "쿠폰" [ref=e111] [cursor=pointer]:
+                  - img [ref=e112]
+                  - text: 쿠폰
+                - button "포장주문" [ref=e115] [cursor=pointer]:
+                  - img [ref=e116]
+                  - text: 포장주문
+              - generic [ref=e120]:
+                - generic [ref=e2344]:
+                  - generic:
+                    - generic:
+                      - generic:
+                        - generic [ref=e2365] [cursor=pointer]:
+                          - img [ref=e2367]
+                          - generic [ref=e2369]:
+                            - generic [ref=e2371]: 뜨랑한우 노은본점
+                            - generic [ref=e2372]:
+                              - generic [ref=e2373]:
+                                - img [ref=e2374]
+                                - generic [ref=e2376]: 별점
+                                - text: "4.5"
+                              - generic [ref=e2377]: 소고기구이
+                        - generic [ref=e2384] [cursor=pointer]:
+                          - img [ref=e2386]
+                          - generic [ref=e2388]:
+                            - generic [ref=e2390]: 모미지 대전시청점
+                            - generic [ref=e2392]: 일식당
+                        - generic [ref=e2399] [cursor=pointer]:
+                          - img [ref=e2401]
+                          - generic [ref=e2403]:
+                            - generic [ref=e2405]: 돈돈 용전점
+                            - generic [ref=e2407]: 일식당
+                        - generic [ref=e2414] [cursor=pointer]:
+                          - img [ref=e2416]
+                          - generic [ref=e2418]:
+                            - generic [ref=e2420]: 용가회전훠궈 대전점
+                            - generic [ref=e2422]: 중식당
+                        - generic [ref=e2429] [cursor=pointer]:
+                          - img [ref=e2431]
+                          - generic [ref=e2433]:
+                            - generic [ref=e2435]: 파시 대전본점
+                            - generic [ref=e2437]: 초밥,롤
+                        - generic [ref=e2444] [cursor=pointer]:
+                          - img [ref=e2446]
+                          - generic [ref=e2448]:
+                            - generic [ref=e2450]: 국제통닭 대전봉명점
+                            - generic [ref=e2452]: 치킨,닭강정
+                        - generic [ref=e2459] [cursor=pointer]:
+                          - img [ref=e2461]
+                          - generic [ref=e2463]:
+                            - generic [ref=e2465]: 남한강막국수 대전현충원점
+                            - generic [ref=e2467]: 막국수
+                        - generic [ref=e2474] [cursor=pointer]:
+                          - img [ref=e2476]
+                          - generic [ref=e2478]:
+                            - generic [ref=e2480]: 플레이트 둔산점
+                            - generic [ref=e2482]: 양식
+                - generic [ref=e2485]: 3km
+                - generic:
+                  - generic:
+                    - generic:
+                      - generic: © NAVER Corp.
+                - generic:
+                  - button "지도보기" [ref=e2486] [cursor=pointer]:
+                    - generic [ref=e2487]: 지도보기
+                    - img [ref=e2488]
+                  - generic [ref=e2492]:
+                    - button "지도 확대" [ref=e2493] [cursor=pointer]:
+                      - generic [ref=e2494]: 지도 확대
+                      - img [ref=e2495]
+                    - button "지도 축소" [ref=e2497] [cursor=pointer]:
+                      - generic [ref=e2498]: 지도 축소
+                      - img [ref=e2499]
+              - generic [ref=e131]:
+                - generic [ref=e133]:
+                  - button "고깃집" [ref=e135] [cursor=pointer]
+                  - button "삼겹살" [ref=e137] [cursor=pointer]
+                  - button "주차" [ref=e139] [cursor=pointer]
+                  - button "단체석" [ref=e141] [cursor=pointer]
+                  - button "인테리어" [ref=e143] [cursor=pointer]
+                  - button "특별한메뉴" [ref=e145] [cursor=pointer]
+                  - button "사진맛집" [ref=e147] [cursor=pointer]
+                  - button "뷰맛집" [ref=e149] [cursor=pointer]
+                  - button "넓은" [ref=e151] [cursor=pointer]
+                  - button "신선한" [ref=e153] [cursor=pointer]
+                  - button "다양한술" [ref=e155] [cursor=pointer]
+                  - button "데이트" [ref=e157] [cursor=pointer]
+                  - button "회식" [ref=e159] [cursor=pointer]
+                  - button "가족모임" [ref=e161] [cursor=pointer]
+                  - button "새로오픈" [ref=e163] [cursor=pointer]
+                - button "이전" [disabled] [ref=e2501] [cursor=pointer]:
+                  - img [ref=e2502]
+                  - generic [ref=e2504]: 이전
+                - button "다음" [ref=e2506] [cursor=pointer]:
+                  - img [ref=e2507]
+                  - generic [ref=e2509]: 다음
+              - generic [ref=e164]:
+                - list [ref=e165]:
+                  - listitem [ref=e166]:
+                    - generic [ref=e167]:
+                      - button "뜨랑한우 노은본점 예약 톡톡 소고기구이" [ref=e169] [cursor=pointer]:
+                        - text: 뜨랑한우 노은본점
+                        - generic [ref=e170]:
+                          - generic [ref=e171]:
+                            - img [ref=e172]
+                            - generic [ref=e175]: 예약
+                          - generic [ref=e176]:
+                            - generic [ref=e177]: 톡톡
+                            - img [ref=e178]
+                        - text: 소고기구이
+                      - button "대전 유성 한우 맛집" [ref=e182] [cursor=pointer]
+                      - generic [ref=e183]:
+                        - button "영업 중 별점 4.5 리뷰 4,857 휠체어 출입 가능" [ref=e184] [cursor=pointer]:
+                          - text: 영업 중
+                          - generic [ref=e185]:
+                            - img [ref=e186]
+                            - generic [ref=e188]: 별점
+                            - text: "4.5"
+                          - generic [ref=e189]: 리뷰 4,857
+                          - generic [ref=e191]:
+                            - img [ref=e192]
+                            - generic [ref=e194]: 휠체어 출입 가능
+                        - button "광고" [ref=e195] [cursor=pointer]:
+                          - generic [ref=e196]: 광고
+                          - img [ref=e197]
+                      - button "저장" [ref=e201] [cursor=pointer]:
+                        - img [ref=e202]
+                        - generic [ref=e205]: 저장
+                    - generic [ref=e209]:
+                      - button "뜨랑한우 노은본점" [ref=e211] [cursor=pointer]:
+                        - img "뜨랑한우 노은본점" [ref=e212]
+                      - button "뜨랑한우 노은본점" [ref=e214] [cursor=pointer]:
+                        - img "뜨랑한우 노은본점" [ref=e215]
+                      - button "뜨랑한우 노은본점" [ref=e217] [cursor=pointer]:
+                        - img "뜨랑한우 노은본점" [ref=e218]
+                      - button "뜨랑한우 노은본점" [ref=e220] [cursor=pointer]:
+                        - img "뜨랑한우 노은본점" [ref=e221]
+                      - button "뜨랑한우 노은본점" [ref=e223] [cursor=pointer]:
+                        - img "뜨랑한우 노은본점" [ref=e224]
+                      - button "뜨랑한우 노은본점" [ref=e226] [cursor=pointer]:
+                        - img "뜨랑한우 노은본점" [ref=e227]
+                      - button "더보기" [ref=e228] [cursor=pointer]:
+                        - img [ref=e230]
+                        - text: 더보기
+                    - generic [ref=e235]:
+                      - button "connect+ 혜택 리뷰 쓰고 포인트 적립까지" [ref=e237] [cursor=pointer]:
+                        - strong [ref=e238]: connect+ 혜택
+                        - generic [ref=e239]: 리뷰 쓰고 포인트 적립까지
+                      - button "어버이말 기념으로 갔습니다. 고기가 너무 봏았구요 맛이 아주 훌륭했습니다. 아주 좋았습니다." [ref=e241] [cursor=pointer]:
+                        - generic [ref=e243]: 어버이말 기념으로 갔습니다. 고기가 너무 봏았구요 맛이 아주 훌륭했습니다. 아주 좋았습니다.
+                      - button "부모님과 맛있는 안심, 등심 먹었네요. 너무 좋아하셨어요. 구워주셔서 먹기만 하면 되니 편하네요." [ref=e245] [cursor=pointer]:
+                        - generic [ref=e247]: 부모님과 맛있는 안심, 등심 먹었네요. 너무 좋아하셨어요. 구워주셔서 먹기만 하면 되니 편하네요.
+                      - button "올 때마다 정말 맛있게 먹고 갑니다! 다들 친절하시고 고기 굽는 실력도 진짜 훌륭하세요" [ref=e249] [cursor=pointer]:
+                        - generic [ref=e251]: 올 때마다 정말 맛있게 먹고 갑니다! 다들 친절하시고 고기 굽는 실력도 진짜 훌륭하세요
+                  - listitem [ref=e252]:
+                    - generic [ref=e253]:
+                      - button "모미지 대전시청점 예약 쿠폰 일식당" [ref=e255] [cursor=pointer]:
+                        - text: 모미지 대전시청점
+                        - generic [ref=e256]:
+                          - generic [ref=e257]:
+                            - img [ref=e258]
+                            - generic [ref=e261]: 예약
+                          - generic [ref=e262]:
+                            - generic [ref=e263]: 쿠폰
+                            - img [ref=e264]
+                        - text: 일식당
+                      - button "모임장소를 찾고있다면 바로여기" [ref=e268] [cursor=pointer]
+                      - generic [ref=e269]:
+                        - button "재방문 많은 영업 전 리뷰 802 휠체어 출입 가능 프라이빗 룸에서 즐기는 오붓한 식사" [ref=e270] [cursor=pointer]:
+                          - text: 재방문 많은 영업 전
+                          - generic [ref=e271]: 리뷰 802
+                          - generic [ref=e273]:
+                            - img [ref=e274]
+                            - generic [ref=e276]: 휠체어 출입 가능
+                          - text: 프라이빗 룸에서 즐기는 오붓한 식사
+                        - button "광고" [ref=e277] [cursor=pointer]:
+                          - generic [ref=e278]: 광고
+                          - img [ref=e279]
+                      - button "저장" [ref=e283] [cursor=pointer]:
+                        - img [ref=e284]
+                        - generic [ref=e287]: 저장
+                    - generic [ref=e288]:
+                      - generic [ref=e291]:
+                        - button "모미지 대전시청점" [ref=e293] [cursor=pointer]:
+                          - img "모미지 대전시청점" [ref=e294]
+                        - button "모미지 대전시청점" [ref=e296] [cursor=pointer]:
+                          - img "모미지 대전시청점" [ref=e297]
+                        - button "모미지 대전시청점" [ref=e299] [cursor=pointer]:
+                          - img "모미지 대전시청점" [ref=e300]
+                        - button "모미지 대전시청점" [ref=e302] [cursor=pointer]:
+                          - img "모미지 대전시청점" [ref=e303]
+                        - button "모미지 대전시청점" [ref=e305] [cursor=pointer]:
+                          - img "모미지 대전시청점" [ref=e306]
+                        - button "모미지 대전시청점" [ref=e308] [cursor=pointer]:
+                          - img "모미지 대전시청점" [ref=e309]
+                        - button "더보기" [ref=e310] [cursor=pointer]:
+                          - img [ref=e312]
+                          - text: 더보기
+                      - generic:
+                        - img
+                        - generic: 플레이스 플러스
+                    - generic [ref=e317]:
+                      - button "주간 인기 많은 메뉴 모미지 생맥주, (소)계절모둠사시미, 사시미 대짜세트, 기린 생맥주, (대)계절모둠사시미" [ref=e319] [cursor=pointer]:
+                        - strong [ref=e320]: 주간 인기 많은 메뉴
+                        - generic [ref=e321]: 모미지 생맥주, (소)계절모둠사시미, 사시미 대짜세트, 기린 생맥주, (대)계절모둠사시미
+                      - button "직원분들도 친절하시고 매장도 깔끔하고 너무 좋은 식사 자리였어요!" [ref=e323] [cursor=pointer]:
+                        - generic [ref=e325]: 직원분들도 친절하시고 매장도 깔끔하고 너무 좋은 식사 자리였어요!
+                      - button "쿠시야끼와 모둠사시미 소 주문해 식사했는데 전체적으로 정갈하게 나오는 느낌이었습니다" [ref=e327] [cursor=pointer]:
+                        - generic [ref=e329]: 쿠시야끼와 모둠사시미 소 주문해 식사했는데 전체적으로 정갈하게 나오는 느낌이었습니다
+                      - button "모둠사시미가 하나 같이 신선하고 맛있었어요! 직원분들도 모두 친절하셨고 설명도 잘 해주시더라구요ㅎㅎ" [ref=e331] [cursor=pointer]:
+                        - generic [ref=e333]: 모둠사시미가 하나 같이 신선하고 맛있었어요! 직원분들도 모두 친절하셨고 설명도 잘 해주시더라구요ㅎㅎ
+                  - listitem [ref=e334]:
+                    - generic [ref=e335]:
+                      - button "돈돈 용전점일식당" [ref=e337] [cursor=pointer]:
+                        - text: 돈돈 용전점
+                        - text: 일식당
+                      - button "일본식규카츠맛집 계란후라이무료" [ref=e339] [cursor=pointer]
+                      - generic [ref=e340]:
+                        - button "브레이크타임 리뷰 4,045 신선한 재료로 만든 정갈한 가정식" [ref=e341] [cursor=pointer]:
+                          - text: 브레이크타임
+                          - generic [ref=e342]: 리뷰 4,045
+                          - text: 신선한 재료로 만든 정갈한 가정식
+                        - button "광고" [ref=e343] [cursor=pointer]:
+                          - generic [ref=e344]: 광고
+                          - img [ref=e345]
+                      - button "저장" [ref=e349] [cursor=pointer]:
+                        - img [ref=e350]
+                        - generic [ref=e353]: 저장
+                    - generic [ref=e354]:
+                      - generic [ref=e357]:
+                        - button "돈돈 용전점" [ref=e359] [cursor=pointer]:
+                          - img "돈돈 용전점" [ref=e360]
+                        - button "돈돈 용전점" [ref=e362] [cursor=pointer]:
+                          - img "돈돈 용전점" [ref=e363]
+                        - button "돈돈 용전점" [ref=e365] [cursor=pointer]:
+                          - img "돈돈 용전점" [ref=e366]
+                        - button "돈돈 용전점" [ref=e368] [cursor=pointer]:
+                          - img "돈돈 용전점" [ref=e369]
+                        - button "돈돈 용전점" [ref=e371] [cursor=pointer]:
+                          - img "돈돈 용전점" [ref=e372]
+                        - button "돈돈 용전점" [ref=e374] [cursor=pointer]:
+                          - img "돈돈 용전점" [ref=e375]
+                        - button "더보기" [ref=e376] [cursor=pointer]:
+                          - img [ref=e378]
+                          - text: 더보기
+                      - generic:
+                        - img
+                        - generic: 플레이스 플러스
+                    - generic [ref=e383]:
+                      - button "주간 인기 많은 메뉴 규카츠정식/부채살(160g), 스키야키 정식, 치즈 돈가스 정식, 큐브 스테이크 정식, 규카츠정식/부채살(240g)" [ref=e385] [cursor=pointer]:
+                        - strong [ref=e386]: 주간 인기 많은 메뉴
+                        - generic [ref=e387]: 규카츠정식/부채살(160g), 스키야키 정식, 치즈 돈가스 정식, 큐브 스테이크 정식, 규카츠정식/부채살(240g)
+                      - button "생선구이 먹고 싶어서 방문 했지만 품절이라 돈까스랑 스테이크 먹었는데 넘 맛있게 먹고 갑니다ㅎㅎ" [ref=e389] [cursor=pointer]:
+                        - generic [ref=e391]: 생선구이 먹고 싶어서 방문 했지만 품절이라 돈까스랑 스테이크 먹었는데 넘 맛있게 먹고 갑니다ㅎㅎ
+                      - button "돈돈에에서 규카츠랑 스키야키 정식 먹고 왔는데 정말 만족스러웠어요!" [ref=e393] [cursor=pointer]:
+                        - generic [ref=e395]: 돈돈에에서 규카츠랑 스키야키 정식 먹고 왔는데 정말 만족스러웠어요!
+                      - button "음식이 너무 맛있어요^^ 계란후라이도 해먹을수있고 좋아요^^ 큐브 스테이코, 치즈돈까스 추천해요^^" [ref=e397] [cursor=pointer]:
+                        - generic [ref=e399]: 음식이 너무 맛있어요^^ 계란후라이도 해먹을수있고 좋아요^^ 큐브 스테이코, 치즈돈까스 추천해요^^
+                  - listitem [ref=e400]:
+                    - generic [ref=e401]:
+                      - button "용가회전훠궈 대전점 쿠폰 중식당" [ref=e403] [cursor=pointer]:
+                        - text: 용가회전훠궈 대전점
+                        - generic [ref=e405]:
+                          - generic [ref=e406]: 쿠폰
+                          - img [ref=e407]
+                        - text: 중식당
+                      - button "리뷰 작성하고 새우완자 받기 쿠폰" [ref=e411] [cursor=pointer]
+                      - button "영업 중 리뷰 1,149 꿔바로우와 함께하는 행복한 한 끼" [ref=e413] [cursor=pointer]:
+                        - text: 영업 중
+                        - generic [ref=e414]: 리뷰 1,149
+                        - text: 꿔바로우와 함께하는 행복한 한 끼
+                      - button "저장" [ref=e415] [cursor=pointer]:
+                        - img [ref=e416]
+                        - generic [ref=e419]: 저장
+                    - generic [ref=e423]:
+                      - button "용가회전훠궈 대전점" [ref=e425] [cursor=pointer]:
+                        - img "용가회전훠궈 대전점" [ref=e426]
+                      - button "용가회전훠궈 대전점" [ref=e428] [cursor=pointer]:
+                        - img "용가회전훠궈 대전점" [ref=e429]
+                      - button "용가회전훠궈 대전점 gus****" [ref=e431] [cursor=pointer]:
+                        - img "용가회전훠궈 대전점" [ref=e432]
+                        - generic [ref=e435]: gus****
+                      - button "용가회전훠궈 대전점 sean041104" [ref=e437] [cursor=pointer]:
+                        - img "용가회전훠궈 대전점" [ref=e438]
+                        - generic [ref=e441]: sean041104
+                      - button "용가회전훠궈 대전점 참치9238" [ref=e443] [cursor=pointer]:
+                        - img "용가회전훠궈 대전점" [ref=e444]
+                        - generic [ref=e447]: 참치9238
+                      - button "용가회전훠궈 대전점 xaradise" [ref=e449] [cursor=pointer]:
+                        - img "용가회전훠궈 대전점" [ref=e450]
+                        - generic [ref=e453]: xaradise
+                      - button "용가회전훠궈 대전점 김타원" [ref=e455] [cursor=pointer]:
+                        - img "용가회전훠궈 대전점" [ref=e456]
+                        - generic [ref=e459]: 김타원
+                      - button "더보기" [ref=e460] [cursor=pointer]:
+                        - img [ref=e462]
+                        - text: 더보기
+                    - generic [ref=e467]:
+                      - button "넣을 수 있는 재료가 진짜 많고 샹궈랑 오리고기 꿔바로우 사이드 미쳤습니다 꼭 드세요" [ref=e469] [cursor=pointer]:
+                        - generic [ref=e471]: 넣을 수 있는 재료가 진짜 많고 샹궈랑 오리고기 꿔바로우 사이드 미쳤습니다 꼭 드세요
+                      - button "용가훠궈 생겼다는 말 듣고 왔어요! 종류도 다양하고 신선해서 마음에 들어요 꿔바로우도 바삭쫀득해서 맛있구요" [ref=e473] [cursor=pointer]:
+                        - generic [ref=e475]: 용가훠궈 생겼다는 말 듣고 왔어요! 종류도 다양하고 신선해서 마음에 들어요 꿔바로우도 바삭쫀득해서 맛있구요
+                      - button "1인식회전훠궈 원조 용가훠궈 역시 원조는 못따라가나봐요" [ref=e477] [cursor=pointer]:
+                        - generic [ref=e479]: 1인식회전훠궈 원조 용가훠궈 역시 원조는 못따라가나봐요
+                  - listitem [ref=e480]:
+                    - generic [ref=e481]:
+                      - button "파시 대전본점 네이버페이 예약 주문 톡톡 쿠폰 초밥,롤" [ref=e483] [cursor=pointer]:
+                        - text: 파시 대전본점
+                        - generic [ref=e484]:
+                          - generic [ref=e485]:
+                            - generic [ref=e486]: 네이버페이
+                            - img [ref=e487]
+                          - generic [ref=e490]:
+                            - img [ref=e491]
+                            - generic [ref=e494]: 예약
+                          - generic [ref=e495]:
+                            - generic [ref=e496]: 주문
+                            - img [ref=e497]
+                          - generic [ref=e500]:
+                            - generic [ref=e501]: 톡톡
+                            - img [ref=e502]
+                          - generic [ref=e505]:
+                            - generic [ref=e506]: 쿠폰
+                            - img [ref=e507]
+                        - text: 초밥,롤
+                      - button "눈,비오는날 방문시 우동무료 쿠폰 외" [ref=e511] [cursor=pointer]
+                      - button "영업 중 리뷰 5,109 대전 대표 초밥 맛집 파시의 매력" [ref=e513] [cursor=pointer]:
+                        - text: 영업 중
+                        - generic [ref=e514]: 리뷰 5,109
+                        - text: 대전 대표 초밥 맛집 파시의 매력
+                      - button "저장" [ref=e515] [cursor=pointer]:
+                        - img [ref=e516]
+                        - generic [ref=e519]: 저장
+                    - generic [ref=e520]:
+                      - generic [ref=e523]:
+                        - button "파시 대전본점" [ref=e525] [cursor=pointer]:
+                          - img "파시 대전본점" [ref=e526]
+                        - button "파시 대전본점" [ref=e528] [cursor=pointer]:
+                          - img "파시 대전본점" [ref=e529]
+                        - button "파시 대전본점 인기 프리미엄 스시(12pcs) 26,500원" [ref=e531] [cursor=pointer]:
+                          - img "파시 대전본점" [ref=e532]
+                          - generic [ref=e533]:
+                            - generic [ref=e534]:
+                              - img [ref=e535]
+                              - generic [ref=e537]: 인기
+                            - generic [ref=e538]: 프리미엄 스시(12pcs)
+                            - generic [ref=e539]: 26,500원
+                        - button "파시 대전본점 인기 근본 스시(10pcs) 18,500원" [ref=e541] [cursor=pointer]:
+                          - img "파시 대전본점" [ref=e542]
+                          - generic [ref=e543]:
+                            - generic [ref=e544]:
+                              - img [ref=e545]
+                              - generic [ref=e547]: 인기
+                            - generic [ref=e548]: 근본 스시(10pcs)
+                            - generic [ref=e549]: 18,500원
+                        - button "파시 대전본점 해원칭" [ref=e551] [cursor=pointer]:
+                          - img "파시 대전본점" [ref=e552]
+                          - generic [ref=e555]: 해원칭
+                        - button "파시 대전본점 호이호이야잇" [ref=e557] [cursor=pointer]:
+                          - img "파시 대전본점" [ref=e558]
+                          - generic [ref=e561]: 호이호이야잇
+                        - button "파시 대전본점 d00****" [ref=e563] [cursor=pointer]:
+                          - img "파시 대전본점" [ref=e564]
+                          - generic [ref=e567]: d00****
+                        - button "더보기" [ref=e568] [cursor=pointer]:
+                          - img [ref=e570]
+                          - text: 더보기
+                      - generic:
+                        - img
+                        - generic: 플레이스 플러스
+                    - generic [ref=e575]:
+                      - button "주간 인기 많은 메뉴 프리미엄스시(12p), 파시스시(10p), 근본스시(10p), ★파시카세(13pcs), 냉소바" [ref=e577] [cursor=pointer]:
+                        - strong [ref=e578]: 주간 인기 많은 메뉴
+                        - generic [ref=e579]: 프리미엄스시(12p), 파시스시(10p), 근본스시(10p), ★파시카세(13pcs), 냉소바
+                      - button "봉명동 맛집 입니다. 초밥이 맛있고 장어 덮밥도 정말 맛있어요." [ref=e581] [cursor=pointer]:
+                        - generic [ref=e583]: 봉명동 맛집 입니다. 초밥이 맛있고 장어 덮밥도 정말 맛있어요.
+                      - button "소바가 먹고싶어시 오게된 파시 미리 웨이팅 걸고 와서 긴 기다림없이 들어왔구여 소바도 맛나요" [ref=e585] [cursor=pointer]:
+                        - generic [ref=e587]: 소바가 먹고싶어시 오게된 파시 미리 웨이팅 걸고 와서 긴 기다림없이 들어왔구여 소바도 맛나요
+                      - button "여자친구가 너무 맛있었어서 한번더 오자했던 초밥집! 단새우초밥까지 완벽" [ref=e589] [cursor=pointer]:
+                        - generic [ref=e591]: 여자친구가 너무 맛있었어서 한번더 오자했던 초밥집! 단새우초밥까지 완벽
+                  - listitem [ref=e592]:
+                    - generic [ref=e593]:
+                      - button "국제통닭 대전봉명점 톡톡 쿠폰 치킨,닭강정" [ref=e595] [cursor=pointer]:
+                        - text: 국제통닭 대전봉명점
+                        - generic [ref=e596]:
+                          - generic [ref=e597]:
+                            - generic [ref=e598]: 톡톡
+                            - img [ref=e599]
+                          - generic [ref=e602]:
+                            - generic [ref=e603]: 쿠폰
+                            - img [ref=e604]
+                        - text: 치킨,닭강정
+                      - button "[선착순]음료100%무료! 쿠폰" [ref=e608] [cursor=pointer]
+                      - button "영업 전 리뷰 1,616 대전 유성구 봉명동" [ref=e610] [cursor=pointer]:
+                        - text: 영업 전
+                        - generic [ref=e611]: 리뷰 1,616
+                        - text: 대전 유성구 봉명동
+                      - button "저장" [ref=e612] [cursor=pointer]:
+                        - img [ref=e613]
+                        - generic [ref=e616]: 저장
+                    - generic [ref=e617]:
+                      - generic [ref=e620]:
+                        - button "국제통닭 대전봉명점" [ref=e622] [cursor=pointer]:
+                          - img "국제통닭 대전봉명점" [ref=e623]
+                        - button "국제통닭 대전봉명점" [ref=e625] [cursor=pointer]:
+                          - img "국제통닭 대전봉명점" [ref=e626]
+                        - button "국제통닭 대전봉명점 이햇살50" [ref=e628] [cursor=pointer]:
+                          - img "국제통닭 대전봉명점" [ref=e629]
+                          - generic [ref=e632]: 이햇살50
+                        - button "국제통닭 대전봉명점 숨은맛집찾기고수" [ref=e634] [cursor=pointer]:
+                          - img "국제통닭 대전봉명점" [ref=e635]
+                          - generic [ref=e638]: 숨은맛집찾기고수
+                        - button "국제통닭 대전봉명점 해말그음" [ref=e640] [cursor=pointer]:
+                          - img "국제통닭 대전봉명점" [ref=e641]
+                          - generic [ref=e644]: 해말그음
+                        - button "국제통닭 대전봉명점 muk****" [ref=e646] [cursor=pointer]:
+                          - img "국제통닭 대전봉명점" [ref=e647]
+                          - generic [ref=e650]: muk****
+                        - button "국제통닭 대전봉명점 먹숭이0221" [ref=e652] [cursor=pointer]:
+                          - img "국제통닭 대전봉명점" [ref=e653]
+                          - generic [ref=e656]: 먹숭이0221
+                        - button "더보기" [ref=e657] [cursor=pointer]:
+                          - img [ref=e659]
+                          - text: 더보기
+                      - generic:
+                        - img
+                        - generic: 플레이스 플러스
+                    - generic [ref=e664]:
+                      - button "주간 인기 많은 메뉴 카스생맥(500ml), 카스생맥(300ml), 야채치킨, 후라이드 반+양념 반, 한강라면(신라면)" [ref=e666] [cursor=pointer]:
+                        - strong [ref=e667]: 주간 인기 많은 메뉴
+                        - generic [ref=e668]: 카스생맥(500ml), 카스생맥(300ml), 야채치킨, 후라이드 반+양념 반, 한강라면(신라면)
+                      - button "대전 치킨 야장하기좋은 곳이에요. 바삭한 야채치킨은 가성비 좋아요!" [ref=e670] [cursor=pointer]:
+                        - generic [ref=e672]: 대전 치킨 야장하기좋은 곳이에요. 바삭한 야채치킨은 가성비 좋아요!
+                      - button "오오 치킨 넘 맛있네요 포차 분위기 때문에 인기있는 거건가 했는데 후라이드랑 양념 다 맛있어요" [ref=e674] [cursor=pointer]:
+                        - generic [ref=e676]: 오오 치킨 넘 맛있네요 포차 분위기 때문에 인기있는 거건가 했는데 후라이드랑 양념 다 맛있어요
+                      - button "유명하다가하길래왔는데 치킨맛있어요 한강라면도굿 서비스로팝콘도주고요 먹다남은음식셀프포장해갈수있어좋아요" [ref=e678] [cursor=pointer]:
+                        - generic [ref=e680]: 유명하다가하길래왔는데 치킨맛있어요 한강라면도굿 서비스로팝콘도주고요 먹다남은음식셀프포장해갈수있어좋아요
+                  - listitem [ref=e681]:
+                    - generic [ref=e682]:
+                      - button "남한강막국수 대전현충원점 예약 톡톡 쿠폰 막국수" [ref=e684] [cursor=pointer]:
+                        - text: 남한강막국수 대전현충원점
+                        - generic [ref=e685]:
+                          - generic [ref=e686]:
+                            - img [ref=e687]
+                            - generic [ref=e690]: 예약
+                          - generic [ref=e691]:
+                            - generic [ref=e692]: 톡톡
+                            - img [ref=e693]
+                          - generic [ref=e696]:
+                            - generic [ref=e697]: 쿠폰
+                            - img [ref=e698]
+                        - text: 막국수
+                      - button "알림받기 하면 네이버 예약시 수제식혜 무료증정 쿠폰" [ref=e702] [cursor=pointer]
+                      - button "브레이크타임 리뷰 3,429 휠체어 출입 가능 고소함 폭발 들기름막국수의 매력" [ref=e704] [cursor=pointer]:
+                        - text: 브레이크타임
+                        - generic [ref=e705]: 리뷰 3,429
+                        - generic [ref=e707]:
+                          - img [ref=e708]
+                          - generic [ref=e710]: 휠체어 출입 가능
+                        - text: 고소함 폭발 들기름막국수의 매력
+                      - button "저장" [ref=e711] [cursor=pointer]:
+                        - img [ref=e712]
+                        - generic [ref=e715]: 저장
+                    - generic [ref=e716]:
+                      - generic [ref=e719]:
+                        - button "남한강막국수 대전현충원점" [ref=e721] [cursor=pointer]:
+                          - img "남한강막국수 대전현충원점" [ref=e722]
+                        - button "남한강막국수 대전현충원점" [ref=e724] [cursor=pointer]:
+                          - img "남한강막국수 대전현충원점" [ref=e725]
+                        - button "남한강막국수 대전현충원점 kig4531" [ref=e727] [cursor=pointer]:
+                          - img "남한강막국수 대전현충원점" [ref=e728]
+                          - generic [ref=e731]: kig4531
+                        - button "남한강막국수 대전현충원점 카멜5" [ref=e733] [cursor=pointer]:
+                          - img "남한강막국수 대전현충원점" [ref=e734]
+                          - generic [ref=e737]: 카멜5
+                        - button "남한강막국수 대전현충원점 Mellinda" [ref=e739] [cursor=pointer]:
+                          - img "남한강막국수 대전현충원점" [ref=e740]
+                          - generic [ref=e743]: Mellinda
+                        - button "남한강막국수 대전현충원점 kdw****" [ref=e745] [cursor=pointer]:
+                          - img "남한강막국수 대전현충원점" [ref=e746]
+                          - generic [ref=e749]: kdw****
+                        - button "남한강막국수 대전현충원점 min****" [ref=e751] [cursor=pointer]:
+                          - img "남한강막국수 대전현충원점" [ref=e752]
+                          - generic [ref=e755]: min****
+                        - button "더보기" [ref=e756] [cursor=pointer]:
+                          - img [ref=e758]
+                          - text: 더보기
+                      - generic:
+                        - img
+                        - generic: 플레이스 플러스
+                    - generic [ref=e763]:
+                      - button "주간 인기 많은 메뉴 물 막국수, 비빔막국수, 흑임자 들기름막국수, 명태회막국수, 부추송송메밀전" [ref=e765] [cursor=pointer]:
+                        - strong [ref=e766]: 주간 인기 많은 메뉴
+                        - generic [ref=e767]: 물 막국수, 비빔막국수, 흑임자 들기름막국수, 명태회막국수, 부추송송메밀전
+                      - button "대전 남한강막국수에서 부추전, 수육, 물막국수, 비빔막국수, 명태회막국수까지 다양하게 먹고 왔습니다." [ref=e769] [cursor=pointer]:
+                        - generic [ref=e771]: 대전 남한강막국수에서 부추전, 수육, 물막국수, 비빔막국수, 명태회막국수까지 다양하게 먹고 왔습니다.
+                      - button "대전 남한강막국수에서 부추전, 수육, 물막국수, 비빔막국수, 명태회막국수 먹고 왔습니다." [ref=e773] [cursor=pointer]:
+                        - generic [ref=e775]: 대전 남한강막국수에서 부추전, 수육, 물막국수, 비빔막국수, 명태회막국수 먹고 왔습니다.
+                      - button "막국수랑, 들기름 막국수 그리고 수육으로 식사 했습니다. 점심시간이 조금 지나 손님이 많지" [ref=e777] [cursor=pointer]:
+                        - generic [ref=e779]: 막국수랑, 들기름 막국수 그리고 수육으로 식사 했습니다. 점심시간이 조금 지나 손님이 많지
+                  - listitem [ref=e780]:
+                    - generic [ref=e781]:
+                      - button "플레이트 둔산점 예약 톡톡 쿠폰 양식" [ref=e783] [cursor=pointer]:
+                        - text: 플레이트 둔산점
+                        - generic [ref=e784]:
+                          - generic [ref=e785]:
+                            - img [ref=e786]
+                            - generic [ref=e789]: 예약
+                          - generic [ref=e790]:
+                            - generic [ref=e791]: 톡톡
+                            - img [ref=e792]
+                          - generic [ref=e795]:
+                            - generic [ref=e796]: 쿠폰
+                            - img [ref=e797]
+                        - text: 양식
+                      - button "알림받기 하면 영수증리뷰시 트러플아이스크림 쿠폰" [ref=e801] [cursor=pointer]
+                      - button "새로오픈 영업 중 리뷰 187 휠체어 출입 가능 대전의 명성 그대로 둔산점 오픈" [ref=e803] [cursor=pointer]:
+                        - text: 새로오픈 영업 중
+                        - generic [ref=e804]: 리뷰 187
+                        - generic [ref=e806]:
+                          - img [ref=e807]
+                          - generic [ref=e809]: 휠체어 출입 가능
+                        - text: 대전의 명성 그대로 둔산점 오픈
+                      - button "저장" [ref=e810] [cursor=pointer]:
+                        - img [ref=e811]
+                        - generic [ref=e814]: 저장
+                    - generic [ref=e815]:
+                      - generic [ref=e818]:
+                        - button "플레이트 둔산점" [ref=e820] [cursor=pointer]:
+                          - img "플레이트 둔산점" [ref=e821]
+                        - button "플레이트 둔산점" [ref=e823] [cursor=pointer]:
+                          - img "플레이트 둔산점" [ref=e824]
+                        - button "플레이트 둔산점 김수정6593" [ref=e826] [cursor=pointer]:
+                          - img "플레이트 둔산점" [ref=e827]
+                          - generic [ref=e830]: 김수정6593
+                        - button "플레이트 둔산점 KC38" [ref=e832] [cursor=pointer]:
+                          - img "플레이트 둔산점" [ref=e833]
+                          - generic [ref=e836]: KC38
+                        - button "플레이트 둔산점 맛강이" [ref=e838] [cursor=pointer]:
+                          - img "플레이트 둔산점" [ref=e839]
+                          - generic [ref=e842]: 맛강이
+                        - button "플레이트 둔산점 memories1004" [ref=e844] [cursor=pointer]:
+                          - img "플레이트 둔산점" [ref=e845]
+                          - generic [ref=e848]: memories1004
+                        - button "플레이트 둔산점 n5****" [ref=e850] [cursor=pointer]:
+                          - img "플레이트 둔산점" [ref=e851]
+                          - generic [ref=e854]: n5****
+                        - button "더보기" [ref=e855] [cursor=pointer]:
+                          - img [ref=e857]
+                          - text: 더보기
+                      - generic:
+                        - img
+                        - generic: 플레이스 플러스
+                    - generic [ref=e862]:
+                      - button "주간 인기 많은 메뉴 파스타+샐러드+빵+스프, 파스타+스테이크+샐러드+빵+스프2, 직화찹스테이크피자, 비프체다피자, 스테이크 크림라구" [ref=e864] [cursor=pointer]:
+                        - strong [ref=e865]: 주간 인기 많은 메뉴
+                        - generic [ref=e866]: 파스타+샐러드+빵+스프, 파스타+스테이크+샐러드+빵+스프2, 직화찹스테이크피자, 비프체다피자, 스테이크 크림라구
+                      - button "랍스터 파스타, 안심스테이크 먹었는데요 너무 맛있었어요 둔산점 오픈한 지 얼마 안된 것 같았어요" [ref=e868] [cursor=pointer]:
+                        - generic [ref=e870]: 랍스터 파스타, 안심스테이크 먹었는데요 너무 맛있었어요 둔산점 오픈한 지 얼마 안된 것 같았어요
+                      - button "가성비 대 파스타 레스토랑 같아요. 스프와 식전빵은 깜박 사진 못 찍었어요. 식전빵 담백하니 맛있었어요." [ref=e872] [cursor=pointer]:
+                        - generic [ref=e874]: 가성비 대 파스타 레스토랑 같아요. 스프와 식전빵은 깜박 사진 못 찍었어요. 식전빵 담백하니 맛있었어요.
+                      - button "엄마랑 영화보구 점심 먹을 곳 찾다가 분위기 좋은 곳 생겨서 왔는데 너무 만족했어요 ㅎㅎ" [ref=e876] [cursor=pointer]:
+                        - generic [ref=e878]: 엄마랑 영화보구 점심 먹을 곳 찾다가 분위기 좋은 곳 생겨서 왔는데 너무 만족했어요 ㅎㅎ
+                - generic [ref=e879]:
+                  - button "이전" [disabled] [ref=e880]:
+                    - generic [ref=e881]: 이전
+                  - generic [ref=e882]:
+                    - generic [ref=e883]: 현재
+                    - strong [ref=e884]: "1"
+                    - generic [ref=e885]: 전체
+                    - text: "5"
+                  - button "다음" [ref=e886] [cursor=pointer]:
+                    - generic [ref=e887]: 다음
+              - button "대전 맛집 더보기" [ref=e889] [cursor=pointer]:
+                - generic [ref=e890]: 대전 맛집 더보기
+          - generic [ref=e892]:
+            - img [ref=e893]
+            - generic [ref=e896]:
+              - generic [ref=e897]:
+                - heading "새로 오픈했어요" [level=2] [ref=e899]
+                - button "내 업체 등록하기" [ref=e901] [cursor=pointer]
+              - generic [ref=e904]:
+                - list [ref=e906]:
+                  - listitem [ref=e907]:
+                    - button [ref=e909] [cursor=pointer]
+                    - generic [ref=e910]:
+                      - button "와인딩 데이트하기좋은 맛있는 레스토랑 양식 대전 서구 둔산동" [ref=e911] [cursor=pointer]:
+                        - generic [ref=e913]: 와인딩
+                        - generic [ref=e914]: 데이트하기좋은 맛있는 레스토랑
+                        - generic [ref=e915]: 양식 대전 서구 둔산동
+                      - button "광고" [ref=e917] [cursor=pointer]:
+                        - generic [ref=e918]: 광고
+                        - img [ref=e919]
+                  - listitem [ref=e923]:
+                    - button [ref=e925] [cursor=pointer]
+                    - button "플레이트 둔산점 양식 대전 서구 둔산동" [ref=e927] [cursor=pointer]:
+                      - generic [ref=e929]: 플레이트 둔산점
+                      - generic [ref=e930]: 양식 대전 서구 둔산동
+                  - listitem [ref=e931]:
+                    - button [ref=e933] [cursor=pointer]
+                    - button "파시 대전대흥점 일식당 대전 중구 대흥동" [ref=e935] [cursor=pointer]:
+                      - generic [ref=e937]: 파시 대전대흥점
+                      - generic [ref=e938]: 일식당 대전 중구 대흥동
+                  - listitem [ref=e939]:
+                    - button [ref=e941] [cursor=pointer]
+                    - button "알바노어반 이탈리아음식 대전 서구 둔산동" [ref=e943] [cursor=pointer]:
+                      - generic [ref=e945]: 알바노어반
+                      - generic [ref=e946]: 이탈리아음식 대전 서구 둔산동
+                  - listitem [ref=e947]:
+                    - button [ref=e949] [cursor=pointer]
+                    - generic [ref=e950]:
+                      - button "하나쪽갈비 술이 술술 들어가는 쪽갈비맛집 육류,고기요리 대전 유성구 상대동" [ref=e951] [cursor=pointer]:
+                        - generic [ref=e953]: 하나쪽갈비
+                        - generic [ref=e954]: 술이 술술 들어가는 쪽갈비맛집
+                        - generic [ref=e955]: 육류,고기요리 대전 유성구 상대동
+                      - button "광고" [ref=e957] [cursor=pointer]:
+                        - generic [ref=e958]: 광고
+                        - img [ref=e959]
+                  - listitem [ref=e963]:
+                    - button [ref=e965] [cursor=pointer]
+                    - button "훠궈먹고 대전대흥점 중식당 대전 중구 대흥동" [ref=e967] [cursor=pointer]:
+                      - generic [ref=e969]: 훠궈먹고 대전대흥점
+                      - generic [ref=e970]: 중식당 대전 중구 대흥동
+                  - listitem [ref=e971]:
+                    - button [ref=e973] [cursor=pointer]
+                    - button "이립 한식 대전 중구 대흥동" [ref=e975] [cursor=pointer]:
+                      - generic [ref=e977]: 이립
+                      - generic [ref=e978]: 한식 대전 중구 대흥동
+                  - listitem [ref=e979]:
+                    - button [ref=e981] [cursor=pointer]
+                    - button "김오조숯불쭈꾸미 육류,고기요리 대전 유성구 봉명동" [ref=e983] [cursor=pointer]:
+                      - generic [ref=e985]: 김오조숯불쭈꾸미
+                      - generic [ref=e986]: 육류,고기요리 대전 유성구 봉명동
+                  - listitem [ref=e987]:
+                    - button [ref=e989] [cursor=pointer]
+                    - generic [ref=e990]:
+                      - button "연탄시대 따뜻한 낭만이 있는 노포맛집 육류,고기요리 대전 서구 괴정동" [ref=e991] [cursor=pointer]:
+                        - generic [ref=e993]: 연탄시대
+                        - generic [ref=e994]: 따뜻한 낭만이 있는 노포맛집
+                        - generic [ref=e995]: 육류,고기요리 대전 서구 괴정동
+                      - button "광고" [ref=e997] [cursor=pointer]:
+                        - generic [ref=e998]: 광고
+                        - img [ref=e999]
+                  - listitem [ref=e1003]:
+                    - button [ref=e1005] [cursor=pointer]
+                    - button "픽베이크 둔산점 베이커리 대전 서구 둔산동" [ref=e1007] [cursor=pointer]:
+                      - generic [ref=e1009]: 픽베이크 둔산점
+                      - generic [ref=e1010]: 베이커리 대전 서구 둔산동
+                  - listitem [ref=e1011]:
+                    - button [ref=e1013] [cursor=pointer]
+                    - button "육화탄 둔산대전시청점 돼지고기구이 대전 서구 둔산동" [ref=e1015] [cursor=pointer]:
+                      - generic [ref=e1017]: 육화탄 둔산대전시청점
+                      - generic [ref=e1018]: 돼지고기구이 대전 서구 둔산동
+                  - listitem [ref=e1019]:
+                    - button [ref=e1021] [cursor=pointer]
+                    - button "1972송은정보리밥 만년점 보리밥 대전 서구 만년동" [ref=e1023] [cursor=pointer]:
+                      - generic [ref=e1025]: 1972송은정보리밥 만년점
+                      - generic [ref=e1026]: 보리밥 대전 서구 만년동
+                  - listitem [ref=e1027]:
+                    - button "더보기" [ref=e1028] [cursor=pointer]:
+                      - img [ref=e1030]
+                      - text: 더보기
+                - button "이전" [disabled] [ref=e2510] [cursor=pointer]:
+                  - img [ref=e2511]
+                  - generic [ref=e2513]: 이전
+                - button "다음" [ref=e2514] [cursor=pointer]:
+                  - img [ref=e2515]
+                  - generic [ref=e2517]: 다음
+          - generic [ref=e1035]:
+            - generic [ref=e1036]:
+              - generic [ref=e1037]:
+                - heading "대전맛집 관련 광고" [level=2] [ref=e1038]:
+                  - generic [ref=e1039]: 대전맛집
+                  - generic [ref=e1040]: 관련 광고
+                - button "이 광고가 표시된 이유" [ref=e1041] [cursor=pointer]:
+                  - generic [ref=e1042]: 이 광고가 표시된 이유
+              - link "등록 안내" [ref=e1044] [cursor=pointer]:
+                - /url: //saedu.naver.com/adbiz/searchad/clickChoice.naver
+            - generic [ref=e1045]:
+              - list [ref=e1046]:
+                - listitem [ref=e1047]:
+                  - generic [ref=e1048]:
+                    - generic [ref=e1049]:
+                      - generic [ref=e1050]:
+                        - link "favicon" [ref=e1051] [cursor=pointer]:
+                          - /url: https://ader.naver.com/v1/9L9XxOyDJL7nkwwotQl49m9cteyzZhjwOOzPXZeZZlF3wx-OXM4Y6ZNocm4dljO-dvgQM8U4wbVGqNZM292VWY1MydPMGWsJLrrDuehJ745Rqq30FvaG-1Mh3ACZXE1QWp0AWei33YsrX1yQpXwug-EUeAodKABP-2TL9qmwE2KP3wHxH32POtYjpdgK7Oq1z71NTPxsiZ7IEgRRc1xJZzoqOSqaBzNDkOfboBTpA1ZJ5xuY_rUAlbW5ILWuKJzO?c=naver.search.pc.plsearch&t=0
+                          - img "favicon" [ref=e1052]
+                        - img "광고" [ref=e1053]:
+                          - img [ref=e1054]
+                        - link "월광박속낙지탕" [ref=e1057] [cursor=pointer]:
+                          - /url: https://ader.naver.com/v1/9L9XxOyDJL7nkwwotQl49m9cteyzZhjwOOzPXZeZZlF3wx-OXM4Y6ZNocm4dljO-dvgQM8U4wbVGqNZM292VWY1MydPMGWsJLrrDuehJ745Rqq30FvaG-1Mh3ACZXE1QWp0AWei33YsrX1yQpXwug-EUeAodKABP-2TL9qmwE2KP3wHxH32POtYjpdgK7Oq1z71NTPxsiZ7IEgRRc1xJZzoqOSqaBzNDkOfboBTpA1ZJ5xuY_rUAlbW5ILWuKJzO?c=naver.search.pc.plsearch&t=0
+                        - link "m.place.naver.com/place" [ref=e1059] [cursor=pointer]:
+                          - /url: https://ader.naver.com/v1/9L9XxOyDJL7nkwwotQl49m9cteyzZhjwOOzPXZeZZlF3wx-OXM4Y6ZNocm4dljO-dvgQM8U4wbVGqNZM292VWY1MydPMGWsJLrrDuehJ745Rqq30FvaG-1Mh3ACZXE1QWp0AWei33YsrX1yQpXwug-EUeAodKABP-2TL9qmwE2KP3wHxH32POtYjpdgK7Oq1z71NTPxsiZ7IEgRRc1xJZzoqOSqaBzNDkOfboBTpA1ZJ5xuY_rUAlbW5ILWuKJzO?c=naver.search.pc.plsearch&t=0
+                      - link "월광박속낙지탕" [ref=e1060] [cursor=pointer]:
+                        - /url: https://ader.naver.com/v1/9L9XxOyDJL7nkwwotQl49m9cteyzZhjwOOzPXZeZZlF3wx-OXM4Y6ZNocm4dljO-dvgQM8U4wbVGqNZM292VWY1MydPMGWsJLrrDuehJ745Rqq30FvaG-1Mh3ACZXE1QWp0AWei33YsrX1yQpXwug-EUeAodKABP-2TL9qmwE2KP3wHxH32POtYjpdgK7Oq1z71NTPxsiZ7IEgRRc1xJZzoqOSqaBzNDkOfboBTpA1ZJ5xuY_rUAlbW5ILWuKJzO?c=naver.search.pc.plsearch&t=0
+                    - link "월평동 단체회식 월광 박속 산낙지탕 착한 가격 보양식 매콤 낙지볶음도 대표메뉴 KBS 생생정보 맛집 소개" [ref=e1063] [cursor=pointer]:
+                      - /url: https://ader.naver.com/v1/9L9XxOyDJL7nkwwotQl49m9cteyzZhjwOOzPXZeZZlF3wx-OXM4Y6ZNocm4dljO-dvgQM8U4wbVGqNZM292VWY1MydPMGWsJLrrDuehJ745Rqq30FvaG-1Mh3ACZXE1QWp0AWei33YsrX1yQpXwug-EUeAodKABP-2TL9qmwE2KP3wHxH32POtYjpdgK7Oq1z71NTPxsiZ7IEgRRc1xJZzoqOSqaBzNDkOfboBTpA1ZJ5xuY_rUAlbW5ILWuKJzO?c=naver.search.pc.plsearch&t=0
+                      - text: 월평동 단체회식 월광 박속 산낙지탕 착한 가격 보양식 매콤 낙지볶음도 대표메뉴 KBS 생생정보
+                      - strong [ref=e1064]: 맛집
+                      - text: 소개
+                    - generic [ref=e1065]:
+                      - generic [ref=e1066]:
+                        - link "플레이스 이미지" [ref=e1067] [cursor=pointer]:
+                          - /url: https://ader.naver.com/v1/9L9XxOyDJL7nkwwotQl49m9cteyzZhjwOOzPXZeZZlHLjxFCDnVbg_86rCQnoQDXo_W44FLGNK9sUJHTSe8OEhpJryhdKvyv7K1H994636ENZOBcUvJNK88hEsdknPsZg0gMBSCH0Hv5hqfh5TzoawWE1B5a-mQ7Vy2FTZyE_33o_jzQprHZJKCq6GIzUEfw2R_4aA_TkFCoFNCa_O0-u99eRpZt7LkrGr9UXscVXMFlgAB5_EBLUH5OhPRpSB2YzxAMYTh5JMMnMOmo3M8XlHE3uh7A-YpmXKK5TUNkcG8RHwTyFoOguW8UHqg710E8?c=naver.search.pc.plsearch&t=0
+                          - img "플레이스 이미지" [ref=e1068]
+                        - link "플레이스 이미지" [ref=e1069] [cursor=pointer]:
+                          - /url: https://ader.naver.com/v1/9L9XxOyDJL7nkwwotQl49m9cteyzZhjwOOzPXZeZZlHLjxFCDnVbg_86rCQnoQDXo_W44FLGNK9sUJHTSe8OEhpJryhdKvyv7K1H994636ENZOBcUvJNK88hEsdknPsZg0gMBSCH0Hv5hqfh5TzoawWE1B5a-mQ7Vy2FTZyE_33o_jzQprHZJKCq6GIzUEfw2R_4aA_TkFCoFNCa_O0-u99eRpZt7LkrGr9UXscVXMFlgAB5_EBLUH5OhPRpSB2YzxAMYTh5JMMnMOmo3M8XlHE3uh7A-YpmXKK5TUNkcG8RHwTyFoOguW8UHqg710E8?c=naver.search.pc.plsearch&t=0
+                          - img "플레이스 이미지" [ref=e1070]
+                        - link "플레이스 이미지" [ref=e1071] [cursor=pointer]:
+                          - /url: https://ader.naver.com/v1/9L9XxOyDJL7nkwwotQl49m9cteyzZhjwOOzPXZeZZlHLjxFCDnVbg_86rCQnoQDXo_W44FLGNK9sUJHTSe8OEhpJryhdKvyv7K1H994636ENZOBcUvJNK88hEsdknPsZg0gMBSCH0Hv5hqfh5TzoawWE1B5a-mQ7Vy2FTZyE_33o_jzQprHZJKCq6GIzUEfw2R_4aA_TkFCoFNCa_O0-u99eRpZt7LkrGr9UXscVXMFlgAB5_EBLUH5OhPRpSB2YzxAMYTh5JMMnMOmo3M8XlHE3uh7A-YpmXKK5TUNkcG8RHwTyFoOguW8UHqg710E8?c=naver.search.pc.plsearch&t=0
+                          - img "플레이스 이미지" [ref=e1072]
+                        - link "플레이스 이미지" [ref=e1073] [cursor=pointer]:
+                          - /url: https://ader.naver.com/v1/9L9XxOyDJL7nkwwotQl49m9cteyzZhjwOOzPXZeZZlHLjxFCDnVbg_86rCQnoQDXo_W44FLGNK9sUJHTSe8OEhpJryhdKvyv7K1H994636ENZOBcUvJNK88hEsdknPsZg0gMBSCH0Hv5hqfh5TzoawWE1B5a-mQ7Vy2FTZyE_33o_jzQprHZJKCq6GIzUEfw2R_4aA_TkFCoFNCa_O0-u99eRpZt7LkrGr9UXscVXMFlgAB5_EBLUH5OhPRpSB2YzxAMYTh5JMMnMOmo3M8XlHE3uh7A-YpmXKK5TUNkcG8RHwTyFoOguW8UHqg710E8?c=naver.search.pc.plsearch&t=0
+                          - img "플레이스 이미지" [ref=e1074]
+                        - link "플레이스 이미지" [ref=e1075] [cursor=pointer]:
+                          - /url: https://ader.naver.com/v1/9L9XxOyDJL7nkwwotQl49m9cteyzZhjwOOzPXZeZZlHLjxFCDnVbg_86rCQnoQDXo_W44FLGNK9sUJHTSe8OEhpJryhdKvyv7K1H994636ENZOBcUvJNK88hEsdknPsZg0gMBSCH0Hv5hqfh5TzoawWE1B5a-mQ7Vy2FTZyE_33o_jzQprHZJKCq6GIzUEfw2R_4aA_TkFCoFNCa_O0-u99eRpZt7LkrGr9UXscVXMFlgAB5_EBLUH5OhPRpSB2YzxAMYTh5JMMnMOmo3M8XlHE3uh7A-YpmXKK5TUNkcG8RHwTyFoOguW8UHqg710E8?c=naver.search.pc.plsearch&t=0
+                          - img "플레이스 이미지" [ref=e1076]
+                        - link "플레이스 이미지" [ref=e1077] [cursor=pointer]:
+                          - /url: https://ader.naver.com/v1/9L9XxOyDJL7nkwwotQl49m9cteyzZhjwOOzPXZeZZlHLjxFCDnVbg_86rCQnoQDXo_W44FLGNK9sUJHTSe8OEhpJryhdKvyv7K1H994636ENZOBcUvJNK88hEsdknPsZg0gMBSCH0Hv5hqfh5TzoawWE1B5a-mQ7Vy2FTZyE_33o_jzQprHZJKCq6GIzUEfw2R_4aA_TkFCoFNCa_O0-u99eRpZt7LkrGr9UXscVXMFlgAB5_EBLUH5OhPRpSB2YzxAMYTh5JMMnMOmo3M8XlHE3uh7A-YpmXKK5TUNkcG8RHwTyFoOguW8UHqg710E8?c=naver.search.pc.plsearch&t=0
+                          - img "플레이스 이미지" [ref=e1078]
+                        - link "플레이스 이미지" [ref=e1079] [cursor=pointer]:
+                          - /url: https://ader.naver.com/v1/9L9XxOyDJL7nkwwotQl49m9cteyzZhjwOOzPXZeZZlHLjxFCDnVbg_86rCQnoQDXo_W44FLGNK9sUJHTSe8OEhpJryhdKvyv7K1H994636ENZOBcUvJNK88hEsdknPsZg0gMBSCH0Hv5hqfh5TzoawWE1B5a-mQ7Vy2FTZyE_33o_jzQprHZJKCq6GIzUEfw2R_4aA_TkFCoFNCa_O0-u99eRpZt7LkrGr9UXscVXMFlgAB5_EBLUH5OhPRpSB2YzxAMYTh5JMMnMOmo3M8XlHE3uh7A-YpmXKK5TUNkcG8RHwTyFoOguW8UHqg710E8?c=naver.search.pc.plsearch&t=0
+                          - img "플레이스 이미지" [ref=e1080]
+                        - link "플레이스 이미지" [ref=e1081] [cursor=pointer]:
+                          - /url: https://ader.naver.com/v1/9L9XxOyDJL7nkwwotQl49m9cteyzZhjwOOzPXZeZZlHLjxFCDnVbg_86rCQnoQDXo_W44FLGNK9sUJHTSe8OEhpJryhdKvyv7K1H994636ENZOBcUvJNK88hEsdknPsZg0gMBSCH0Hv5hqfh5TzoawWE1B5a-mQ7Vy2FTZyE_33o_jzQprHZJKCq6GIzUEfw2R_4aA_TkFCoFNCa_O0-u99eRpZt7LkrGr9UXscVXMFlgAB5_EBLUH5OhPRpSB2YzxAMYTh5JMMnMOmo3M8XlHE3uh7A-YpmXKK5TUNkcG8RHwTyFoOguW8UHqg710E8?c=naver.search.pc.plsearch&t=0
+                          - img "플레이스 이미지" [ref=e1082]
+                      - button "다음으로 이동" [ref=e1084] [cursor=pointer]:
+                        - generic [ref=e1085]: 다음으로 이동
+                    - link "낙지볶음 마라 박속낙지탕 낙지탕 탕탕이 방문자리뷰 1,684 1~2만원 (1인)" [ref=e1086] [cursor=pointer]:
+                      - /url: https://ader.naver.com/v1/9L9XxOyDJL7nkwwotQl49m9cteyzZhjwOOzPXZeZZlHLjxFCDnVbg_86rCQnoQDXo_W44FLGNK9sUJHTSe8OEhpJryhdKvyv7K1H994636ENZOBcUvJNK88hEsdknPsZg0gMBSCH0Hv5hqfh5TzoawWE1B5a-mQ7Vy2FTZyE_33o_jzQprHZJKCq6GIzUEfw2R_4aA_TkFCoFNCa_O0-u99eRpZt7LkrGr9UXscVXMFlgAB5_EBLUH5OhPRpSB2YzxAMYTh5JMMnMOmo3M8XlHE3uh7A-YpmXKK5TUNkcG8RHwTyFoOguW8UHqg710E8?c=naver.search.pc.plsearch&t=0
+                      - generic [ref=e1087]:
+                        - generic [ref=e1088]: 낙지볶음
+                        - generic [ref=e1089]: 마라
+                        - generic [ref=e1090]: 박속낙지탕
+                        - generic [ref=e1091]: 낙지탕
+                        - generic [ref=e1092]: 탕탕이
+                      - generic [ref=e1093]: 방문자리뷰 1,684 1~2만원 (1인)
+                - listitem [ref=e1094]:
+                  - generic [ref=e1095]:
+                    - generic [ref=e1096]:
+                      - generic [ref=e1097]:
+                        - link "favicon" [ref=e1098] [cursor=pointer]:
+                          - /url: https://ader.naver.com/v1/9L9XxOyDJL7nkwwotQl49m9cteyzZhjwOOzPXZeZZlGqBkDTbiRontKAfZtqg3Ma5HVJ-QXD05V6F56PLHLqooePfSjL4T-iGpX90dbRZQDl2Rm2rJ8rCrd6Vu87jQQcRrNDZA0hfXSofKEAaCibFmEut24zUxUiCH_LYstQxMMgrI5E-eezwyuTbFXADm03fk6Ukkx8bfyBIK_ghjaoDtn1wxBo-stc5sA105RCrjbLpw_CO-AilOVSjbxlNMt6?c=naver.search.pc.plsearch&t=0
+                          - img "favicon" [ref=e1099]
+                        - img "광고" [ref=e1100]:
+                          - img [ref=e1101]
+                        - link "부산갈매기대전봉명" [ref=e1104] [cursor=pointer]:
+                          - /url: https://ader.naver.com/v1/9L9XxOyDJL7nkwwotQl49m9cteyzZhjwOOzPXZeZZlGqBkDTbiRontKAfZtqg3Ma5HVJ-QXD05V6F56PLHLqooePfSjL4T-iGpX90dbRZQDl2Rm2rJ8rCrd6Vu87jQQcRrNDZA0hfXSofKEAaCibFmEut24zUxUiCH_LYstQxMMgrI5E-eezwyuTbFXADm03fk6Ukkx8bfyBIK_ghjaoDtn1wxBo-stc5sA105RCrjbLpw_CO-AilOVSjbxlNMt6?c=naver.search.pc.plsearch&t=0
+                        - link "map.naver.com/p" [ref=e1106] [cursor=pointer]:
+                          - /url: https://ader.naver.com/v1/9L9XxOyDJL7nkwwotQl49m9cteyzZhjwOOzPXZeZZlGqBkDTbiRontKAfZtqg3Ma5HVJ-QXD05V6F56PLHLqooePfSjL4T-iGpX90dbRZQDl2Rm2rJ8rCrd6Vu87jQQcRrNDZA0hfXSofKEAaCibFmEut24zUxUiCH_LYstQxMMgrI5E-eezwyuTbFXADm03fk6Ukkx8bfyBIK_ghjaoDtn1wxBo-stc5sA105RCrjbLpw_CO-AilOVSjbxlNMt6?c=naver.search.pc.plsearch&t=0
+                      - link "대전맛집 갓성비 고깃집 양,맛 모두 갖춘 고기 맛집" [ref=e1107] [cursor=pointer]:
+                        - /url: https://ader.naver.com/v1/9L9XxOyDJL7nkwwotQl49m9cteyzZhjwOOzPXZeZZlGqBkDTbiRontKAfZtqg3Ma5HVJ-QXD05V6F56PLHLqooePfSjL4T-iGpX90dbRZQDl2Rm2rJ8rCrd6Vu87jQQcRrNDZA0hfXSofKEAaCibFmEut24zUxUiCH_LYstQxMMgrI5E-eezwyuTbFXADm03fk6Ukkx8bfyBIK_ghjaoDtn1wxBo-stc5sA105RCrjbLpw_CO-AilOVSjbxlNMt6?c=naver.search.pc.plsearch&t=0
+                        - generic [ref=e1108]:
+                          - strong [ref=e1109]: 대전맛집
+                          - text: 갓성비 고깃집
+                        - generic [ref=e1110]:
+                          - text: 양,맛 모두 갖춘 고기
+                          - strong [ref=e1111]: 맛집
+                    - link "고기 1인분에 4,900원? 사이드가 1,900원부터! 저렴한 고기 맛집 양도 풍부한데 맛도 있는 찬,소스가 다양한 맛도리 고깃집! 한번 방문하면 단골등극" [ref=e1114] [cursor=pointer]:
+                      - /url: https://ader.naver.com/v1/9L9XxOyDJL7nkwwotQl49m9cteyzZhjwOOzPXZeZZlGqBkDTbiRontKAfZtqg3Ma5HVJ-QXD05V6F56PLHLqooePfSjL4T-iGpX90dbRZQDl2Rm2rJ8rCrd6Vu87jQQcRrNDZA0hfXSofKEAaCibFmEut24zUxUiCH_LYstQxMMgrI5E-eezwyuTbFXADm03fk6Ukkx8bfyBIK_ghjaoDtn1wxBo-stc5sA105RCrjbLpw_CO-AilOVSjbxlNMt6?c=naver.search.pc.plsearch&t=0
+                      - text: 고기 1인분에 4,900원? 사이드가 1,900원부터! 저렴한 고기
+                      - strong [ref=e1115]: 맛집
+                      - text: 양도 풍부한데 맛도 있는 찬,소스가 다양한 맛도리 고깃집! 한번 방문하면 단골등극
+                    - generic [ref=e1116]:
+                      - generic [ref=e1117]:
+                        - link "플레이스 이미지" [ref=e1118] [cursor=pointer]:
+                          - /url: https://ader.naver.com/v1/9L9XxOyDJL7nkwwotQl49m9cteyzZhjwOOzPXZeZZlHLjxFCDnVbg_86rCQnoQDXo_W44FLGNK9sUJHTSe8OEhpJryhdKvyv7K1H994636Fn5rI5xhG6NeTAk_IXWebEYjS54ryZsY-yaptOfob0RFlFxgeaMQfe0BBLZwOXdXHjl71Z1n5mcsuWnD8k9vc7e9jkVr3ku2Ukn-aLwUIwxvoz1-74Pp9XKwogUwfqgPQsrs4qZKSIBdDaKEh0l8UuKa2tOKMiTcoDEPU6fLk3d_3dUZap-w-RXIroQV-DiGNEK-buVPOHhSlbJXYFMBka?c=naver.search.pc.plsearch&t=0
+                          - img "플레이스 이미지" [ref=e1119]
+                        - link "플레이스 이미지" [ref=e1120] [cursor=pointer]:
+                          - /url: https://ader.naver.com/v1/9L9XxOyDJL7nkwwotQl49m9cteyzZhjwOOzPXZeZZlHLjxFCDnVbg_86rCQnoQDXo_W44FLGNK9sUJHTSe8OEhpJryhdKvyv7K1H994636Fn5rI5xhG6NeTAk_IXWebEYjS54ryZsY-yaptOfob0RFlFxgeaMQfe0BBLZwOXdXHjl71Z1n5mcsuWnD8k9vc7e9jkVr3ku2Ukn-aLwUIwxvoz1-74Pp9XKwogUwfqgPQsrs4qZKSIBdDaKEh0l8UuKa2tOKMiTcoDEPU6fLk3d_3dUZap-w-RXIroQV-DiGNEK-buVPOHhSlbJXYFMBka?c=naver.search.pc.plsearch&t=0
+                          - img "플레이스 이미지" [ref=e1121]
+                        - link "플레이스 이미지" [ref=e1122] [cursor=pointer]:
+                          - /url: https://ader.naver.com/v1/9L9XxOyDJL7nkwwotQl49m9cteyzZhjwOOzPXZeZZlHLjxFCDnVbg_86rCQnoQDXo_W44FLGNK9sUJHTSe8OEhpJryhdKvyv7K1H994636Fn5rI5xhG6NeTAk_IXWebEYjS54ryZsY-yaptOfob0RFlFxgeaMQfe0BBLZwOXdXHjl71Z1n5mcsuWnD8k9vc7e9jkVr3ku2Ukn-aLwUIwxvoz1-74Pp9XKwogUwfqgPQsrs4qZKSIBdDaKEh0l8UuKa2tOKMiTcoDEPU6fLk3d_3dUZap-w-RXIroQV-DiGNEK-buVPOHhSlbJXYFMBka?c=naver.search.pc.plsearch&t=0
+                          - img "플레이스 이미지" [ref=e1123]
+                        - link "플레이스 이미지" [ref=e1124] [cursor=pointer]:
+                          - /url: https://ader.naver.com/v1/9L9XxOyDJL7nkwwotQl49m9cteyzZhjwOOzPXZeZZlHLjxFCDnVbg_86rCQnoQDXo_W44FLGNK9sUJHTSe8OEhpJryhdKvyv7K1H994636Fn5rI5xhG6NeTAk_IXWebEYjS54ryZsY-yaptOfob0RFlFxgeaMQfe0BBLZwOXdXHjl71Z1n5mcsuWnD8k9vc7e9jkVr3ku2Ukn-aLwUIwxvoz1-74Pp9XKwogUwfqgPQsrs4qZKSIBdDaKEh0l8UuKa2tOKMiTcoDEPU6fLk3d_3dUZap-w-RXIroQV-DiGNEK-buVPOHhSlbJXYFMBka?c=naver.search.pc.plsearch&t=0
+                          - img "플레이스 이미지" [ref=e1125]
+                        - link "플레이스 이미지" [ref=e1126] [cursor=pointer]:
+                          - /url: https://ader.naver.com/v1/9L9XxOyDJL7nkwwotQl49m9cteyzZhjwOOzPXZeZZlHLjxFCDnVbg_86rCQnoQDXo_W44FLGNK9sUJHTSe8OEhpJryhdKvyv7K1H994636Fn5rI5xhG6NeTAk_IXWebEYjS54ryZsY-yaptOfob0RFlFxgeaMQfe0BBLZwOXdXHjl71Z1n5mcsuWnD8k9vc7e9jkVr3ku2Ukn-aLwUIwxvoz1-74Pp9XKwogUwfqgPQsrs4qZKSIBdDaKEh0l8UuKa2tOKMiTcoDEPU6fLk3d_3dUZap-w-RXIroQV-DiGNEK-buVPOHhSlbJXYFMBka?c=naver.search.pc.plsearch&t=0
+                          - img "플레이스 이미지" [ref=e1127]
+                        - link "플레이스 이미지" [ref=e1128] [cursor=pointer]:
+                          - /url: https://ader.naver.com/v1/9L9XxOyDJL7nkwwotQl49m9cteyzZhjwOOzPXZeZZlHLjxFCDnVbg_86rCQnoQDXo_W44FLGNK9sUJHTSe8OEhpJryhdKvyv7K1H994636Fn5rI5xhG6NeTAk_IXWebEYjS54ryZsY-yaptOfob0RFlFxgeaMQfe0BBLZwOXdXHjl71Z1n5mcsuWnD8k9vc7e9jkVr3ku2Ukn-aLwUIwxvoz1-74Pp9XKwogUwfqgPQsrs4qZKSIBdDaKEh0l8UuKa2tOKMiTcoDEPU6fLk3d_3dUZap-w-RXIroQV-DiGNEK-buVPOHhSlbJXYFMBka?c=naver.search.pc.plsearch&t=0
+                          - img "플레이스 이미지" [ref=e1129]
+                        - link "플레이스 이미지" [ref=e1130] [cursor=pointer]:
+                          - /url: https://ader.naver.com/v1/9L9XxOyDJL7nkwwotQl49m9cteyzZhjwOOzPXZeZZlHLjxFCDnVbg_86rCQnoQDXo_W44FLGNK9sUJHTSe8OEhpJryhdKvyv7K1H994636Fn5rI5xhG6NeTAk_IXWebEYjS54ryZsY-yaptOfob0RFlFxgeaMQfe0BBLZwOXdXHjl71Z1n5mcsuWnD8k9vc7e9jkVr3ku2Ukn-aLwUIwxvoz1-74Pp9XKwogUwfqgPQsrs4qZKSIBdDaKEh0l8UuKa2tOKMiTcoDEPU6fLk3d_3dUZap-w-RXIroQV-DiGNEK-buVPOHhSlbJXYFMBka?c=naver.search.pc.plsearch&t=0
+                          - img "플레이스 이미지" [ref=e1131]
+                        - link "플레이스 이미지" [ref=e1132] [cursor=pointer]:
+                          - /url: https://ader.naver.com/v1/9L9XxOyDJL7nkwwotQl49m9cteyzZhjwOOzPXZeZZlHLjxFCDnVbg_86rCQnoQDXo_W44FLGNK9sUJHTSe8OEhpJryhdKvyv7K1H994636Fn5rI5xhG6NeTAk_IXWebEYjS54ryZsY-yaptOfob0RFlFxgeaMQfe0BBLZwOXdXHjl71Z1n5mcsuWnD8k9vc7e9jkVr3ku2Ukn-aLwUIwxvoz1-74Pp9XKwogUwfqgPQsrs4qZKSIBdDaKEh0l8UuKa2tOKMiTcoDEPU6fLk3d_3dUZap-w-RXIroQV-DiGNEK-buVPOHhSlbJXYFMBka?c=naver.search.pc.plsearch&t=0
+                          - img "플레이스 이미지" [ref=e1133]
+                      - button "다음으로 이동" [ref=e1135] [cursor=pointer]:
+                        - generic [ref=e1136]: 다음으로 이동
+                    - link "봉명동고기집 유성고기집 대전고깃집 봉명동삼겹살 봉명동회식 방문자리뷰 6,495" [ref=e1137] [cursor=pointer]:
+                      - /url: https://ader.naver.com/v1/9L9XxOyDJL7nkwwotQl49m9cteyzZhjwOOzPXZeZZlHLjxFCDnVbg_86rCQnoQDXo_W44FLGNK9sUJHTSe8OEhpJryhdKvyv7K1H994636Fn5rI5xhG6NeTAk_IXWebEYjS54ryZsY-yaptOfob0RFlFxgeaMQfe0BBLZwOXdXHjl71Z1n5mcsuWnD8k9vc7e9jkVr3ku2Ukn-aLwUIwxvoz1-74Pp9XKwogUwfqgPQsrs4qZKSIBdDaKEh0l8UuKa2tOKMiTcoDEPU6fLk3d_3dUZap-w-RXIroQV-DiGNEK-buVPOHhSlbJXYFMBka?c=naver.search.pc.plsearch&t=0
+                      - generic [ref=e1138]:
+                        - generic [ref=e1139]: 봉명동고기집
+                        - generic [ref=e1140]: 유성고기집
+                        - generic [ref=e1141]: 대전고깃집
+                        - generic [ref=e1142]: 봉명동삼겹살
+                        - generic [ref=e1143]: 봉명동회식
+                      - generic [ref=e1144]: 방문자리뷰 6,495
+                - listitem [ref=e1145]:
+                  - generic [ref=e1146]:
+                    - generic [ref=e1147]:
+                      - generic [ref=e1148]:
+                        - link "favicon" [ref=e1149] [cursor=pointer]:
+                          - /url: https://ader.naver.com/v1/B6zf-FoDSVh2E6UU3vrvz8TNVZ_cF5SrZSySaCJNFKEWB82XcWxHeHeYmxKO6vZSLEbfTF2xnI7DHiuab65e73tygO4DwWQnOdROJxVo8wHISByCqRVuXt4PTfLK_LW-8FAobnFweHT39EciDyj1d2ozfk_44c7fJi7ORO9oxXoNA_6BrUPVqN-5AS1JX4iknONsAVMJETlI3YwU3siSTgekDCbpG_1TltZHTGI1u8mOR4Mgm1whWOv_C_PI1EPrhuJ-HVyLy3JyBOUGSRDVIp1pxZlGKUAOhWIUP-0mdAG9LoQyUygyGjk7dNhbvXQxzSrhls_rIRZTXnX6ZJoAEvkTFlN1vWHUuV8RrvDXrlnRsF_dB-W_19p8obcQ3IalzTvRIGLuEOV_I5-pqCvb-TG96W0qYRHdml662rcIvIMVhzQds9N-bTrMR_gPJyfo?c=naver.search.pc.plsearch&t=0
+                          - img "favicon" [ref=e1150]
+                        - img "광고" [ref=e1151]:
+                          - img [ref=e1152]
+                        - link "이태리국시대전" [ref=e1155] [cursor=pointer]:
+                          - /url: https://ader.naver.com/v1/B6zf-FoDSVh2E6UU3vrvz8TNVZ_cF5SrZSySaCJNFKEWB82XcWxHeHeYmxKO6vZSLEbfTF2xnI7DHiuab65e73tygO4DwWQnOdROJxVo8wHISByCqRVuXt4PTfLK_LW-8FAobnFweHT39EciDyj1d2ozfk_44c7fJi7ORO9oxXoNA_6BrUPVqN-5AS1JX4iknONsAVMJETlI3YwU3siSTgekDCbpG_1TltZHTGI1u8mOR4Mgm1whWOv_C_PI1EPrhuJ-HVyLy3JyBOUGSRDVIp1pxZlGKUAOhWIUP-0mdAG9LoQyUygyGjk7dNhbvXQxzSrhls_rIRZTXnX6ZJoAEvkTFlN1vWHUuV8RrvDXrlnRsF_dB-W_19p8obcQ3IalzTvRIGLuEOV_I5-pqCvb-TG96W0qYRHdml662rcIvIMVhzQds9N-bTrMR_gPJyfo?c=naver.search.pc.plsearch&t=0
+                        - link "map.naver.com/p" [ref=e1157] [cursor=pointer]:
+                          - /url: https://ader.naver.com/v1/B6zf-FoDSVh2E6UU3vrvz8TNVZ_cF5SrZSySaCJNFKEWB82XcWxHeHeYmxKO6vZSLEbfTF2xnI7DHiuab65e73tygO4DwWQnOdROJxVo8wHISByCqRVuXt4PTfLK_LW-8FAobnFweHT39EciDyj1d2ozfk_44c7fJi7ORO9oxXoNA_6BrUPVqN-5AS1JX4iknONsAVMJETlI3YwU3siSTgekDCbpG_1TltZHTGI1u8mOR4Mgm1whWOv_C_PI1EPrhuJ-HVyLy3JyBOUGSRDVIp1pxZlGKUAOhWIUP-0mdAG9LoQyUygyGjk7dNhbvXQxzSrhls_rIRZTXnX6ZJoAEvkTFlN1vWHUuV8RrvDXrlnRsF_dB-W_19p8obcQ3IalzTvRIGLuEOV_I5-pqCvb-TG96W0qYRHdml662rcIvIMVhzQds9N-bTrMR_gPJyfo?c=naver.search.pc.plsearch&t=0
+                      - link "대전맛집 이태리국시 대전 둔산동에서 가장 핫한 식당 11년 전통 한식 이태리퓨전" [ref=e1158] [cursor=pointer]:
+                        - /url: https://ader.naver.com/v1/B6zf-FoDSVh2E6UU3vrvz8TNVZ_cF5SrZSySaCJNFKEWB82XcWxHeHeYmxKO6vZSLEbfTF2xnI7DHiuab65e73tygO4DwWQnOdROJxVo8wHISByCqRVuXt4PTfLK_LW-8FAobnFweHT39EciDyj1d2ozfk_44c7fJi7ORO9oxXoNA_6BrUPVqN-5AS1JX4iknONsAVMJETlI3YwU3siSTgekDCbpG_1TltZHTGI1u8mOR4Mgm1whWOv_C_PI1EPrhuJ-HVyLy3JyBOUGSRDVIp1pxZlGKUAOhWIUP-0mdAG9LoQyUygyGjk7dNhbvXQxzSrhls_rIRZTXnX6ZJoAEvkTFlN1vWHUuV8RrvDXrlnRsF_dB-W_19p8obcQ3IalzTvRIGLuEOV_I5-pqCvb-TG96W0qYRHdml662rcIvIMVhzQds9N-bTrMR_gPJyfo?c=naver.search.pc.plsearch&t=0
+                        - generic [ref=e1159]:
+                          - strong [ref=e1160]: 대전맛집
+                          - text: 이태리국시
+                          - strong [ref=e1161]: 대전
+                        - text: 둔산동에서 가장 핫한 식당 11년 전통 한식 이태리퓨전
+                    - link "11년 전통 한식-이탈리안 퓨전 맛집. 숯불돌솥대창파스타. 불고기쌈피자 11년 전통 한식 이탈리안 퓨전 맛집. 파스타. 리소또. 싸먹는 피자" [ref=e1164] [cursor=pointer]:
+                      - /url: https://ader.naver.com/v1/B6zf-FoDSVh2E6UU3vrvz8TNVZ_cF5SrZSySaCJNFKEWB82XcWxHeHeYmxKO6vZSLEbfTF2xnI7DHiuab65e73tygO4DwWQnOdROJxVo8wHISByCqRVuXt4PTfLK_LW-8FAobnFweHT39EciDyj1d2ozfk_44c7fJi7ORO9oxXoNA_6BrUPVqN-5AS1JX4iknONsAVMJETlI3YwU3siSTgekDCbpG_1TltZHTGI1u8mOR4Mgm1whWOv_C_PI1EPrhuJ-HVyLy3JyBOUGSRDVIp1pxZlGKUAOhWIUP-0mdAG9LoQyUygyGjk7dNhbvXQxzSrhls_rIRZTXnX6ZJoAEvkTFlN1vWHUuV8RrvDXrlnRsF_dB-W_19p8obcQ3IalzTvRIGLuEOV_I5-pqCvb-TG96W0qYRHdml662rcIvIMVhzQds9N-bTrMR_gPJyfo?c=naver.search.pc.plsearch&t=0
+                      - text: 11년 전통 한식-이탈리안 퓨전
+                      - strong [ref=e1165]: 맛집
+                      - text: . 숯불돌솥대창파스타. 불고기쌈피자 11년 전통 한식 이탈리안 퓨전
+                      - strong [ref=e1166]: 맛집
+                      - text: . 파스타. 리소또. 싸먹는 피자
+                    - link "대전둔산동점심파스타 대전둔산동저녁레스토랑 대전둔산동갤러리아브런치 대전정부청사회식점심저녁 대전신세계백화점레스토랑파스타 방문자리뷰 18,896 1~2만원 (1인)" [ref=e1167] [cursor=pointer]:
+                      - /url: https://ader.naver.com/v1/lV1aRq9HXnKo9SmVcULo85hVSwColyb6IQTndK8LIYOF-G-iEeVyzjQGNhiBrVZlfhMNsYg1ffoiU8AtXc-qjLR0_xxieNyeOSf7p1Ca15HUElT1FWUcFhssL1yc5tZgiiZl4n9KyWy5aOFHedhslJnvfQrMrnhvVDLDYwW3KxLPIFyrVBJPT7yEtPNN51e7Jh_BZ9KtlwOhYmZ4BR5eGnyDF35ATRQEZ8lvkGZwOWr4DOzPdsYNQ0VwdA7SMDoMbNww-A2z43hfLXsEkNaIzcstxHxkWG9BxdMe8OtbkF-yqKY_DOoE-WDgCJTm_92GhBTIFhQbDHgNBMP8J-qZGaGAwypqKcKw0kIaSv_2BOoTU0bGJyHQ7VoknITc5DLEfUVut6LEfOfVlTxTBa9ONP8weY62Nq4jHcDCUJpTBKxKJ6XP7Lh2VL1ZtyUhewXR2LyK9gf2_jfH4dMRfEGOFZwpoefHlVe0kJC3NO63Xbs=?c=naver.search.pc.plsearch&t=0
+                      - generic [ref=e1168]:
+                        - generic [ref=e1169]: 대전둔산동점심파스타
+                        - generic [ref=e1170]: 대전둔산동저녁레스토랑
+                        - generic [ref=e1171]: 대전둔산동갤러리아브런치
+                        - generic [ref=e1172]: 대전정부청사회식점심저녁
+                        - generic [ref=e1173]: 대전신세계백화점레스토랑파스타
+                      - generic [ref=e1174]: 방문자리뷰 18,896 1~2만원 (1인)
+                  - generic [ref=e1175]:
+                    - link "광고 대창파스타" [ref=e1176] [cursor=pointer]:
+                      - /url: https://ader.naver.com/v1/UtIpOQCZAb0DGDw6NPbvsWn3XFRQqFvujhA-TTrLEKAR9oW7tOqH-orztEXy25DMqhhQRWDIRM5hDwqe-iqOoLEfYigMJiI9yAcl3mKfrx5_FKp4XSTbXSFTmEXldgi4DBE6tbRV83AuRxcMKCk-gDs983nFP33zDajhGL04szO0tznJ8b3PcRukx_Jmj5wrK9bukrGXdLwQjef6Ir72A4WaVoMR8Ig99y2W3MAVqs_Nlo-Db0I8AHu_NZK7T2BF9gdzi5MnFH64Bjw5XGzXOfshtd9Sf4jNKbwMPTSJ2aGZnsxB-9Zp8cYxZ54Jc4Zcnju3Zmlg43Kw3SlSxd10tfsaaO45_aI8WF9IFTKj7yA8gONxMJ1tjILrKFNXXESV_514YkiMSe7dlH_SO2UGiVKY917SX79jNgyPaEXYWUaPNrLgO9SC7nJaEsQz-39B?c=naver.search.pc.plsearch&t=0
+                      - img "광고" [ref=e1178]
+                      - generic [ref=e1179]: 대창파스타
+                    - link "광고 불고기쌈피자" [ref=e1180] [cursor=pointer]:
+                      - /url: https://ader.naver.com/v1/UtIpOQCZAb0DGDw6NPbvsWn3XFRQqFvujhA-TTrLEKAR9oW7tOqH-orztEXy25DMqhhQRWDIRM5hDwqe-iqOoLEfYigMJiI9yAcl3mKfrx5_FKp4XSTbXSFTmEXldgi4DBE6tbRV83AuRxcMKCk-gDs983nFP33zDajhGL04szO0tznJ8b3PcRukx_Jmj5wrK9bukrGXdLwQjef6Ir72A4WaVoMR8Ig99y2W3MAVqs_Nlo-Db0I8AHu_NZK7T2BF9gdzi5MnFH64Bjw5XGzXOfshtd9Sf4jNKbwMPTSJ2aGZnsxB-9Zp8cYxZ54Jc4Zcnju3Zmlg43Kw3SlSxd10tfsaaO45_aI8WF9IFTKj7yA8gONxMJ1tjILrKFNXXESV_514YkiMSe7dlH_SO2UGiVKY917SX79jNgyPaEXYWUaPNrLgO9SC7nJaEsQz-39B?c=naver.search.pc.plsearch&t=0
+                      - img "광고" [ref=e1182]
+                      - generic [ref=e1183]: 불고기쌈피자
+                    - link "광고 돌솥리소또" [ref=e1184] [cursor=pointer]:
+                      - /url: https://ader.naver.com/v1/UtIpOQCZAb0DGDw6NPbvsWn3XFRQqFvujhA-TTrLEKAR9oW7tOqH-orztEXy25DMqhhQRWDIRM5hDwqe-iqOoLEfYigMJiI9yAcl3mKfrx5_FKp4XSTbXSFTmEXldgi4DBE6tbRV83AuRxcMKCk-gDs983nFP33zDajhGL04szO0tznJ8b3PcRukx_Jmj5wrK9bukrGXdLwQjef6Ir72A4WaVoMR8Ig99y2W3MAVqs_Nlo-Db0I8AHu_NZK7T2BF9gdzi5MnFH64Bjw5XGzXOfshtd9Sf4jNKbwMPTSJ2aGZnsxB-9Zp8cYxZ54Jc4Zcnju3Zmlg43Kw3SlSxd10tfsaaO45_aI8WF9IFTKj7yA8gONxMJ1tjILrKFNXXESV_514YkiMSe7dlH_SO2UGiVKY917SX79jNgyPaEXYWUaPNrLgO9SC7nJaEsQz-39B?c=naver.search.pc.plsearch&t=0
+                      - img "광고" [ref=e1186]
+                      - generic [ref=e1187]: 돌솥리소또
+                - listitem [ref=e1188]:
+                  - link "링크이미지" [ref=e1189] [cursor=pointer]:
+                    - /url: https://ader.naver.com/v1/9L9XxOyDJL7nkwwotQl49m9cteyzZhjwOOzPXZeZZlGqBkDTbiRontKAfZtqg3Ma5HVJ-QXD05V6F56PLHLqop02D9qf-HZkvdP3ZdjSds9vruFM1z2w2ZQWzIWevKAUJUpISqoq9vqlVSnIda4XlUvCRPwg4h3mVz9mVJL0EVSMRQeDoyQ3D2uXSZrw_gFhpCto74EP46nt3czmCRNbEr-2ESdqIF1WWs0mdE6Owbgt9lb_ZxprxmOBSrLn_EzT1AW9yNWp9oyOCq4mEOlvkg==?c=naver.search.pc.plsearch&t=0
+                    - img "링크이미지" [ref=e1190]
+                  - generic [ref=e1191]:
+                    - generic [ref=e1192]:
+                      - generic [ref=e1193]:
+                        - link "favicon" [ref=e1194] [cursor=pointer]:
+                          - /url: https://ader.naver.com/v1/9L9XxOyDJL7nkwwotQl49m9cteyzZhjwOOzPXZeZZlGqBkDTbiRontKAfZtqg3Ma5HVJ-QXD05V6F56PLHLqop02D9qf-HZkvdP3ZdjSds9vruFM1z2w2ZQWzIWevKAUJUpISqoq9vqlVSnIda4XlWu9Yh_1qx3ZECmDUmHfLtD9oyN61dCNlJchtYdTW7TOJXtnuBeiYKwXjRIbLlrxIV_15dDfbt4JIzGfZxPpaXAdKrnoFoK4v3cmp2GRC-3slgqS5_qOz_xcCKkit_iBSQ==?c=naver.search.pc.plsearch&t=0
+                          - img "favicon" [ref=e1195]
+                        - img "광고" [ref=e1196]:
+                          - img [ref=e1197]
+                        - link "오빠는장어" [ref=e1200] [cursor=pointer]:
+                          - /url: https://ader.naver.com/v1/9L9XxOyDJL7nkwwotQl49m9cteyzZhjwOOzPXZeZZlGqBkDTbiRontKAfZtqg3Ma5HVJ-QXD05V6F56PLHLqop02D9qf-HZkvdP3ZdjSds9vruFM1z2w2ZQWzIWevKAUJUpISqoq9vqlVSnIda4XlWu9Yh_1qx3ZECmDUmHfLtD9oyN61dCNlJchtYdTW7TOJXtnuBeiYKwXjRIbLlrxIV_15dDfbt4JIzGfZxPpaXAdKrnoFoK4v3cmp2GRC-3slgqS5_qOz_xcCKkit_iBSQ==?c=naver.search.pc.plsearch&t=0
+                        - link "map.naver.com/p" [ref=e1202] [cursor=pointer]:
+                          - /url: https://ader.naver.com/v1/9L9XxOyDJL7nkwwotQl49m9cteyzZhjwOOzPXZeZZlGqBkDTbiRontKAfZtqg3Ma5HVJ-QXD05V6F56PLHLqop02D9qf-HZkvdP3ZdjSds9vruFM1z2w2ZQWzIWevKAUJUpISqoq9vqlVSnIda4XlWu9Yh_1qx3ZECmDUmHfLtD9oyN61dCNlJchtYdTW7TOJXtnuBeiYKwXjRIbLlrxIV_15dDfbt4JIzGfZxPpaXAdKrnoFoK4v3cmp2GRC-3slgqS5_qOz_xcCKkit_iBSQ==?c=naver.search.pc.plsearch&t=0
+                      - link "스타일러 있는 장어집" [ref=e1203] [cursor=pointer]:
+                        - /url: https://ader.naver.com/v1/9L9XxOyDJL7nkwwotQl49m9cteyzZhjwOOzPXZeZZlGqBkDTbiRontKAfZtqg3Ma5HVJ-QXD05V6F56PLHLqop02D9qf-HZkvdP3ZdjSds9vruFM1z2w2ZQWzIWevKAUJUpISqoq9vqlVSnIda4XlWu9Yh_1qx3ZECmDUmHfLtD9oyN61dCNlJchtYdTW7TOJXtnuBeiYKwXjRIbLlrxIV_15dDfbt4JIzGfZxPpaXAdKrnoFoK4v3cmp2GRC-3slgqS5_qOz_xcCKkit_iBSQ==?c=naver.search.pc.plsearch&t=0
+                    - link "대전 월평동에 진짜 맛있는 장어집! 나혼자만 알고싶은 맛집 한판은 장어두마리에 오마카세급요리반찬 3개" [ref=e1206] [cursor=pointer]:
+                      - /url: https://ader.naver.com/v1/9L9XxOyDJL7nkwwotQl49m9cteyzZhjwOOzPXZeZZlGqBkDTbiRontKAfZtqg3Ma5HVJ-QXD05V6F56PLHLqop02D9qf-HZkvdP3ZdjSds9vruFM1z2w2ZQWzIWevKAUJUpISqoq9vqlVSnIda4XlWu9Yh_1qx3ZECmDUmHfLtD9oyN61dCNlJchtYdTW7TOJXtnuBeiYKwXjRIbLlrxIV_15dDfbt4JIzGfZxPpaXAdKrnoFoK4v3cmp2GRC-3slgqS5_qOz_xcCKkit_iBSQ==?c=naver.search.pc.plsearch&t=0
+                      - strong [ref=e1207]: 대전
+                      - text: 월평동에 진짜 맛있는 장어집! 나혼자만 알고싶은
+                      - strong [ref=e1208]: 맛집
+                      - text: 한판은 장어두마리에 오마카세급요리반찬 3개
+                    - link "장어 대전술집 월평동가족모임 일본식장어덮밥 대전시청회식 방문자리뷰 315 2~3만원 (1인)" [ref=e1209] [cursor=pointer]:
+                      - /url: https://ader.naver.com/v1/9L9XxOyDJL7nkwwotQl49m9cteyzZhjwOOzPXZeZZlHLjxFCDnVbg_86rCQnoQDXo_W44FLGNK9sUJHTSe8OEhpJryhdKvyv7K1H994636EJpG6Cjw9BU-C7AjFXd-twxCUCpFc8vF024TttBEswwp_bRfXe6Kd4-REme5j0XYk0Z_TsyE-1eG6WRnhGP0_UveXwUwyp-g75iI24tQKpvvcSB_5iqBq2LwrecvybCFJwVlBq9keMfwE6sBIrhEbFXiguaDWBAIxaSBPT_D9_VOoYawfcZRPCmUk1mt3vhpaHas-Nim9reULAcG_Q-r6E?c=naver.search.pc.plsearch&t=0
+                      - generic [ref=e1210]:
+                        - generic [ref=e1211]: 장어
+                        - generic [ref=e1212]: 대전술집
+                        - generic [ref=e1213]: 월평동가족모임
+                        - generic [ref=e1214]: 일본식장어덮밥
+                        - generic [ref=e1215]: 대전시청회식
+                      - generic [ref=e1216]: 방문자리뷰 315 2~3만원 (1인)
+                - listitem [ref=e1217]:
+                  - generic [ref=e1218]:
+                    - generic [ref=e1219]:
+                      - generic [ref=e1220]:
+                        - link "favicon" [ref=e1221] [cursor=pointer]:
+                          - /url: https://ader.naver.com/v1/jhwia-KIIxQV1hlsy9ohPck8rlltNeNU8X0Q0Yx8MhtlG6y9eELUdB62PhViQNCx0mZdJ6SiFtUw584zWU3mfhhVDDyZHIkAxdtVDyJm5l9OqT5j6WCg7ThkVPSAFCxCIM8xjgqsgVh9pH-jsZ4EoL0lNLB2LS4z18Tyf6IajTHOJCdrF8J1_rQ9uxzyZlP2Eeq8MppOuJPbwtf393-Rlt-sepl6_8oJeXxn3k0zveHV3xmcMs9obhheIKvG3O46ZPEo3MB5AfQghVUEn7bxd6WARQBSGOjo9f4kmiCkqoYlrhECRq08a_GGHiGREEJM0V3HW8XwTwX_c1IKEXqveBARyrhZyoSyl68jkj4zqNwBW8ePhSjdYhLhjQOgj0x5JM1YJr5rzOm9JEemO_7e5YvVp__cFmftU2mIzTvGy1lOnGIVW9Q_IL43sRPDxAGI?c=naver.search.pc.plsearch&t=0
+                          - img "favicon" [ref=e1222]
+                        - img "광고" [ref=e1223]:
+                          - img [ref=e1224]
+                        - link "장원갑칼국수" [ref=e1227] [cursor=pointer]:
+                          - /url: https://ader.naver.com/v1/jhwia-KIIxQV1hlsy9ohPck8rlltNeNU8X0Q0Yx8MhtlG6y9eELUdB62PhViQNCx0mZdJ6SiFtUw584zWU3mfhhVDDyZHIkAxdtVDyJm5l9OqT5j6WCg7ThkVPSAFCxCIM8xjgqsgVh9pH-jsZ4EoL0lNLB2LS4z18Tyf6IajTHOJCdrF8J1_rQ9uxzyZlP2Eeq8MppOuJPbwtf393-Rlt-sepl6_8oJeXxn3k0zveHV3xmcMs9obhheIKvG3O46ZPEo3MB5AfQghVUEn7bxd6WARQBSGOjo9f4kmiCkqoYlrhECRq08a_GGHiGREEJM0V3HW8XwTwX_c1IKEXqveBARyrhZyoSyl68jkj4zqNwBW8ePhSjdYhLhjQOgj0x5JM1YJr5rzOm9JEemO_7e5YvVp__cFmftU2mIzTvGy1lOnGIVW9Q_IL43sRPDxAGI?c=naver.search.pc.plsearch&t=0
+                        - link "m.place.naver.com/restaurant" [ref=e1229] [cursor=pointer]:
+                          - /url: https://ader.naver.com/v1/jhwia-KIIxQV1hlsy9ohPck8rlltNeNU8X0Q0Yx8MhtlG6y9eELUdB62PhViQNCx0mZdJ6SiFtUw584zWU3mfhhVDDyZHIkAxdtVDyJm5l9OqT5j6WCg7ThkVPSAFCxCIM8xjgqsgVh9pH-jsZ4EoL0lNLB2LS4z18Tyf6IajTHOJCdrF8J1_rQ9uxzyZlP2Eeq8MppOuJPbwtf393-Rlt-sepl6_8oJeXxn3k0zveHV3xmcMs9obhheIKvG3O46ZPEo3MB5AfQghVUEn7bxd6WARQBSGOjo9f4kmiCkqoYlrhECRq08a_GGHiGREEJM0V3HW8XwTwX_c1IKEXqveBARyrhZyoSyl68jkj4zqNwBW8ePhSjdYhLhjQOgj0x5JM1YJr5rzOm9JEemO_7e5YvVp__cFmftU2mIzTvGy1lOnGIVW9Q_IL43sRPDxAGI?c=naver.search.pc.plsearch&t=0
+                      - link "맛집장원갑칼국수 대전중구점 특허받은 명품 칼국수 바삭 통새우해물파전" [ref=e1230] [cursor=pointer]:
+                        - /url: https://ader.naver.com/v1/jhwia-KIIxQV1hlsy9ohPck8rlltNeNU8X0Q0Yx8MhtlG6y9eELUdB62PhViQNCx0mZdJ6SiFtUw584zWU3mfhhVDDyZHIkAxdtVDyJm5l9OqT5j6WCg7ThkVPSAFCxCIM8xjgqsgVh9pH-jsZ4EoL0lNLB2LS4z18Tyf6IajTHOJCdrF8J1_rQ9uxzyZlP2Eeq8MppOuJPbwtf393-Rlt-sepl6_8oJeXxn3k0zveHV3xmcMs9obhheIKvG3O46ZPEo3MB5AfQghVUEn7bxd6WARQBSGOjo9f4kmiCkqoYlrhECRq08a_GGHiGREEJM0V3HW8XwTwX_c1IKEXqveBARyrhZyoSyl68jkj4zqNwBW8ePhSjdYhLhjQOgj0x5JM1YJr5rzOm9JEemO_7e5YvVp__cFmftU2mIzTvGy1lOnGIVW9Q_IL43sRPDxAGI?c=naver.search.pc.plsearch&t=0
+                        - generic [ref=e1231]:
+                          - strong [ref=e1232]: 맛집
+                          - text: 장원갑칼국수
+                          - strong [ref=e1233]: 대전
+                          - text: 중구점
+                        - text: 특허받은 명품 칼국수 바삭 통새우해물파전
+                    - link "5가지 코스음식을 12000원에 즐기는 자가제면으로 특허받은 명품 칼국수 맛집" [ref=e1236] [cursor=pointer]:
+                      - /url: https://ader.naver.com/v1/jhwia-KIIxQV1hlsy9ohPck8rlltNeNU8X0Q0Yx8MhtlG6y9eELUdB62PhViQNCx0mZdJ6SiFtUw584zWU3mfhhVDDyZHIkAxdtVDyJm5l9OqT5j6WCg7ThkVPSAFCxCIM8xjgqsgVh9pH-jsZ4EoL0lNLB2LS4z18Tyf6IajTHOJCdrF8J1_rQ9uxzyZlP2Eeq8MppOuJPbwtf393-Rlt-sepl6_8oJeXxn3k0zveHV3xmcMs9obhheIKvG3O46ZPEo3MB5AfQghVUEn7bxd6WARQBSGOjo9f4kmiCkqoYlrhECRq08a_GGHiGREEJM0V3HW8XwTwX_c1IKEXqveBARyrhZyoSyl68jkj4zqNwBW8ePhSjdYhLhjQOgj0x5JM1YJr5rzOm9JEemO_7e5YvVp__cFmftU2mIzTvGy1lOnGIVW9Q_IL43sRPDxAGI?c=naver.search.pc.plsearch&t=0
+                      - text: 5가지 코스음식을 12000원에 즐기는 자가제면으로 특허받은 명품 칼국수
+                      - strong [ref=e1237]: 맛집
+                - listitem [ref=e1238]:
+                  - generic [ref=e1239]:
+                    - generic [ref=e1240]:
+                      - generic [ref=e1241]:
+                        - link "favicon" [ref=e1242] [cursor=pointer]:
+                          - /url: https://ader.naver.com/v1/Qqhx-24cC4_6eicFpJkQoUYGUmBxCUVxS4EjHJtn-gK7wcp0jTU7yrtSdAskaphA0xJIpN1VcV1OyN6hyqqgbkZDfmrLhzLWt7C_9YNzo7IKbmkt4ZgRUcVSaMb16wI6YdpiTgd_2IMxwp6o3KxGL_cFYloT85Lf-qsPC3ZNgPwtRMldo_i-CEZeXyABlzt7Yy3BO6rFpTiWSwNrwfHtV-x0Pq4tf6KWYrVkXLWYaWmDVd7k6W2oeIRpccpoq-7W8iNysxbCbuPccdUHJBOWabCN18FpOHB4d7nw5RkA9nayORwEUyRhGUVx1lBhKWx6DGMgPLDsORE-jzlHpwISdK4eBgooMvfFDTuQs741P-mI7NGiybkROSO9PfH7Bwu9K_z5Jc3gspiols5I0mWD4yY6ZxX60fmyyuMTK2JnjjJaMt1f0_Uy8omtq9vqp4mnJZ14qXuOGLVEjb3hN5QyO0rd5FSL1VWB_avEUbhwXtABb-nTOfVl8a7IfNSd63RErRTYHk5SJhtjjL1qKyxC8GD39fbzNF5GXsLdH9qkd3BzfEooAvn4WM5ZYh47TMpLCT5Ho5ciPDbXxXA4L-A2fA==?c=naver.search.pc.plsearch&t=0
+                          - img "favicon" [ref=e1243]
+                        - img "광고" [ref=e1244]:
+                          - img [ref=e1245]
+                        - link "모닥303" [ref=e1248] [cursor=pointer]:
+                          - /url: https://ader.naver.com/v1/Qqhx-24cC4_6eicFpJkQoUYGUmBxCUVxS4EjHJtn-gK7wcp0jTU7yrtSdAskaphA0xJIpN1VcV1OyN6hyqqgbkZDfmrLhzLWt7C_9YNzo7IKbmkt4ZgRUcVSaMb16wI6YdpiTgd_2IMxwp6o3KxGL_cFYloT85Lf-qsPC3ZNgPwtRMldo_i-CEZeXyABlzt7Yy3BO6rFpTiWSwNrwfHtV-x0Pq4tf6KWYrVkXLWYaWmDVd7k6W2oeIRpccpoq-7W8iNysxbCbuPccdUHJBOWabCN18FpOHB4d7nw5RkA9nayORwEUyRhGUVx1lBhKWx6DGMgPLDsORE-jzlHpwISdK4eBgooMvfFDTuQs741P-mI7NGiybkROSO9PfH7Bwu9K_z5Jc3gspiols5I0mWD4yY6ZxX60fmyyuMTK2JnjjJaMt1f0_Uy8omtq9vqp4mnJZ14qXuOGLVEjb3hN5QyO0rd5FSL1VWB_avEUbhwXtABb-nTOfVl8a7IfNSd63RErRTYHk5SJhtjjL1qKyxC8GD39fbzNF5GXsLdH9qkd3BzfEooAvn4WM5ZYh47TMpLCT5Ho5ciPDbXxXA4L-A2fA==?c=naver.search.pc.plsearch&t=0
+                        - link "map.naver.com/p" [ref=e1250] [cursor=pointer]:
+                          - /url: https://ader.naver.com/v1/Qqhx-24cC4_6eicFpJkQoUYGUmBxCUVxS4EjHJtn-gK7wcp0jTU7yrtSdAskaphA0xJIpN1VcV1OyN6hyqqgbkZDfmrLhzLWt7C_9YNzo7IKbmkt4ZgRUcVSaMb16wI6YdpiTgd_2IMxwp6o3KxGL_cFYloT85Lf-qsPC3ZNgPwtRMldo_i-CEZeXyABlzt7Yy3BO6rFpTiWSwNrwfHtV-x0Pq4tf6KWYrVkXLWYaWmDVd7k6W2oeIRpccpoq-7W8iNysxbCbuPccdUHJBOWabCN18FpOHB4d7nw5RkA9nayORwEUyRhGUVx1lBhKWx6DGMgPLDsORE-jzlHpwISdK4eBgooMvfFDTuQs741P-mI7NGiybkROSO9PfH7Bwu9K_z5Jc3gspiols5I0mWD4yY6ZxX60fmyyuMTK2JnjjJaMt1f0_Uy8omtq9vqp4mnJZ14qXuOGLVEjb3hN5QyO0rd5FSL1VWB_avEUbhwXtABb-nTOfVl8a7IfNSd63RErRTYHk5SJhtjjL1qKyxC8GD39fbzNF5GXsLdH9qkd3BzfEooAvn4WM5ZYh47TMpLCT5Ho5ciPDbXxXA4L-A2fA==?c=naver.search.pc.plsearch&t=0
+                      - link "사계절 캠핑감성 모닥303 생일&기념일&가족모임 핫플! 부모님모시고 가기좋은곳" [ref=e1251] [cursor=pointer]:
+                        - /url: https://ader.naver.com/v1/Qqhx-24cC4_6eicFpJkQoUYGUmBxCUVxS4EjHJtn-gK7wcp0jTU7yrtSdAskaphA0xJIpN1VcV1OyN6hyqqgbkZDfmrLhzLWt7C_9YNzo7IKbmkt4ZgRUcVSaMb16wI6YdpiTgd_2IMxwp6o3KxGL_cFYloT85Lf-qsPC3ZNgPwtRMldo_i-CEZeXyABlzt7Yy3BO6rFpTiWSwNrwfHtV-x0Pq4tf6KWYrVkXLWYaWmDVd7k6W2oeIRpccpoq-7W8iNysxbCbuPccdUHJBOWabCN18FpOHB4d7nw5RkA9nayORwEUyRhGUVx1lBhKWx6DGMgPLDsORE-jzlHpwISdK4eBgooMvfFDTuQs741P-mI7NGiybkROSO9PfH7Bwu9K_z5Jc3gspiols5I0mWD4yY6ZxX60fmyyuMTK2JnjjJaMt1f0_Uy8omtq9vqp4mnJZ14qXuOGLVEjb3hN5QyO0rd5FSL1VWB_avEUbhwXtABb-nTOfVl8a7IfNSd63RErRTYHk5SJhtjjL1qKyxC8GD39fbzNF5GXsLdH9qkd3BzfEooAvn4WM5ZYh47TMpLCT5Ho5ciPDbXxXA4L-A2fA==?c=naver.search.pc.plsearch&t=0
+                    - link "개별텐트+냉난방+실내존+키즈존+불멍존+산책존/애견동반/가족모임/ 회사회식좋은곳 /판암IC 1분거리" [ref=e1254] [cursor=pointer]:
+                      - /url: https://ader.naver.com/v1/Qqhx-24cC4_6eicFpJkQoUYGUmBxCUVxS4EjHJtn-gK7wcp0jTU7yrtSdAskaphA0xJIpN1VcV1OyN6hyqqgbkZDfmrLhzLWt7C_9YNzo7IKbmkt4ZgRUcVSaMb16wI6YdpiTgd_2IMxwp6o3KxGL_cFYloT85Lf-qsPC3ZNgPwtRMldo_i-CEZeXyABlzt7Yy3BO6rFpTiWSwNrwfHtV-x0Pq4tf6KWYrVkXLWYaWmDVd7k6W2oeIRpccpoq-7W8iNysxbCbuPccdUHJBOWabCN18FpOHB4d7nw5RkA9nayORwEUyRhGUVx1lBhKWx6DGMgPLDsORE-jzlHpwISdK4eBgooMvfFDTuQs741P-mI7NGiybkROSO9PfH7Bwu9K_z5Jc3gspiols5I0mWD4yY6ZxX60fmyyuMTK2JnjjJaMt1f0_Uy8omtq9vqp4mnJZ14qXuOGLVEjb3hN5QyO0rd5FSL1VWB_avEUbhwXtABb-nTOfVl8a7IfNSd63RErRTYHk5SJhtjjL1qKyxC8GD39fbzNF5GXsLdH9qkd3BzfEooAvn4WM5ZYh47TMpLCT5Ho5ciPDbXxXA4L-A2fA==?c=naver.search.pc.plsearch&t=0
+                    - link "대전애견동반식당 대전바베큐장 대전야외바베큐 대전놀이방식당 대전가족외식 방문자리뷰 4,849 1~2만원 (1인)" [ref=e1255] [cursor=pointer]:
+                      - /url: https://ader.naver.com/v1/OvjRCV-wkPSj_JOQYiC7kVxmuERBOl2ZB47PWiHhpAYsjgUazIziaTxOZecW1pMhPU6GzVodwh8L6Zms0V2KRi9lljXTqs_P6z9EQUYSXDEnOrXrPOT1h0PxtxYBavNaHG3RFWjknx41DezY3ZO05Tnh_c1parDWYMAQtJI6yC1egCp4sTko_wOPQ8FfSr_63shde9OTLgXTvNgldL8KejofC8Z1ZzAg2aZ-CgUCb5rRGbHFrmCU4IXAnOHR5iTjYWqqCOIm3cODE5riu7RClYxPLfOtZDh3UP60xKxlf__0Zdsw4ulDzf29mIdF17inwLRlDd1u3Pt_QU9waUwU8oO-GZ4SnbsmTdI4yPYC3K3TFtswYYX3eRJKWxOIxpbkSEC7hCjSK_ZjD2AhF235CbGkI3kA-zW8Y69CMQjDc9WwKSZdNw-Un-2JVyHrGWX5PgbjhF_nshRiWs2F4DKUpyQCxg92CWiLO9bgdnQHKiX7OVCPDdliWmJjp4udoZGRaCLrmR4uQlYwgyaGB1R0MXoYrBDE4Peanj1XTRaH_VZYPeLDEKFXpRGQNSKfUtlUiIcSWFDy8alFWB9gFNHG8npei2AjL3L2tZsP8lhGjaAQ6y7bkxS1AsxeS5mSc9EK?c=naver.search.pc.plsearch&t=0
+                      - generic [ref=e1256]:
+                        - generic [ref=e1257]: 대전애견동반식당
+                        - generic [ref=e1258]: 대전바베큐장
+                        - generic [ref=e1259]: 대전야외바베큐
+                        - generic [ref=e1260]: 대전놀이방식당
+                        - generic [ref=e1261]: 대전가족외식
+                      - generic [ref=e1262]: 방문자리뷰 4,849 1~2만원 (1인)
+                - listitem [ref=e1263]:
+                  - link "링크이미지" [ref=e1264] [cursor=pointer]:
+                    - /url: https://ader.naver.com/v1/sQ0fcsC-RarfXEdZEhUwgxrkh4XjXZHstEkKCrVdRK7f0FWEOcZ8SEZEDIkWASVNsrfprlIhQVs_j91df2oFHLQj83RZdllO7rJqIH-muPJRxOPijEpeBlJL5pBbVRtdZF-cIZiA_9IAkvByIrdCGv79ZCOzwFaO3wKd6rHrUTGMa-ZXFzheLiB8aSb-8rBFmWhTMj35rNf68KI4S0c9VdGZ7VBs06r_iusN3LJT0kt7Rq7_kH3OScYKFJXGBnvcEBcwvmEZueKgKuUw1U6kMUM2TBjVkcDcIPBo4Adn8yVy8O52FD39G0H5ztHR0Z1ibYX5q69mRZpEh9SvrKg96aEISmgItxS1yqPSXvhliEh51NBwylAZyGRJRpKbiTh7fYrM0wKJrB0yPaL-zypYHYuNjSS9eHr7Psi73tcmKi8aPJ7S1N7YfEL8PX7EnJQB?c=naver.search.pc.plsearch&t=0
+                    - img "링크이미지" [ref=e1265]
+                  - generic [ref=e1266]:
+                    - generic [ref=e1267]:
+                      - generic [ref=e1268]:
+                        - link "favicon" [ref=e1269] [cursor=pointer]:
+                          - /url: https://ader.naver.com/v1/-H5IKaSjfMH2-Dt48To13M0g5QcMEAVOZYKbcTboaKSMAv-_-kR0yxpUGKVMLZQq3NHNKAt1pb6T84YZKiJOqVUEU30k0_wXbCL3sIhARNCfXqYV_-DcN3rokO9RhQ6xASC_LXFbKx0DXDaNXDbzTsvoSTV0Sj6PMca9LM-auaXtYs3MAq_hCMPYhoMl9YH_xBq392f0-R2kiG9bbU2cJf9fpEPufTUJggvMQe1nAzUKbYY80lTlU1pCihr0-an48u0wDfQWG6QvQCBt8lA8Qnt_zbUl9zjluWeYTElUewqEKMM6-RBqsJDNIMUjx4M0Vy-R8jJOenBJ7CMJ-7O_nkd6XgJEOEfCp5MpD-w0WFpJGjbXQsceSuIh0oxIyrGi-0fXXV1UfZy3jrkHHbSbPTzdadSqei_XPeCzULZFZKM=?c=naver.search.pc.plsearch&t=0
+                          - img "favicon" [ref=e1270]
+                        - img "광고" [ref=e1271]:
+                          - img [ref=e1272]
+                        - button "네이버페이" [ref=e1277]:
+                          - generic [ref=e1278]: 네이버페이
+                        - link "대전보일러맛집" [ref=e1279] [cursor=pointer]:
+                          - /url: https://ader.naver.com/v1/-H5IKaSjfMH2-Dt48To13M0g5QcMEAVOZYKbcTboaKSMAv-_-kR0yxpUGKVMLZQq3NHNKAt1pb6T84YZKiJOqVUEU30k0_wXbCL3sIhARNCfXqYV_-DcN3rokO9RhQ6xASC_LXFbKx0DXDaNXDbzTsvoSTV0Sj6PMca9LM-auaXtYs3MAq_hCMPYhoMl9YH_xBq392f0-R2kiG9bbU2cJf9fpEPufTUJggvMQe1nAzUKbYY80lTlU1pCihr0-an48u0wDfQWG6QvQCBt8lA8Qnt_zbUl9zjluWeYTElUewqEKMM6-RBqsJDNIMUjx4M0Vy-R8jJOenBJ7CMJ-7O_nkd6XgJEOEfCp5MpD-w0WFpJGjbXQsceSuIh0oxIyrGi-0fXXV1UfZy3jrkHHbSbPTzdadSqei_XPeCzULZFZKM=?c=naver.search.pc.plsearch&t=0
+                        - link "smartstore.naver.com/park51670" [ref=e1281] [cursor=pointer]:
+                          - /url: https://ader.naver.com/v1/-H5IKaSjfMH2-Dt48To13M0g5QcMEAVOZYKbcTboaKSMAv-_-kR0yxpUGKVMLZQq3NHNKAt1pb6T84YZKiJOqVUEU30k0_wXbCL3sIhARNCfXqYV_-DcN3rokO9RhQ6xASC_LXFbKx0DXDaNXDbzTsvoSTV0Sj6PMca9LM-auaXtYs3MAq_hCMPYhoMl9YH_xBq392f0-R2kiG9bbU2cJf9fpEPufTUJggvMQe1nAzUKbYY80lTlU1pCihr0-an48u0wDfQWG6QvQCBt8lA8Qnt_zbUl9zjluWeYTElUewqEKMM6-RBqsJDNIMUjx4M0Vy-R8jJOenBJ7CMJ-7O_nkd6XgJEOEfCp5MpD-w0WFpJGjbXQsceSuIh0oxIyrGi-0fXXV1UfZy3jrkHHbSbPTzdadSqei_XPeCzULZFZKM=?c=naver.search.pc.plsearch&t=0
+                      - link "대전보일러맛집" [ref=e1282] [cursor=pointer]:
+                        - /url: https://ader.naver.com/v1/-H5IKaSjfMH2-Dt48To13M0g5QcMEAVOZYKbcTboaKSMAv-_-kR0yxpUGKVMLZQq3NHNKAt1pb6T84YZKiJOqVUEU30k0_wXbCL3sIhARNCfXqYV_-DcN3rokO9RhQ6xASC_LXFbKx0DXDaNXDbzTsvoSTV0Sj6PMca9LM-auaXtYs3MAq_hCMPYhoMl9YH_xBq392f0-R2kiG9bbU2cJf9fpEPufTUJggvMQe1nAzUKbYY80lTlU1pCihr0-an48u0wDfQWG6QvQCBt8lA8Qnt_zbUl9zjluWeYTElUewqEKMM6-RBqsJDNIMUjx4M0Vy-R8jJOenBJ7CMJ-7O_nkd6XgJEOEfCp5MpD-w0WFpJGjbXQsceSuIh0oxIyrGi-0fXXV1UfZy3jrkHHbSbPTzdadSqei_XPeCzULZFZKM=?c=naver.search.pc.plsearch&t=0
+                        - generic [ref=e1283]:
+                          - strong [ref=e1284]: 대전
+                          - text: 보일러
+                          - strong [ref=e1285]: 맛집
+                    - link "대전, 청주, 계룡, 천안, 아산, 논산, 옥천, 금산, 세종, 조치원 교체 설치 에너지관리기능장 및 국가기술자격증 10종 보유" [ref=e1288] [cursor=pointer]:
+                      - /url: https://ader.naver.com/v1/-H5IKaSjfMH2-Dt48To13M0g5QcMEAVOZYKbcTboaKSMAv-_-kR0yxpUGKVMLZQq3NHNKAt1pb6T84YZKiJOqVUEU30k0_wXbCL3sIhARNCfXqYV_-DcN3rokO9RhQ6xASC_LXFbKx0DXDaNXDbzTsvoSTV0Sj6PMca9LM-auaXtYs3MAq_hCMPYhoMl9YH_xBq392f0-R2kiG9bbU2cJf9fpEPufTUJggvMQe1nAzUKbYY80lTlU1pCihr0-an48u0wDfQWG6QvQCBt8lA8Qnt_zbUl9zjluWeYTElUewqEKMM6-RBqsJDNIMUjx4M0Vy-R8jJOenBJ7CMJ-7O_nkd6XgJEOEfCp5MpD-w0WFpJGjbXQsceSuIh0oxIyrGi-0fXXV1UfZy3jrkHHbSbPTzdadSqei_XPeCzULZFZKM=?c=naver.search.pc.plsearch&t=0
+                      - strong [ref=e1289]: 대전
+                      - text: ", 청주, 계룡, 천안, 아산, 논산, 옥천, 금산, 세종, 조치원 교체 설치 에너지관리기능장 및 국가기술자격증 10종 보유"
+                - listitem [ref=e1290]:
+                  - generic [ref=e1291]:
+                    - generic [ref=e1292]:
+                      - generic [ref=e1293]:
+                        - link "favicon" [ref=e1294] [cursor=pointer]:
+                          - /url: https://ader.naver.com/v1/9eyeO353F-VFwiBnvwCodoK8YfGNc61Of9LyHsotl6bQgdmFbd-RaOwlC1rgUjHBirlEx8qltZPdVoImXuiprKm5Gjcee8a6YkcTR1JTo_qdksgp6N3wrhi8eIPRc5o1a8ZWsH020CIuErO8ipJmsGme3HRubYXtLrxvO5qSCrSu_oprrjqNJ_LnNhY5L-h-0opwMbZJ93nIJtbQUPsGD2YPh7JdqFba7iyZrOUG6c4wKqyJBssV7xNrKiK6v00eZg5yvNLYlPYBmDQ7TLT6lueSQjhVDDCI7KfBynvYH8ZNQkxdlUJOVAbBPxM3z7WHaHqGkOEXUEFLewWmshNOIeH_nFn66vrM9Mp9PDy-dotvW6Em8ATroFeuN3ZQFvae3sejNb3WFdm8GrAMHoDpbakCExttHp73LpkMImdp1gKawOkpbwMpuIF850bUnWgi?c=naver.search.pc.plsearch&t=0
+                          - img "favicon" [ref=e1295]
+                        - img "광고" [ref=e1296]:
+                          - img [ref=e1297]
+                        - link "map.naver.com/v5" [ref=e1301] [cursor=pointer]:
+                          - /url: https://ader.naver.com/v1/9eyeO353F-VFwiBnvwCodoK8YfGNc61Of9LyHsotl6bQgdmFbd-RaOwlC1rgUjHBirlEx8qltZPdVoImXuiprKm5Gjcee8a6YkcTR1JTo_qdksgp6N3wrhi8eIPRc5o1a8ZWsH020CIuErO8ipJmsGme3HRubYXtLrxvO5qSCrSu_oprrjqNJ_LnNhY5L-h-0opwMbZJ93nIJtbQUPsGD2YPh7JdqFba7iyZrOUG6c4wKqyJBssV7xNrKiK6v00eZg5yvNLYlPYBmDQ7TLT6lueSQjhVDDCI7KfBynvYH8ZNQkxdlUJOVAbBPxM3z7WHaHqGkOEXUEFLewWmshNOIeH_nFn66vrM9Mp9PDy-dotvW6Em8ATroFeuN3ZQFvae3sejNb3WFdm8GrAMHoDpbakCExttHp73LpkMImdp1gKawOkpbwMpuIF850bUnWgi?c=naver.search.pc.plsearch&t=0
+                      - link "대전 핫플 예약 완료! 인기 폭발 모임 장소 최상급 한우만 숙성합니다" [ref=e1302] [cursor=pointer]:
+                        - /url: https://ader.naver.com/v1/9eyeO353F-VFwiBnvwCodoK8YfGNc61Of9LyHsotl6bQgdmFbd-RaOwlC1rgUjHBirlEx8qltZPdVoImXuiprKm5Gjcee8a6YkcTR1JTo_qdksgp6N3wrhi8eIPRc5o1a8ZWsH020CIuErO8ipJmsGme3HRubYXtLrxvO5qSCrSu_oprrjqNJ_LnNhY5L-h-0opwMbZJ93nIJtbQUPsGD2YPh7JdqFba7iyZrOUG6c4wKqyJBssV7xNrKiK6v00eZg5yvNLYlPYBmDQ7TLT6lueSQjhVDDCI7KfBynvYH8ZNQkxdlUJOVAbBPxM3z7WHaHqGkOEXUEFLewWmshNOIeH_nFn66vrM9Mp9PDy-dotvW6Em8ATroFeuN3ZQFvae3sejNb3WFdm8GrAMHoDpbakCExttHp73LpkMImdp1gKawOkpbwMpuIF850bUnWgi?c=naver.search.pc.plsearch&t=0
+                        - generic [ref=e1303]:
+                          - strong [ref=e1304]: 대전
+                          - text: 핫플 예약 완료!
+                        - text: 인기 폭발 모임 장소 최상급 한우만 숙성합니다
+                    - link "인기 폭발 한우 맛집, 아직도 안 가봤어? 가족 모임부터 회식까지 한 번에 해결되는 백송" [ref=e1307] [cursor=pointer]:
+                      - /url: https://ader.naver.com/v1/9eyeO353F-VFwiBnvwCodoK8YfGNc61Of9LyHsotl6bQgdmFbd-RaOwlC1rgUjHBirlEx8qltZPdVoImXuiprKm5Gjcee8a6YkcTR1JTo_qdksgp6N3wrhi8eIPRc5o1a8ZWsH020CIuErO8ipJmsGme3HRubYXtLrxvO5qSCrSu_oprrjqNJ_LnNhY5L-h-0opwMbZJ93nIJtbQUPsGD2YPh7JdqFba7iyZrOUG6c4wKqyJBssV7xNrKiK6v00eZg5yvNLYlPYBmDQ7TLT6lueSQjhVDDCI7KfBynvYH8ZNQkxdlUJOVAbBPxM3z7WHaHqGkOEXUEFLewWmshNOIeH_nFn66vrM9Mp9PDy-dotvW6Em8ATroFeuN3ZQFvae3sejNb3WFdm8GrAMHoDpbakCExttHp73LpkMImdp1gKawOkpbwMpuIF850bUnWgi?c=naver.search.pc.plsearch&t=0
+                      - text: 인기 폭발 한우
+                      - strong [ref=e1308]: 맛집
+                      - text: ", 아직도 안 가봤어? 가족 모임부터 회식까지 한 번에 해결되는 백송"
+                - listitem [ref=e1309]:
+                  - generic [ref=e1310]:
+                    - generic [ref=e1311]:
+                      - generic [ref=e1312]:
+                        - link "favicon" [ref=e1313] [cursor=pointer]:
+                          - /url: https://ader.naver.com/v1/9L9XxOyDJL7nkwwotQl49m9cteyzZhjwOOzPXZeZZlEsX_bGyaSzfuSA6nTo64vqyp-5KdE2Mv9z_tiVflTS7bU6U-1pb9Tk_7OLYXQS1f04tqhGpj7qYRygBoV42IAVCSVeaFMdXNmT26jVDRmkvx_UcL_tSW8Qrfq8aPxiOhQcGl7OFr830kIB2P6gQgfURjYlehdeRwQR_k2obVrf4plX3jlDqNtRkv1I93_Te_cnrWT96PrTt9uCxTcAY5jkkrme-ham99uTjIc2SADjtQ==?c=naver.search.pc.plsearch&t=0
+                          - img "favicon" [ref=e1314]
+                        - img "광고" [ref=e1315]:
+                          - img [ref=e1316]
+                        - link "숯불닭구이호연재" [ref=e1319] [cursor=pointer]:
+                          - /url: https://ader.naver.com/v1/9L9XxOyDJL7nkwwotQl49m9cteyzZhjwOOzPXZeZZlEsX_bGyaSzfuSA6nTo64vqyp-5KdE2Mv9z_tiVflTS7bU6U-1pb9Tk_7OLYXQS1f04tqhGpj7qYRygBoV42IAVCSVeaFMdXNmT26jVDRmkvx_UcL_tSW8Qrfq8aPxiOhQcGl7OFr830kIB2P6gQgfURjYlehdeRwQR_k2obVrf4plX3jlDqNtRkv1I93_Te_cnrWT96PrTt9uCxTcAY5jkkrme-ham99uTjIc2SADjtQ==?c=naver.search.pc.plsearch&t=0
+                        - link "m.place.naver.com/restaurant" [ref=e1321] [cursor=pointer]:
+                          - /url: https://ader.naver.com/v1/9L9XxOyDJL7nkwwotQl49m9cteyzZhjwOOzPXZeZZlEsX_bGyaSzfuSA6nTo64vqyp-5KdE2Mv9z_tiVflTS7bU6U-1pb9Tk_7OLYXQS1f04tqhGpj7qYRygBoV42IAVCSVeaFMdXNmT26jVDRmkvx_UcL_tSW8Qrfq8aPxiOhQcGl7OFr830kIB2P6gQgfURjYlehdeRwQR_k2obVrf4plX3jlDqNtRkv1I93_Te_cnrWT96PrTt9uCxTcAY5jkkrme-ham99uTjIc2SADjtQ==?c=naver.search.pc.plsearch&t=0
+                      - link "대전 유성 봉명동 유성온천" [ref=e1322] [cursor=pointer]:
+                        - /url: https://ader.naver.com/v1/9L9XxOyDJL7nkwwotQl49m9cteyzZhjwOOzPXZeZZlEsX_bGyaSzfuSA6nTo64vqyp-5KdE2Mv9z_tiVflTS7bU6U-1pb9Tk_7OLYXQS1f04tqhGpj7qYRygBoV42IAVCSVeaFMdXNmT26jVDRmkvx_UcL_tSW8Qrfq8aPxiOhQcGl7OFr830kIB2P6gQgfURjYlehdeRwQR_k2obVrf4plX3jlDqNtRkv1I93_Te_cnrWT96PrTt9uCxTcAY5jkkrme-ham99uTjIc2SADjtQ==?c=naver.search.pc.plsearch&t=0
+                        - generic [ref=e1323]:
+                          - strong [ref=e1324]: 대전
+                          - text: 유성 봉명동 유성온천
+                    - link "대전맛집 유성온천역 닭갈비 명인 숯불닭갈비 가족식사 부모님식사 대전여행 대전청첩장 대전닭갈비 명인 대전오마카세 충남대 카이스트 대전가성비맛집 대전실내데이트" [ref=e1327] [cursor=pointer]:
+                      - /url: https://ader.naver.com/v1/9L9XxOyDJL7nkwwotQl49m9cteyzZhjwOOzPXZeZZlEsX_bGyaSzfuSA6nTo64vqyp-5KdE2Mv9z_tiVflTS7bU6U-1pb9Tk_7OLYXQS1f04tqhGpj7qYRygBoV42IAVCSVeaFMdXNmT26jVDRmkvx_UcL_tSW8Qrfq8aPxiOhQcGl7OFr830kIB2P6gQgfURjYlehdeRwQR_k2obVrf4plX3jlDqNtRkv1I93_Te_cnrWT96PrTt9uCxTcAY5jkkrme-ham99uTjIc2SADjtQ==?c=naver.search.pc.plsearch&t=0
+                      - strong [ref=e1328]: 대전맛집
+                      - text: 유성온천역 닭갈비 명인 숯불닭갈비 가족식사 부모님식사
+                      - strong [ref=e1329]: 대전
+                      - text: 여행
+                      - strong [ref=e1330]: 대전
+                      - text: 청첩장
+                      - strong [ref=e1331]: 대전
+                      - text: 닭갈비 명인
+                      - strong [ref=e1332]: 대전
+                      - text: 오마카세 충남대 카이스트
+                      - strong [ref=e1333]: 대전
+                      - text: 가성비
+                      - strong [ref=e1334]: 맛집
+                      - strong [ref=e1335]: 대전
+                      - text: 실내데이트
+                - listitem [ref=e1336]:
+                  - generic [ref=e1337]:
+                    - generic [ref=e1338]:
+                      - generic [ref=e1339]:
+                        - link "favicon" [ref=e1340] [cursor=pointer]:
+                          - /url: https://ader.naver.com/v1/9L9XxOyDJL7nkwwotQl49m9cteyzZhjwOOzPXZeZZlG7SDF_nzn60urZuZ_JN-dsHr_Cyww4OiRH21AlG4ACYYSl-iNd7hPsCFLC8LLmza1apIRSlLuUjxHsFuXlzKCGD2n-EOJPkftV4LxsznsNhACTxrrTJjjLGjVf7p9BPLubi4s8-ZtenaQgvS9UZHINkRi52fM5tMFq2ctbUkZTqEwpfQO1dyJiDbFtEFMElYH6l9wF_EbkFfKGt58Y6zi-BN6LcI463F1Awe_hkEs_kA==?c=naver.search.pc.plsearch&t=0
+                          - img "favicon" [ref=e1341]
+                        - img "광고" [ref=e1342]:
+                          - img [ref=e1343]
+                        - link "우담화하이브리드코스" [ref=e1346] [cursor=pointer]:
+                          - /url: https://ader.naver.com/v1/9L9XxOyDJL7nkwwotQl49m9cteyzZhjwOOzPXZeZZlG7SDF_nzn60urZuZ_JN-dsHr_Cyww4OiRH21AlG4ACYYSl-iNd7hPsCFLC8LLmza1apIRSlLuUjxHsFuXlzKCGD2n-EOJPkftV4LxsznsNhACTxrrTJjjLGjVf7p9BPLubi4s8-ZtenaQgvS9UZHINkRi52fM5tMFq2ctbUkZTqEwpfQO1dyJiDbFtEFMElYH6l9wF_EbkFfKGt58Y6zi-BN6LcI463F1Awe_hkEs_kA==?c=naver.search.pc.plsearch&t=0
+                        - link "map.naver.com/p" [ref=e1348] [cursor=pointer]:
+                          - /url: https://ader.naver.com/v1/9L9XxOyDJL7nkwwotQl49m9cteyzZhjwOOzPXZeZZlG7SDF_nzn60urZuZ_JN-dsHr_Cyww4OiRH21AlG4ACYYSl-iNd7hPsCFLC8LLmza1apIRSlLuUjxHsFuXlzKCGD2n-EOJPkftV4LxsznsNhACTxrrTJjjLGjVf7p9BPLubi4s8-ZtenaQgvS9UZHINkRi52fM5tMFq2ctbUkZTqEwpfQO1dyJiDbFtEFMElYH6l9wF_EbkFfKGt58Y6zi-BN6LcI463F1Awe_hkEs_kA==?c=naver.search.pc.plsearch&t=0
+                      - link "대전 한우 오마카세 우담화 1등급 숙성한우 코스요리" [ref=e1349] [cursor=pointer]:
+                        - /url: https://ader.naver.com/v1/9L9XxOyDJL7nkwwotQl49m9cteyzZhjwOOzPXZeZZlG7SDF_nzn60urZuZ_JN-dsHr_Cyww4OiRH21AlG4ACYYSl-iNd7hPsCFLC8LLmza1apIRSlLuUjxHsFuXlzKCGD2n-EOJPkftV4LxsznsNhACTxrrTJjjLGjVf7p9BPLubi4s8-ZtenaQgvS9UZHINkRi52fM5tMFq2ctbUkZTqEwpfQO1dyJiDbFtEFMElYH6l9wF_EbkFfKGt58Y6zi-BN6LcI463F1Awe_hkEs_kA==?c=naver.search.pc.plsearch&t=0
+                        - generic [ref=e1350]:
+                          - strong [ref=e1351]: 대전
+                          - text: 한우 오마카세 우담화
+                        - text: 1등급 숙성한우 코스요리
+                    - link "49000원으로 즐기는 우담화의 섬세한 파인다이닝 평일런치" [ref=e1354] [cursor=pointer]:
+                      - /url: https://ader.naver.com/v1/9L9XxOyDJL7nkwwotQl49m9cteyzZhjwOOzPXZeZZlG7SDF_nzn60urZuZ_JN-dsHr_Cyww4OiRH21AlG4ACYYSl-iNd7hPsCFLC8LLmza1apIRSlLuUjxHsFuXlzKCGD2n-EOJPkftV4LxsznsNhACTxrrTJjjLGjVf7p9BPLubi4s8-ZtenaQgvS9UZHINkRi52fM5tMFq2ctbUkZTqEwpfQO1dyJiDbFtEFMElYH6l9wF_EbkFfKGt58Y6zi-BN6LcI463F1Awe_hkEs_kA==?c=naver.search.pc.plsearch&t=0
+              - link "더보기" [ref=e1356] [cursor=pointer]:
+                - /url: https://ad.search.naver.com/search.naver?where=ad&query=%EB%8C%80%EC%A0%84%EB%A7%9B%EC%A7%91&referenceId=jAzImlqosZwssisxEyl-207478
+                - generic [ref=e1357]: 더보기
+          - generic [ref=e2522]:
+            - generic [ref=e2523]:
+              - strong [ref=e2524]: 오픈톡
+              - button "바로가기" [ref=e2525] [cursor=pointer]
+            - generic [ref=e2526]:
+              - generic [ref=e2528]:
+                - img
+                - emphasis [ref=e2529]: 오늘 맛집, 어디 가지?
+                - generic [ref=e2530]: 768,455명
+                - generic [ref=e2531]: 11분 전
+              - list [ref=e2534]:
+                - listitem [ref=e2535]:
+                  - generic [ref=e2536]:
+                    - emphasis [ref=e2537]: 사랑스러운 사막여우
+                    - generic [ref=e2538]: 부천최초! 된장숙성통삼겹살 상륙! 72시간의 교차 된장숙성으로 풍미,쫀득,감칠맛을 완성했습니다. 고객의 눈과입을 즐겁게 해드리겠습니다 돈전쟁 부천현대중동점
+                - listitem [ref=e2539]:
+                  - generic [ref=e2540]:
+                    - emphasis [ref=e2541]: 일하는 판다
+                    - generic [ref=e2542]: 혹시 경주 늦게까지하는 맛집 아시는 분 ㅠㅠ 방금 도착했는데 여는 식당이 없네요…
+                - listitem [ref=e2543]:
+                  - generic [ref=e2544]:
+                    - emphasis [ref=e2545]: 뽀송한 햄스터
+                    - generic [ref=e2546]: 안녕하세요
+                - listitem [ref=e2547]:
+                  - generic [ref=e2548]:
+                    - emphasis [ref=e2549]: 뽀송한 햄스터
+                    - generic [ref=e2550]: 잘부탁드립니다
+                - listitem [ref=e2551]:
+                  - generic [ref=e2552]:
+                    - emphasis [ref=e2553]: 뽀송한 햄스터
+                    - generic [ref=e2554]: 역시 맛집은 우리 구미만한데가 없죠!
+                - listitem [ref=e2555]:
+                  - generic [ref=e2556]:
+                    - emphasis [ref=e2557]: 귀여운 퓨마
+                    - generic [ref=e2558]: 대전가면 뭘 먹어야 할까요
+                - listitem [ref=e2559]:
+                  - generic [ref=e2560]:
+                    - emphasis [ref=e2561]: 왕이로다
+                    - generic [ref=e2562]: 강릉.속초여행중 가장 기억에 남는 최고의 맛집 "팔도전복해물뚝배기" (강릉본점,속초직영점) 역시 소문대로정말친절하고맛있네요..인생맛집 이네요...혼자 알기 아까워서 님들께 강~추 합니다..근처유사식당 주의 ⚠️ 하시고 꼭 상호,위치확인 필수 ( 아침 7시30분 오픈 ) "팔도전복해물뚝배기 " ~엄지~척
+                - listitem [ref=e2563]:
+                  - generic [ref=e2564]:
+                    - emphasis [ref=e2565]: 왕이로다
+                    - generic [ref=e2566]: 동해안 일출 맛집/ 강원매거진7 /[맛있는 금요일]/ G1방송 / 251226 - https://youtube.com/watch?v=CtT1A2Jd1d8&si=IWl9GyfPDt7FXHXN
+                - listitem [ref=e2567]:
+                  - generic [ref=e2568]:
+                    - emphasis [ref=e2569]: 왕이로다
+                    - generic [ref=e2570]: 강릉최고의 맛집 "팔도전복해물뚝배기 " 굳~♡
+                - listitem [ref=e2571]:
+                  - generic [ref=e2572]:
+                    - emphasis [ref=e2573]: 운동하는 오리
+                    - generic [ref=e2574]: https://naver.me/5D8Q5KbG 오늘 여기 다녀왔는데 맛있더라구요
+                - listitem [ref=e2575]:
+                  - generic [ref=e2576]:
+                    - emphasis [ref=e2577]: 운동하는 오리
+                    - generic [ref=e2578]: 평택쪽에 맛집 추천해주세요 매운걸로!
+                - listitem [ref=e2579]:
+                  - generic [ref=e2580]:
+                    - emphasis [ref=e2581]: 운동하는 오리
+                    - generic [ref=e2582]: 오늘 선바위메밀장터 평택점 다녀왔는데 괜찮았어요
+                - listitem [ref=e2583]:
+                  - generic [ref=e2584]:
+                    - emphasis [ref=e2585]: 헬스하는 송아지
+                    - generic [ref=e2586]: "#식객허영만의백반기행 TV 7곳 이상 출연 #부천맛집 #신중동맛집 #부천한식맛집 #부천점심맛집 #부천저녁맛집 #부천웨이팅맛집 #부천가볼만한곳 #맛집 #부천데이트 #부천종합운동장맛집 #상동맛집 #중동맛집 #부천가족외식 #부천밥집 #부천맛집추천 #부천여행 #부천현지인맛집 #부천대표맛집 #신중동점심 #부천점심추천 #부천핫플 #부천데이트코스 #부천나들이 #부천중앙공원맛집 #상동호수공원맛집 #부천자연생태공원맛집 https://m.place.naver.com/restaurant/34037771"
+                - listitem [ref=e2587]:
+                  - generic [ref=e2588]:
+                    - emphasis [ref=e2589]: 바쁜 사막여우
+                    - generic [ref=e2590]: 명동 영플라자 근처에 맛집 추천요
+                - listitem [ref=e2591]:
+                  - generic [ref=e2592]:
+                    - emphasis [ref=e2593]: 공부하는너구리
+                    - generic [ref=e2594]: https://m.place.naver.com/restaurant/1195295135/review/ugc?type=photoView&reviewSort=recent
+                - listitem [ref=e2595]:
+                  - generic [ref=e2596]:
+                    - emphasis [ref=e2597]: 공부하는너구리
+                    - generic [ref=e2598]: https://m.place.naver.com/restaurant/1252707051/home?entry=ple
+                - listitem [ref=e2599]:
+                  - generic [ref=e2600]:
+                    - emphasis [ref=e2601]: 공부하는너구리
+                    - generic [ref=e2602]: https://m.place.naver.com/restaurant/2072392688/home
+                - listitem [ref=e2603]:
+                  - generic [ref=e2604]:
+                    - emphasis [ref=e2605]: 에헷
+                    - generic [ref=e2606]: "[네이버지도] 부산 송정맛집 송정코다리 본점 부산 해운대구 송정광어골로 72 송정코다리 https://naver.me/FEdsjQmV"
+                - listitem [ref=e2607]:
+                  - generic [ref=e2608]:
+                    - emphasis [ref=e2609]: 지루한 금붕어
+                    - generic [ref=e2610]: 파주 한우 맛집 추천해주세요
+                - listitem [ref=e2611]:
+                  - generic [ref=e2612]:
+                    - emphasis [ref=e2613]: 응원하는 물개
+                    - generic [ref=e2614]: 맛집정보 많아요 https://www.tiktok.com/d/2/ZS9jr3qjgpY3x-JwL3t/
+              - button "오픈톡 참여하기" [ref=e2615] [cursor=pointer]:
+                - generic [ref=e2616]: 오픈톡 참여하기
+              - button "오픈톡 참여하기" [ref=e2618] [cursor=pointer]:
+                - text: 오픈톡 참여하기
+                - img
+          - generic [ref=e1378]:
+            - heading "맛집 인기글" [level=2] [ref=e1382]
+            - generic [ref=e1383]:
+              - generic [ref=e1385]:
+                - generic [ref=e1386]:
+                  - generic [ref=e1387]:
+                    - link [ref=e1389] [cursor=pointer]:
+                      - /url: https://ader.naver.com/v1/eFpeZw7aJc4dp4WOjnYWbQhh7VBp-N7pLX_QuOAuaPIVlf_aAYnf98Y8p8kzJv5n4ZX2YNLGCX_ac392hqx_k0frO7h7EYarDy88E5YfE-y6wEsTaoxLksFPqPSJ2vsOrJLpGllCFWkeccCp8Ayr9WslpXMYIz3-kFzViSGj-M9B_qlQERICqo2Nljaxnsoh9o5O2zmCcuZfvPrKdCGPU39qDKGJD8SN9KmmKR7uVYa1JeqS_Drk9HftRt2T5Tv8JupYh2e56AJnm8GVn4xPFA==?c=naver.search.pc.pwc_sb&t=0
+                    - link "솔가숯불갈비 대전직영점" [ref=e1394] [cursor=pointer]:
+                      - /url: https://ader.naver.com/v1/eFpeZw7aJc4dp4WOjnYWbQhh7VBp-N7pLX_QuOAuaPIVlf_aAYnf98Y8p8kzJv5n4ZX2YNLGCX_ac392hqx_k0frO7h7EYarDy88E5YfE-y6wEsTaoxLksFPqPSJ2vsOrJLpGllCFWkeccCp8Ayr9WslpXMYIz3-kFzViSGj-M9B_qlQERICqo2Nljaxnsoh9o5O2zmCcuZfvPrKdCGPU39qDKGJD8SN9KmmKR7uVYa1JeqS_Drk9HftRt2T5Tv8JupYh2e56AJnm8GVn4xPFA==?c=naver.search.pc.pwc_sb&t=0
+                      - generic [ref=e1395]: 솔가숯불갈비 대전직영점
+                    - generic [ref=e1398]: 2026.05.20.
+                  - link [ref=e1399] [cursor=pointer]:
+                    - /url: https://help.naver.com/alias/search/integration_m/integration_m68
+                    - img [ref=e1400]
+                - generic [ref=e1407]:
+                  - generic [ref=e1408]:
+                    - link "대전 가족외식/단체모임 맛집, 솔가숯불갈비 대전점" [ref=e1409] [cursor=pointer]:
+                      - /url: https://ader.naver.com/v1/eFpeZw7aJc4dp4WOjnYWbQhh7VBp-N7pLX_QuOAuaPIVlf_aAYnf98Y8p8kzJv5n4ZX2YNLGCX_ac392hqx_k0frO7h7EYarDy88E5YfE-y6wEsTaoxLksFPqPSJ2vsOrJLpGllCFWkeccCp8Ayr9WslpXMYIz3-kFzViSGj-M9B_qlQERICqo2Nljaxnsoh9o5O2zmCcuZfvPrKdCGPU39qDKGJD8SN9KmmKR7uVYa1JeqS_Drk9HftRt2T5Tv8JupYh2e56AJnm8GVn4xPFA==?c=naver.search.pc.pwc_sb&t=0
+                      - generic [ref=e1410]:
+                        - strong [ref=e1411]: 대전
+                        - text: 가족외식/단체모임
+                        - strong [ref=e1412]: 맛집
+                        - text: ", 솔가숯불갈비"
+                        - strong [ref=e1413]: 대전
+                        - text: 점
+                    - link "1999년부터 이어온 전통과 노하우(본점기준) 특허받은 양념, 하나하나 칼집을 넣은 특별한 수제갈비. 연기, 냄새 걱정 없는 고깃집. 둔산동 12분, 유성구 12분, 대전역 24분거리!..." [ref=e1415] [cursor=pointer]:
+                      - /url: https://ader.naver.com/v1/eFpeZw7aJc4dp4WOjnYWbQhh7VBp-N7pLX_QuOAuaPIVlf_aAYnf98Y8p8kzJv5n4ZX2YNLGCX_ac392hqx_k0frO7h7EYarDy88E5YfE-y6wEsTaoxLksFPqPSJ2vsOrJLpGllCFWkeccCp8Ayr9WslpXMYIz3-kFzViSGj-M9B_qlQERICqo2Nljaxnsoh9o5O2zmCcuZfvPrKdCGPU39qDKGJD8SN9KmmKR7uVYa1JeqS_Drk9HftRt2T5Tv8JupYh2e56AJnm8GVn4xPFA==?c=naver.search.pc.pwc_sb&t=0
+                      - generic [ref=e1416]:
+                        - text: 1999년부터 이어온 전통과 노하우(본점기준) 특허받은 양념, 하나하나 칼집을 넣은 특별한 수제갈비. 연기, 냄새 걱정 없는 고깃집. 둔산동 12분, 유성구 12분,
+                        - strong [ref=e1417]: 대전
+                        - text: 역 24분거리!...
+                  - generic [ref=e1418]:
+                    - link [ref=e1419] [cursor=pointer]:
+                      - /url: https://ader.naver.com/v1/eFpeZw7aJc4dp4WOjnYWbQhh7VBp-N7pLX_QuOAuaPIVlf_aAYnf98Y8p8kzJv5n4ZX2YNLGCX_ac392hqx_k0frO7h7EYarDy88E5YfE-y6wEsTaoxLksFPqPSJ2vsOrJLpGllCFWkeccCp8Ayr9WslpXMYIz3-kFzViSGj-M9B_qlQERICqo2Nljaxnsoh9o5O2zmCcuZfvPrKdCGPU39qDKGJD8SN9KmmKR7uVYa1JeqS_Drk9HftRt2T5Tv8JupYh2e56AJnm8GVn4xPFA==?c=naver.search.pc.pwc_sb&t=0
+                      - img [ref=e1421]
+                    - link [ref=e1423] [cursor=pointer]:
+                      - /url: https://ader.naver.com/v1/eFpeZw7aJc4dp4WOjnYWbQhh7VBp-N7pLX_QuOAuaPIVlf_aAYnf98Y8p8kzJv5n4ZX2YNLGCX_ac392hqx_k0frO7h7EYarDy88E5YfE-y6wEsTaoxLksFPqPSJ2vsOrJLpGllCFWkeccCp8Ayr9WslpXMYIz3-kFzViSGj-M9B_qlQERICqo2Nljaxnsoh9o5O2zmCcuZfvPrKdCGPU39qDKGJD8SN9KmmKR7uVYa1JeqS_Drk9HftRt2T5Tv8JupYh2e56AJnm8GVn4xPFA==?c=naver.search.pc.pwc_sb&t=0
+                      - img [ref=e1425]
+                    - link [ref=e1427] [cursor=pointer]:
+                      - /url: https://ader.naver.com/v1/eFpeZw7aJc4dp4WOjnYWbQhh7VBp-N7pLX_QuOAuaPIVlf_aAYnf98Y8p8kzJv5n4ZX2YNLGCX_ac392hqx_k0frO7h7EYarDy88E5YfE-y6wEsTaoxLksFPqPSJ2vsOrJLpGllCFWkeccCp8Ayr9WslpXMYIz3-kFzViSGj-M9B_qlQERICqo2Nljaxnsoh9o5O2zmCcuZfvPrKdCGPU39qDKGJD8SN9KmmKR7uVYa1JeqS_Drk9HftRt2T5Tv8JupYh2e56AJnm8GVn4xPFA==?c=naver.search.pc.pwc_sb&t=0
+                      - img [ref=e1429]
+                    - link [ref=e1431] [cursor=pointer]:
+                      - /url: https://ader.naver.com/v1/eFpeZw7aJc4dp4WOjnYWbQhh7VBp-N7pLX_QuOAuaPIVlf_aAYnf98Y8p8kzJv5n4ZX2YNLGCX_ac392hqx_k0frO7h7EYarDy88E5YfE-y6wEsTaoxLksFPqPSJ2vsOrJLpGllCFWkeccCp8Ayr9WslpXMYIz3-kFzViSGj-M9B_qlQERICqo2Nljaxnsoh9o5O2zmCcuZfvPrKdCGPU39qDKGJD8SN9KmmKR7uVYa1JeqS_Drk9HftRt2T5Tv8JupYh2e56AJnm8GVn4xPFA==?c=naver.search.pc.pwc_sb&t=0
+                      - img [ref=e1433]
+                    - link [ref=e1435] [cursor=pointer]:
+                      - /url: https://ader.naver.com/v1/eFpeZw7aJc4dp4WOjnYWbQhh7VBp-N7pLX_QuOAuaPIVlf_aAYnf98Y8p8kzJv5n4ZX2YNLGCX_ac392hqx_k0frO7h7EYarDy88E5YfE-y6wEsTaoxLksFPqPSJ2vsOrJLpGllCFWkeccCp8Ayr9WslpXMYIz3-kFzViSGj-M9B_qlQERICqo2Nljaxnsoh9o5O2zmCcuZfvPrKdCGPU39qDKGJD8SN9KmmKR7uVYa1JeqS_Drk9HftRt2T5Tv8JupYh2e56AJnm8GVn4xPFA==?c=naver.search.pc.pwc_sb&t=0
+                      - img [ref=e1437]
+                    - generic [ref=e1439]: "23"
+              - generic [ref=e1442]:
+                - generic [ref=e1443]:
+                  - generic [ref=e1444]:
+                    - link [ref=e1446] [cursor=pointer]:
+                      - /url: https://ader.naver.com/v1/eFpeZw7aJc4dp4WOjnYWbQhh7VBp-N7pLX_QuOAuaPJzO_sW_7lZpGZ3CXTrk9qhUkwQr_wvEf4CdMncyr32-nU7ZbU1rt_HKu8hTAIellz_N7I6vZpS8aSE0JMm9BGeRLyoi2oVSSR5xW_JgqpRZwndSRLfaThd52EGNjnSOiQB5iEinj-5IHb2I7o3HT28FFmciYIUjmGsSQfNLJZb4jkrmGBophFTBGAeDZfg4UN9KC2_vvUxjjGKDG2OvHXGRsqVnDDom-XVIySOq_1XIw==?c=naver.search.pc.pwc_sb&t=0
+                    - link "이태리국시" [ref=e1451] [cursor=pointer]:
+                      - /url: https://ader.naver.com/v1/eFpeZw7aJc4dp4WOjnYWbQhh7VBp-N7pLX_QuOAuaPJzO_sW_7lZpGZ3CXTrk9qhUkwQr_wvEf4CdMncyr32-nU7ZbU1rt_HKu8hTAIellz_N7I6vZpS8aSE0JMm9BGeRLyoi2oVSSR5xW_JgqpRZwndSRLfaThd52EGNjnSOiQB5iEinj-5IHb2I7o3HT28FFmciYIUjmGsSQfNLJZb4jkrmGBophFTBGAeDZfg4UN9KC2_vvUxjjGKDG2OvHXGRsqVnDDom-XVIySOq_1XIw==?c=naver.search.pc.pwc_sb&t=0
+                      - generic [ref=e1452]: 이태리국시
+                    - generic [ref=e1455]: 2026.04.14.
+                  - link [ref=e1456] [cursor=pointer]:
+                    - /url: https://help.naver.com/alias/search/integration_m/integration_m68
+                    - img [ref=e1457]
+                - generic [ref=e1464]:
+                  - generic [ref=e1465]:
+                    - link "대전 둔산동 맛집, 이태리국시 한식이탈리안 퓨전맛집" [ref=e1466] [cursor=pointer]:
+                      - /url: https://ader.naver.com/v1/eFpeZw7aJc4dp4WOjnYWbQhh7VBp-N7pLX_QuOAuaPJzO_sW_7lZpGZ3CXTrk9qhUkwQr_wvEf4CdMncyr32-nU7ZbU1rt_HKu8hTAIellz_N7I6vZpS8aSE0JMm9BGeRLyoi2oVSSR5xW_JgqpRZwndSRLfaThd52EGNjnSOiQB5iEinj-5IHb2I7o3HT28FFmciYIUjmGsSQfNLJZb4jkrmGBophFTBGAeDZfg4UN9KC2_vvUxjjGKDG2OvHXGRsqVnDDom-XVIySOq_1XIw==?c=naver.search.pc.pwc_sb&t=0
+                      - generic [ref=e1467]:
+                        - strong [ref=e1468]: 대전
+                        - text: 둔산동
+                        - strong [ref=e1469]: 맛집
+                        - text: ", 이태리국시 한식이탈리안 퓨전"
+                        - strong [ref=e1470]: 맛집
+                    - link "11년 넘게 사랑받아온 대전 대표 맛집. 가장 한식적인 파스타, 이탈리안을 결합한 독창적인 다이닝 경험. 대표메뉴 숯불대창돌솥파스타 곱창치즈돌솥파스타 숯불불고기쌈피자 삼계마늘크림돌솥리소토..." [ref=e1472] [cursor=pointer]:
+                      - /url: https://ader.naver.com/v1/eFpeZw7aJc4dp4WOjnYWbQhh7VBp-N7pLX_QuOAuaPJzO_sW_7lZpGZ3CXTrk9qhUkwQr_wvEf4CdMncyr32-nU7ZbU1rt_HKu8hTAIellz_N7I6vZpS8aSE0JMm9BGeRLyoi2oVSSR5xW_JgqpRZwndSRLfaThd52EGNjnSOiQB5iEinj-5IHb2I7o3HT28FFmciYIUjmGsSQfNLJZb4jkrmGBophFTBGAeDZfg4UN9KC2_vvUxjjGKDG2OvHXGRsqVnDDom-XVIySOq_1XIw==?c=naver.search.pc.pwc_sb&t=0
+                      - generic [ref=e1473]:
+                        - text: 11년 넘게 사랑받아온
+                        - strong [ref=e1474]: 대전
+                        - text: 대표
+                        - strong [ref=e1475]: 맛집
+                        - text: . 가장 한식적인 파스타, 이탈리안을 결합한 독창적인 다이닝 경험. 대표메뉴 숯불대창돌솥파스타 곱창치즈돌솥파스타 숯불불고기쌈피자 삼계마늘크림돌솥리소토...
+                  - link "12" [ref=e1476] [cursor=pointer]:
+                    - /url: https://ader.naver.com/v1/eFpeZw7aJc4dp4WOjnYWbQhh7VBp-N7pLX_QuOAuaPJzO_sW_7lZpGZ3CXTrk9qhUkwQr_wvEf4CdMncyr32-nU7ZbU1rt_HKu8hTAIellz_N7I6vZpS8aSE0JMm9BGeRLyoi2oVSSR5xW_JgqpRZwndSRLfaThd52EGNjnSOiQB5iEinj-5IHb2I7o3HT28FFmciYIUjmGsSQfNLJZb4jkrmGBophFTBGAeDZfg4UN9KC2_vvUxjjGKDG2OvHXGRsqVnDDom-XVIySOq_1XIw==?c=naver.search.pc.pwc_sb&t=0
+                    - generic [ref=e1478]:
+                      - img [ref=e1479]
+                      - generic [ref=e1483]: "12"
+              - generic [ref=e1486]:
+                - generic [ref=e1487]:
+                  - generic [ref=e1488]:
+                    - link [ref=e1490] [cursor=pointer]:
+                      - /url: https://ader.naver.com/v1/eFpeZw7aJc4dp4WOjnYWbQhh7VBp-N7pLX_QuOAuaPJufEYXWTEiyZSGmd1ayexobqIMPQxKTPLaFaelmOxSLn6v3eP7Xl_yYSP4smW1f-AYaa3mK_4bLlOzQh3X-t7UXbLaVQuz3fRvnP7aPDwcSQ-hvAczaVnMghTK7UKGIKEBv1ALojT_rF8_UQvKJbbCSXrASd7ReqgA9GvLbJsRn0J-gjUw_QY_Of3_heMYnSAWfjFjamDy4crWIy27sM9W1sE_-HkofzGd-b7U4Ol0eA==?c=naver.search.pc.pwc_sb&t=0
+                    - link "백송한우 대전 유성" [ref=e1495] [cursor=pointer]:
+                      - /url: https://ader.naver.com/v1/eFpeZw7aJc4dp4WOjnYWbQhh7VBp-N7pLX_QuOAuaPJufEYXWTEiyZSGmd1ayexobqIMPQxKTPLaFaelmOxSLn6v3eP7Xl_yYSP4smW1f-AYaa3mK_4bLlOzQh3X-t7UXbLaVQuz3fRvnP7aPDwcSQ-hvAczaVnMghTK7UKGIKEBv1ALojT_rF8_UQvKJbbCSXrASd7ReqgA9GvLbJsRn0J-gjUw_QY_Of3_heMYnSAWfjFjamDy4crWIy27sM9W1sE_-HkofzGd-b7U4Ol0eA==?c=naver.search.pc.pwc_sb&t=0
+                      - generic [ref=e1496]: 백송한우 대전 유성
+                    - generic [ref=e1499]: 2026.02.02.
+                  - link [ref=e1500] [cursor=pointer]:
+                    - /url: https://help.naver.com/alias/search/integration_m/integration_m68
+                    - img [ref=e1501]
+                - generic [ref=e1508]:
+                  - generic [ref=e1509]:
+                    - link "연예인들이 대전오면 다녀간다는 한우맛집 백송한우" [ref=e1510] [cursor=pointer]:
+                      - /url: https://ader.naver.com/v1/eFpeZw7aJc4dp4WOjnYWbQhh7VBp-N7pLX_QuOAuaPJufEYXWTEiyZSGmd1ayexobqIMPQxKTPLaFaelmOxSLn6v3eP7Xl_yYSP4smW1f-AYaa3mK_4bLlOzQh3X-t7UXbLaVQuz3fRvnP7aPDwcSQ-hvAczaVnMghTK7UKGIKEBv1ALojT_rF8_UQvKJbbCSXrASd7ReqgA9GvLbJsRn0J-gjUw_QY_Of3_heMYnSAWfjFjamDy4crWIy27sM9W1sE_-HkofzGd-b7U4Ol0eA==?c=naver.search.pc.pwc_sb&t=0
+                      - generic [ref=e1511]:
+                        - text: 연예인들이
+                        - strong [ref=e1512]: 대전
+                        - text: 오면 다녀간다는 한우
+                        - strong [ref=e1513]: 맛집
+                        - text: 백송한우
+                    - link "식객 허영만 백반 기행 122화에 소개되었던 백송한우는 찐 맛집들만 찾아다니는 연예인들도 많이 찾는 대전한우맛집인데요, 실제로 박세리를 비롯해 가수 비, 류현진, 김창욱 님 등도 방문했던 곳이에요...." [ref=e1515] [cursor=pointer]:
+                      - /url: https://ader.naver.com/v1/eFpeZw7aJc4dp4WOjnYWbQhh7VBp-N7pLX_QuOAuaPJufEYXWTEiyZSGmd1ayexobqIMPQxKTPLaFaelmOxSLn6v3eP7Xl_yYSP4smW1f-AYaa3mK_4bLlOzQh3X-t7UXbLaVQuz3fRvnP7aPDwcSQ-hvAczaVnMghTK7UKGIKEBv1ALojT_rF8_UQvKJbbCSXrASd7ReqgA9GvLbJsRn0J-gjUw_QY_Of3_heMYnSAWfjFjamDy4crWIy27sM9W1sE_-HkofzGd-b7U4Ol0eA==?c=naver.search.pc.pwc_sb&t=0
+                      - generic [ref=e1516]:
+                        - text: 식객 허영만 백반 기행 122화에 소개되었던 백송한우는 찐
+                        - strong [ref=e1517]: 맛집
+                        - text: 들만 찾아다니는 연예인들도 많이 찾는
+                        - strong [ref=e1518]: 대전
+                        - text: 한우
+                        - strong [ref=e1519]: 맛집
+                        - text: 인데요, 실제로 박세리를 비롯해 가수 비, 류현진, 김창욱 님 등도 방문했던 곳이에요....
+                  - link "44" [ref=e1520] [cursor=pointer]:
+                    - /url: https://ader.naver.com/v1/eFpeZw7aJc4dp4WOjnYWbQhh7VBp-N7pLX_QuOAuaPJufEYXWTEiyZSGmd1ayexobqIMPQxKTPLaFaelmOxSLn6v3eP7Xl_yYSP4smW1f-AYaa3mK_4bLlOzQh3X-t7UXbLaVQuz3fRvnP7aPDwcSQ-hvAczaVnMghTK7UKGIKEBv1ALojT_rF8_UQvKJbbCSXrASd7ReqgA9GvLbJsRn0J-gjUw_QY_Of3_heMYnSAWfjFjamDy4crWIy27sM9W1sE_-HkofzGd-b7U4Ol0eA==?c=naver.search.pc.pwc_sb&t=0
+                    - generic [ref=e1522]:
+                      - img [ref=e1523]
+                      - generic [ref=e1527]: "44"
+              - generic [ref=e1530]:
+                - generic [ref=e1531]:
+                  - generic [ref=e1532]:
+                    - link [ref=e1534] [cursor=pointer]:
+                      - /url: https://cafe.naver.com/hanwhaeaglesfancafe
+                    - generic [ref=e1537]:
+                      - link "Only one Hanwha" [ref=e1539] [cursor=pointer]:
+                        - /url: https://cafe.naver.com/hanwhaeaglesfancafe
+                        - generic [ref=e1540]: Only one Hanwha
+                      - img [ref=e1541]
+                    - generic [ref=e1546]: 3주 전
+                  - button "옵션 메뉴 열기" [ref=e1548] [cursor=pointer]:
+                    - img [ref=e1549]
+                - generic [ref=e1555]:
+                  - link "대전 맛집 추천 부탁드려요!" [ref=e1556] [cursor=pointer]:
+                    - /url: https://cafe.naver.com/hanwhaeaglesfancafe/1693085?art=ZXh0ZXJuYWwtc2VydmljZS1uYXZlci1zZWFyY2gtY2FmZS1wcg.eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJjYWZlVHlwZSI6IkNBRkVfVVJMIiwiY2FmZVVybCI6ImhhbndoYWVhZ2xlc2ZhbmNhZmUiLCJhcnRpY2xlSWQiOjE2OTMwODUsImlzc3VlZEF0IjoxNzgxMzMyNjE0NDg4fQ.FDsHmIuEqc8gDUdJ22CuNQGmnInIzoxD4JtMpbiYmhc
+                    - generic [ref=e1557]:
+                      - mark [ref=e1558]: 대전 맛집
+                      - text: 추천 부탁드려요!
+                  - link "☝️위 공지 꼭 한 번씩 읽어주세요☝️ 내일 처음으로 직관가게 되는데 추천해주실 식당 있을까요!? 우선 태평소국밥은 갈거같긴 한데... 다른 곳을 아직 못찾아서요 ㅠ" [ref=e1560] [cursor=pointer]:
+                    - /url: https://cafe.naver.com/hanwhaeaglesfancafe/1693085?art=ZXh0ZXJuYWwtc2VydmljZS1uYXZlci1zZWFyY2gtY2FmZS1wcg.eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJjYWZlVHlwZSI6IkNBRkVfVVJMIiwiY2FmZVVybCI6ImhhbndoYWVhZ2xlc2ZhbmNhZmUiLCJhcnRpY2xlSWQiOjE2OTMwODUsImlzc3VlZEF0IjoxNzgxMzMyNjE0NDg4fQ.FDsHmIuEqc8gDUdJ22CuNQGmnInIzoxD4JtMpbiYmhc
+                - generic [ref=e1561]:
+                  - generic [ref=e1563]:
+                    - link "RE 경기장 바로 앞 농민순대요. 엄청 저렴하고 양 많고 맛있어요." [ref=e1564] [cursor=pointer]:
+                      - /url: https://cafe.naver.com/hanwhaeaglesfancafe/1693085?art=ZXh0ZXJuYWwtc2VydmljZS1uYXZlci1zZWFyY2gtY2FmZS1wcg.eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJjYWZlVHlwZSI6IkNBRkVfVVJMIiwiY2FmZVVybCI6ImhhbndoYWVhZ2xlc2ZhbmNhZmUiLCJhcnRpY2xlSWQiOjE2OTMwODUsImlzc3VlZEF0IjoxNzgxMzMyNjE0NDg4fQ.FDsHmIuEqc8gDUdJ22CuNQGmnInIzoxD4JtMpbiYmhc
+                      - generic [ref=e1567]:
+                        - generic [ref=e1568]: RE
+                        - text: 경기장 바로 앞 농민순대요. 엄청 저렴하고 양 많고 맛있어요.
+                    - link "RE 대성콩국수 추천드려요 김치랑 궁합이 미쳤습니다." [ref=e1569] [cursor=pointer]:
+                      - /url: https://cafe.naver.com/hanwhaeaglesfancafe/1693085?art=ZXh0ZXJuYWwtc2VydmljZS1uYXZlci1zZWFyY2gtY2FmZS1wcg.eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJjYWZlVHlwZSI6IkNBRkVfVVJMIiwiY2FmZVVybCI6ImhhbndoYWVhZ2xlc2ZhbmNhZmUiLCJhcnRpY2xlSWQiOjE2OTMwODUsImlzc3VlZEF0IjoxNzgxMzMyNjE0NDg4fQ.FDsHmIuEqc8gDUdJ22CuNQGmnInIzoxD4JtMpbiYmhc
+                      - generic [ref=e1572]:
+                        - generic [ref=e1573]: RE
+                        - text: 대성콩국수 추천드려요 김치랑 궁합이 미쳤습니다.
+                    - link "RE 신도칼국수요!칼국수 수육 조합 미쳤어요!!!" [ref=e1574] [cursor=pointer]:
+                      - /url: https://cafe.naver.com/hanwhaeaglesfancafe/1693085?art=ZXh0ZXJuYWwtc2VydmljZS1uYXZlci1zZWFyY2gtY2FmZS1wcg.eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJjYWZlVHlwZSI6IkNBRkVfVVJMIiwiY2FmZVVybCI6ImhhbndoYWVhZ2xlc2ZhbmNhZmUiLCJhcnRpY2xlSWQiOjE2OTMwODUsImlzc3VlZEF0IjoxNzgxMzMyNjE0NDg4fQ.FDsHmIuEqc8gDUdJ22CuNQGmnInIzoxD4JtMpbiYmhc
+                      - generic [ref=e1577]:
+                        - generic [ref=e1578]: RE
+                        - text: 신도칼국수요!칼국수 수육 조합 미쳤어요!!!
+                    - link "RE 믿고 가보겠습니다!!!(경기 끝나고 ㅎ)" [ref=e1579] [cursor=pointer]:
+                      - /url: https://cafe.naver.com/hanwhaeaglesfancafe/1693085?art=ZXh0ZXJuYWwtc2VydmljZS1uYXZlci1zZWFyY2gtY2FmZS1wcg.eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJjYWZlVHlwZSI6IkNBRkVfVVJMIiwiY2FmZVVybCI6ImhhbndoYWVhZ2xlc2ZhbmNhZmUiLCJhcnRpY2xlSWQiOjE2OTMwODUsImlzc3VlZEF0IjoxNzgxMzMyNjE0NDg4fQ.FDsHmIuEqc8gDUdJ22CuNQGmnInIzoxD4JtMpbiYmhc
+                      - generic [ref=e1582]:
+                        - generic [ref=e1583]: RE
+                        - text: 믿고 가보겠습니다!!!(경기 끝나고 ㅎ)
+                    - link "RE 꼭 꼭 꼭이요… 두부구이도 무조건 추가해 주세요…" [ref=e1584] [cursor=pointer]:
+                      - /url: https://cafe.naver.com/hanwhaeaglesfancafe/1693085?art=ZXh0ZXJuYWwtc2VydmljZS1uYXZlci1zZWFyY2gtY2FmZS1wcg.eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJjYWZlVHlwZSI6IkNBRkVfVVJMIiwiY2FmZVVybCI6ImhhbndoYWVhZ2xlc2ZhbmNhZmUiLCJhcnRpY2xlSWQiOjE2OTMwODUsImlzc3VlZEF0IjoxNzgxMzMyNjE0NDg4fQ.FDsHmIuEqc8gDUdJ22CuNQGmnInIzoxD4JtMpbiYmhc
+                      - generic [ref=e1587]:
+                        - generic [ref=e1588]: RE
+                        - text: 꼭 꼭 꼭이요… 두부구이도 무조건 추가해 주세요…
+                  - button "다음 버튼" [ref=e1589] [cursor=pointer]:
+                    - img [ref=e1591]
+              - generic [ref=e1595]:
+                - generic [ref=e1596]:
+                  - generic [ref=e1597]:
+                    - link [ref=e1599] [cursor=pointer]:
+                      - /url: https://cafe.naver.com/lionsball
+                    - generic [ref=e1602]:
+                      - link "사자 사랑방 (삼성라이온즈 팬 커뮤니티)" [ref=e1604] [cursor=pointer]:
+                        - /url: https://cafe.naver.com/lionsball
+                        - generic [ref=e1605]: 사자 사랑방 (삼성라이온즈 팬 커뮤니티)
+                      - img [ref=e1606]
+                    - generic [ref=e1611]: 2주 전
+                  - button "옵션 메뉴 열기" [ref=e1613] [cursor=pointer]:
+                    - img [ref=e1614]
+                - generic [ref=e1620]:
+                  - link "대전 맛집 추천 부탁드려요~" [ref=e1621] [cursor=pointer]:
+                    - /url: https://cafe.naver.com/lionsball/5016209?art=ZXh0ZXJuYWwtc2VydmljZS1uYXZlci1zZWFyY2gtY2FmZS1wcg.eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJjYWZlVHlwZSI6IkNBRkVfVVJMIiwiY2FmZVVybCI6Imxpb25zYmFsbCIsImFydGljbGVJZCI6NTAxNjIwOSwiaXNzdWVkQXQiOjE3ODEzMzI2MTQ0ODl9.q7GClGIyD8VrnOGFTULPdMHPOqGRNjOUUZB4uTgPG4s
+                    - generic [ref=e1622]:
+                      - mark [ref=e1623]: 대전 맛집
+                      - text: 추천 부탁드려요~
+                  - link "6월 한화와의 주말경기를 보려고 합니다. 티켓팅이 제일 문제이지만 ㅜㅜ 무조건 가보려구요 처음 대전 원정경기인데요 점심 맛나게 먹고 응원 열심히 하려구요 ㅎㅎ 초등 2학년 남아 있는 사자가족 입니다. 아직 일자는 많이 남았는데요 그래도 맛집 추천 함 해주세요~" [ref=e1625] [cursor=pointer]:
+                    - /url: https://cafe.naver.com/lionsball/5016209?art=ZXh0ZXJuYWwtc2VydmljZS1uYXZlci1zZWFyY2gtY2FmZS1wcg.eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJjYWZlVHlwZSI6IkNBRkVfVVJMIiwiY2FmZVVybCI6Imxpb25zYmFsbCIsImFydGljbGVJZCI6NTAxNjIwOSwiaXNzdWVkQXQiOjE3ODEzMzI2MTQ0ODl9.q7GClGIyD8VrnOGFTULPdMHPOqGRNjOUUZB4uTgPG4s
+                    - generic [ref=e1626]:
+                      - text: 6월 한화와의 주말경기를 보려고 합니다. 티켓팅이 제일 문제이지만 ㅜㅜ 무조건 가보려구요 처음
+                      - mark [ref=e1627]: 대전
+                      - text: 원정경기인데요 점심 맛나게 먹고 응원 열심히 하려구요 ㅎㅎ 초등 2학년 남아 있는 사자가족 입니다. 아직 일자는 많이 남았는데요 그래도
+                      - mark [ref=e1628]: 맛집
+                      - text: 추천 함 해주세요~
+                - generic [ref=e1629]:
+                  - generic [ref=e1631]:
+                    - link "RE 오씨칼국수(동죽조개탕이 최고 &칼국수) 맛있었어요." [ref=e1632] [cursor=pointer]:
+                      - /url: https://cafe.naver.com/lionsball/5016209?art=ZXh0ZXJuYWwtc2VydmljZS1uYXZlci1zZWFyY2gtY2FmZS1wcg.eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJjYWZlVHlwZSI6IkNBRkVfVVJMIiwiY2FmZVVybCI6Imxpb25zYmFsbCIsImFydGljbGVJZCI6NTAxNjIwOSwiaXNzdWVkQXQiOjE3ODEzMzI2MTQ0ODl9.q7GClGIyD8VrnOGFTULPdMHPOqGRNjOUUZB4uTgPG4s
+                      - generic [ref=e1635]:
+                        - generic [ref=e1636]: RE
+                        - text: 오씨칼국수(동죽조개탕이 최고 &칼국수) 맛있었어요.
+                    - link "RE 오문창순대국밥 / 볼파크 바로앞에 농민순대도 괜찮습니다!" [ref=e1637] [cursor=pointer]:
+                      - /url: https://cafe.naver.com/lionsball/5016209?art=ZXh0ZXJuYWwtc2VydmljZS1uYXZlci1zZWFyY2gtY2FmZS1wcg.eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJjYWZlVHlwZSI6IkNBRkVfVVJMIiwiY2FmZVVybCI6Imxpb25zYmFsbCIsImFydGljbGVJZCI6NTAxNjIwOSwiaXNzdWVkQXQiOjE3ODEzMzI2MTQ0ODl9.q7GClGIyD8VrnOGFTULPdMHPOqGRNjOUUZB4uTgPG4s
+                      - generic [ref=e1640]:
+                        - generic [ref=e1641]: RE
+                        - text: 오문창순대국밥 / 볼파크 바로앞에 농민순대도 괜찮습니다!
+                    - link "RE 대전역근처는 치앙마이타이 볼파크 근처는 별뜨는집에 조림 맛있고 은영네한우내장탕 맵기조절도 가능하고 맛있어요! 빵은 다 맛있는데" [ref=e1642] [cursor=pointer]:
+                      - /url: https://cafe.naver.com/lionsball/5016209?art=ZXh0ZXJuYWwtc2VydmljZS1uYXZlci1zZWFyY2gtY2FmZS1wcg.eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJjYWZlVHlwZSI6IkNBRkVfVVJMIiwiY2FmZVVybCI6Imxpb25zYmFsbCIsImFydGljbGVJZCI6NTAxNjIwOSwiaXNzdWVkQXQiOjE3ODEzMzI2MTQ0ODl9.q7GClGIyD8VrnOGFTULPdMHPOqGRNjOUUZB4uTgPG4s
+                      - generic [ref=e1645]:
+                        - generic [ref=e1646]: RE
+                        - generic [ref=e1647]:
+                          - mark [ref=e1648]: 대전
+                          - text: 역근처는 치앙마이타이 볼파크 근처는 별뜨는집에 조림 맛있고 은영네한우내장탕 맵기조절도 가능하고 맛있어요! 빵은 다
+                          - mark [ref=e1649]: 맛있는
+                          - text: 데
+                    - link "RE 티켓팅이 언제인가요? 저도 삼린이 둘 데리고 대전원정 계획하고 있습니다" [ref=e1650] [cursor=pointer]:
+                      - /url: https://cafe.naver.com/lionsball/5016209?art=ZXh0ZXJuYWwtc2VydmljZS1uYXZlci1zZWFyY2gtY2FmZS1wcg.eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJjYWZlVHlwZSI6IkNBRkVfVVJMIiwiY2FmZVVybCI6Imxpb25zYmFsbCIsImFydGljbGVJZCI6NTAxNjIwOSwiaXNzdWVkQXQiOjE3ODEzMzI2MTQ0ODl9.q7GClGIyD8VrnOGFTULPdMHPOqGRNjOUUZB4uTgPG4s
+                      - generic [ref=e1653]:
+                        - generic [ref=e1654]: RE
+                        - generic [ref=e1655]:
+                          - text: 티켓팅이 언제인가요? 저도 삼린이 둘 데리고
+                          - mark [ref=e1656]: 대전
+                          - text: 원정 계획하고 있습니다
+                    - link "RE 세종 나성동에 있는 상상낙지 추천이요ㅎㅎ 저희집 원픽 맛집인데 파전에 낙지요리가 굿" [ref=e1657] [cursor=pointer]:
+                      - /url: https://cafe.naver.com/lionsball/5016209?art=ZXh0ZXJuYWwtc2VydmljZS1uYXZlci1zZWFyY2gtY2FmZS1wcg.eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJjYWZlVHlwZSI6IkNBRkVfVVJMIiwiY2FmZVVybCI6Imxpb25zYmFsbCIsImFydGljbGVJZCI6NTAxNjIwOSwiaXNzdWVkQXQiOjE3ODEzMzI2MTQ0ODl9.q7GClGIyD8VrnOGFTULPdMHPOqGRNjOUUZB4uTgPG4s
+                      - generic [ref=e1660]:
+                        - generic [ref=e1661]: RE
+                        - generic [ref=e1662]:
+                          - text: 세종 나성동에 있는 상상낙지 추천이요ㅎㅎ 저희집 원픽
+                          - mark [ref=e1663]: 맛집
+                          - text: 인데 파전에 낙지요리가 굿
+                  - button "다음 버튼" [ref=e1664] [cursor=pointer]:
+                    - img [ref=e1666]
+              - generic [ref=e1670]:
+                - generic [ref=e1671]:
+                  - generic [ref=e1672]:
+                    - link [ref=e1674] [cursor=pointer]:
+                      - /url: https://blog.naver.com/konamui
+                    - link "나만의 여행기록 만들기" [ref=e1679] [cursor=pointer]:
+                      - /url: https://blog.naver.com/konamui
+                      - generic [ref=e1680]: 나만의 여행기록 만들기
+                    - generic [ref=e1683]: 2026.04.16.
+                  - button "옵션 메뉴 열기" [ref=e1685] [cursor=pointer]:
+                    - img [ref=e1686]
+                - generic [ref=e1691]:
+                  - generic [ref=e1692]:
+                    - link "대전여행코스 내돈내산 맛집 추천 총정리 | 김화칼국수, 성심당, 영춘모찌, 진로집, 바로그집" [active] [ref=e1693] [cursor=pointer]:
+                      - /url: /p/crd/rd?m=1&px=304&py=5867&sx=304&sy=427&vw=929&vh=869&bw=672&bh=1671&bx=276&by=1184&p=jAzImlqosZwssisxEyl-207478&q=%EB%8C%80%EC%A0%84+%EB%A7%9B%EC%A7%91&ie=utf8&rev=1&f=nexearch&w=nexearch&s=nLAsWwwlh%2B8shbmD1G7AjuTN&time=1781332635848&abt=%5B%7B%22eid%22%3A%22N-PLC-AD-UI-26%22%2C%22vid%22%3A%224%22%7D%2C%7B%22eid%22%3A%22N-PWL-UX-26%22%2C%22vid%22%3A%224%22%7D%2C%7B%22eid%22%3A%22N-AIB-COV-26-AD%22%2C%22vid%22%3A%229%22%7D%5D&a=ugB_bsR*b.link&i=90000003_0000000000000034369A0AC0&r=6&u=https%3A%2F%2Fblog.naver.com%2Fkonamui%2F224254364352&ssc=tab.nx.all&tid=ugcItem&bid=review%2Fprs_template_v2_review_ugc_single_intention_desk.ts&cr=5
+                      - generic [ref=e1694]:
+                        - mark [ref=e1695]: 대전
+                        - text: 여행코스 내돈내산
+                        - mark [ref=e1696]: 맛집
+                        - text: 추천 총정리 | 김화칼국수, 성심당, 영춘모찌, 진로집, 바로그집
+                    - link "갓 튀긴 고로케가 제일 맛있는거 아시죠 ? 아침시간에 방문해서 빵이 뜨끈뜨끈하고 바삭바삭 했어요. 성심당 카레고로케 일본에서 파는 카레고로케랑 맛이 99%에 가깝다고 말할수 있을정도로 진짜 맛있으니 완전 추천합니다 !! 대전 김화칼국수 대전역이랑 제일 가까운 칼국수맛집이었어요. 다른 유명한 가게는 도보30분정도 걸렸기 때문에 대전역이랑 가까운 김화칼국수로..." [ref=e1698] [cursor=pointer]:
+                      - /url: https://blog.naver.com/konamui/224254364352
+                      - generic [ref=e1699]:
+                        - text: 갓 튀긴 고로케가 제일
+                        - mark [ref=e1700]: 맛있는
+                        - text: 거 아시죠 ? 아침시간에 방문해서 빵이 뜨끈뜨끈하고 바삭바삭 했어요. 성심당 카레고로케 일본에서 파는 카레고로케랑 맛이 99%에 가깝다고 말할수 있을정도로 진짜 맛있으니 완전 추천합니다 !!
+                        - mark [ref=e1701]: 대전
+                        - text: 김화칼국수
+                        - mark [ref=e1702]: 대전
+                        - text: 역이랑 제일 가까운 칼국수
+                        - mark [ref=e1703]: 맛집
+                        - text: 이었어요. 다른 유명한 가게는 도보30분정도 걸렸기 때문에
+                        - mark [ref=e1704]: 대전
+                        - text: 역이랑 가까운 김화칼국수로...
+                  - link "41" [ref=e1705] [cursor=pointer]:
+                    - /url: https://blog.naver.com/konamui/224254364352
+                    - generic [ref=e1707]:
+                      - img [ref=e1708]
+                      - generic [ref=e1712]: "41"
+              - generic [ref=e1715]:
+                - generic [ref=e1716]:
+                  - generic [ref=e1717]:
+                    - link [ref=e1719] [cursor=pointer]:
+                      - /url: https://cafe.naver.com/directwedding
+                    - generic [ref=e1722]:
+                      - link "다이렉트 결혼준비" [ref=e1724] [cursor=pointer]:
+                        - /url: https://cafe.naver.com/directwedding
+                        - generic [ref=e1725]: 다이렉트 결혼준비
+                      - img [ref=e1726]
+                    - generic [ref=e1731]: 2주 전
+                  - button "옵션 메뉴 열기" [ref=e1733] [cursor=pointer]:
+                    - img [ref=e1734]
+                - generic [ref=e1739]:
+                  - generic [ref=e1740]:
+                    - link "❤️좋아요❤️대전맛집소개) 둔산동에 있는 둔산 공주칼국수. 콩국수,열무국수 맛집" [ref=e1741] [cursor=pointer]:
+                      - /url: https://cafe.naver.com/directwedding/9016706?art=ZXh0ZXJuYWwtc2VydmljZS1uYXZlci1zZWFyY2gtY2FmZS1wcg.eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJjYWZlVHlwZSI6IkNBRkVfVVJMIiwiY2FmZVVybCI6ImRpcmVjdHdlZGRpbmciLCJhcnRpY2xlSWQiOjkwMTY3MDYsImlzc3VlZEF0IjoxNzgxMzMyNjE0NDg5fQ.0olM8fYZbUzkfiWHBrgpi3ZAKEQ2B-4oDT-iLoBL_Xs
+                      - generic [ref=e1742]:
+                        - text: ❤️좋아요❤️
+                        - mark [ref=e1743]: 대전맛집
+                        - text: 소개) 둔산동에 있는 둔산 공주칼국수. 콩국수,열무국수
+                        - mark [ref=e1744]: 맛집
+                    - link "구이오 예요~ 대전은 지난 주말 한낮은 엄~청 더웠어요! 시원~한 콩국수와 열무국수을 먹으러 열심히 식당을 찾던 중 발견한 둔산공주칼국수 집을 간단하게 소개합니다! 네이버지도에는 둔산공주칼국수 라고 쳐야 나온답니다. 원래는 칼국수 맛집인데, 저희는 시원한게 먹고싶어서요ㅋㅋ 저희 옆 테이블은 칼칼한 칼국수 드시더라구요. 다음에는 저것도 먹어봐야지 했어요...." [ref=e1746] [cursor=pointer]:
+                      - /url: https://cafe.naver.com/directwedding/9016706?art=ZXh0ZXJuYWwtc2VydmljZS1uYXZlci1zZWFyY2gtY2FmZS1wcg.eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJjYWZlVHlwZSI6IkNBRkVfVVJMIiwiY2FmZVVybCI6ImRpcmVjdHdlZGRpbmciLCJhcnRpY2xlSWQiOjkwMTY3MDYsImlzc3VlZEF0IjoxNzgxMzMyNjE0NDg5fQ.0olM8fYZbUzkfiWHBrgpi3ZAKEQ2B-4oDT-iLoBL_Xs
+                      - generic [ref=e1747]:
+                        - text: 구이오 예요~
+                        - mark [ref=e1748]: 대전
+                        - text: 은 지난 주말 한낮은 엄~청 더웠어요! 시원~한 콩국수와 열무국수을 먹으러 열심히 식당을 찾던 중 발견한 둔산공주칼국수 집을 간단하게 소개합니다! 네이버지도에는 둔산공주칼국수 라고 쳐야 나온답니다. 원래는 칼국수
+                        - mark [ref=e1749]: 맛집
+                        - text: 인데, 저희는 시원한게 먹고싶어서요ㅋㅋ 저희 옆 테이블은 칼칼한 칼국수 드시더라구요. 다음에는 저것도 먹어봐야지 했어요....
+                  - link "4" [ref=e1750] [cursor=pointer]:
+                    - /url: https://cafe.naver.com/directwedding/9016706?art=ZXh0ZXJuYWwtc2VydmljZS1uYXZlci1zZWFyY2gtY2FmZS1wcg.eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJjYWZlVHlwZSI6IkNBRkVfVVJMIiwiY2FmZVVybCI6ImRpcmVjdHdlZGRpbmciLCJhcnRpY2xlSWQiOjkwMTY3MDYsImlzc3VlZEF0IjoxNzgxMzMyNjE0NDg5fQ.0olM8fYZbUzkfiWHBrgpi3ZAKEQ2B-4oDT-iLoBL_Xs
+                    - generic [ref=e1752]:
+                      - img [ref=e1753]
+                      - generic [ref=e1757]: "4"
+                - generic [ref=e1758]:
+                  - generic [ref=e1759]:
+                    - generic [ref=e1761]:
+                      - link "RE 대전 놀러 가면 꼭 가봐야 겠어요" [ref=e1762] [cursor=pointer]:
+                        - /url: https://cafe.naver.com/directwedding/9016706?art=ZXh0ZXJuYWwtc2VydmljZS1uYXZlci1zZWFyY2gtY2FmZS1wcg.eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJjYWZlVHlwZSI6IkNBRkVfVVJMIiwiY2FmZVVybCI6ImRpcmVjdHdlZGRpbmciLCJhcnRpY2xlSWQiOjkwMTY3MDYsImlzc3VlZEF0IjoxNzgxMzMyNjE0NDg5fQ.0olM8fYZbUzkfiWHBrgpi3ZAKEQ2B-4oDT-iLoBL_Xs
+                        - generic [ref=e1765]:
+                          - generic [ref=e1766]: RE
+                          - generic [ref=e1767]:
+                            - mark [ref=e1768]: 대전
+                            - text: 놀러 가면 꼭 가봐야 겠어요
+                      - link "RE 대전에 이런 맛집이 있는지 몰랐네요!" [ref=e1769] [cursor=pointer]:
+                        - /url: https://cafe.naver.com/directwedding/9016706?art=ZXh0ZXJuYWwtc2VydmljZS1uYXZlci1zZWFyY2gtY2FmZS1wcg.eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJjYWZlVHlwZSI6IkNBRkVfVVJMIiwiY2FmZVVybCI6ImRpcmVjdHdlZGRpbmciLCJhcnRpY2xlSWQiOjkwMTY3MDYsImlzc3VlZEF0IjoxNzgxMzMyNjE0NDg5fQ.0olM8fYZbUzkfiWHBrgpi3ZAKEQ2B-4oDT-iLoBL_Xs
+                        - generic [ref=e1772]:
+                          - generic [ref=e1773]: RE
+                          - generic [ref=e1774]:
+                            - mark [ref=e1775]: 대전
+                            - text: 에 이런
+                            - mark [ref=e1776]: 맛집
+                            - text: 이 있는지 몰랐네요!
+                      - link "RE 비리지 않고 고소한 콩국수에 새콤달달한 열무국수라니, 대전 더운 날 딱 맞는 골목 찐맛집이네요!" [ref=e1777] [cursor=pointer]:
+                        - /url: https://cafe.naver.com/directwedding/9016706?art=ZXh0ZXJuYWwtc2VydmljZS1uYXZlci1zZWFyY2gtY2FmZS1wcg.eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJjYWZlVHlwZSI6IkNBRkVfVVJMIiwiY2FmZVVybCI6ImRpcmVjdHdlZGRpbmciLCJhcnRpY2xlSWQiOjkwMTY3MDYsImlzc3VlZEF0IjoxNzgxMzMyNjE0NDg5fQ.0olM8fYZbUzkfiWHBrgpi3ZAKEQ2B-4oDT-iLoBL_Xs
+                        - generic [ref=e1780]:
+                          - generic [ref=e1781]: RE
+                          - generic [ref=e1782]:
+                            - text: 비리지 않고 고소한 콩국수에 새콤달달한 열무국수라니,
+                            - mark [ref=e1783]: 대전
+                            - text: 더운 날 딱 맞는 골목 찐
+                            - mark [ref=e1784]: 맛집
+                            - text: 이네요!
+                      - link "RE 요즘 같이 더운날씨에 고소한 콩국수 한그릇 하기에 좋은것 같아요~" [ref=e1785] [cursor=pointer]:
+                        - /url: https://cafe.naver.com/directwedding/9016706?art=ZXh0ZXJuYWwtc2VydmljZS1uYXZlci1zZWFyY2gtY2FmZS1wcg.eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJjYWZlVHlwZSI6IkNBRkVfVVJMIiwiY2FmZVVybCI6ImRpcmVjdHdlZGRpbmciLCJhcnRpY2xlSWQiOjkwMTY3MDYsImlzc3VlZEF0IjoxNzgxMzMyNjE0NDg5fQ.0olM8fYZbUzkfiWHBrgpi3ZAKEQ2B-4oDT-iLoBL_Xs
+                        - generic [ref=e1788]:
+                          - generic [ref=e1789]: RE
+                          - text: 요즘 같이 더운날씨에 고소한 콩국수 한그릇 하기에 좋은것 같아요~
+                      - link "RE 여름이라 이제 슬슬 콩국수 생각나네요 ㅎㅎ" [ref=e1790] [cursor=pointer]:
+                        - /url: https://cafe.naver.com/directwedding/9016706?art=ZXh0ZXJuYWwtc2VydmljZS1uYXZlci1zZWFyY2gtY2FmZS1wcg.eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJjYWZlVHlwZSI6IkNBRkVfVVJMIiwiY2FmZVVybCI6ImRpcmVjdHdlZGRpbmciLCJhcnRpY2xlSWQiOjkwMTY3MDYsImlzc3VlZEF0IjoxNzgxMzMyNjE0NDg5fQ.0olM8fYZbUzkfiWHBrgpi3ZAKEQ2B-4oDT-iLoBL_Xs
+                        - generic [ref=e1793]:
+                          - generic [ref=e1794]: RE
+                          - text: 여름이라 이제 슬슬 콩국수 생각나네요 ㅎㅎ
+                    - button "다음 버튼" [ref=e1795] [cursor=pointer]:
+                      - img [ref=e1797]
+                  - link "[대전 맛집] 70년 전통 노포 '태화장' 주말 가족 외식 솔직 후기! (인생 멘보샤 찾았습니다)" [ref=e1802] [cursor=pointer]:
+                    - /url: https://cafe.naver.com/directwedding/9015906?art=ZXh0ZXJuYWwtc2VydmljZS1uYXZlci1zZWFyY2gtY2FmZS1wcg.eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJjYWZlVHlwZSI6IkNBRkVfVVJMIiwiY2FmZVVybCI6ImRpcmVjdHdlZGRpbmciLCJhcnRpY2xlSWQiOjkwMTU5MDYsImlzc3VlZEF0IjoxNzgxMzMyNjE0NDg5fQ._NcKOg1MjhCzm25Owqv-aQvHSyh2junp63bnqLcHFyo
+                    - generic [ref=e1803]:
+                      - text: "["
+                      - mark [ref=e1804]: 대전 맛집
+                      - text: "] 70년 전통 노포 '태화장' 주말 가족 외식 솔직 후기! (인생 멘보샤 찾았습니다)"
+            - link "맛집 인기글 더보기" [ref=e1806] [cursor=pointer]:
+              - /url: "#lb_api=https%3A%2F%2Fs.search.naver.com%2Fp%2Freview%2F50%2Fsearch.naver%3Fabt%3D%26ac%3D0%26api_type%3D5%26aq%3D0%26enlu_query%3DIggCANSAULh9AAAAtdoURqXUdp9ygLuVMM8qJjBRzn5lCCssR9IPz1EN4BeGVqLRrhJ%252Bki2NPj4inlJnlsNKAn528RfGb31%252FcnjFAFPtNFBeLwqRSW5y%252BNbNJq8ZLyFOX%252BeRnpI%252FkaS%252FiF3I1Qa%252BQeWcS4xhkPppZaOyY8hK%252FOjwkQlJQwDYrezDS%252B6z2Z%252BsaZVCzpRaVCiktY2Yd1NOKYWozd3aDly4lyBlQ4kZcx4tu666lQt4NAQ2q3vZWDbKm6xraTAgod7dINdq%252BuluaznnobvLT1Unl4z9mWS1SDcL4X4Yw8mgOxFFYR1rdsVTL%252F%252Foy1%252B5vMB0X4KGsFFdotBqUpNmgqSCVYxTuq4mU2gwv2xKGRmjpg0v9PHsQLZ5wn4jQW6YH32lcHRXDuKZUrnPNH9cjjWuE4DTwNl7IVHW%252BgVLeY4%252BWS9AKNrhzF0r23jKDO%252BUHN4HUKG8P8nuAZCfhtcE22I59UY1ci7T0oXjidyjcieVwBeCWJ1webpHtwG%252BC6dbKvEgYUFiQHBw5q4ZKp0XUTn%252Bm7bGjegDwLjUjHNA6vO%252FB%252FiI5384x%252FKS4xVRg9qBcKyDsa1eBY60oR0pE0ra%252B57aIPOx98H5PnkZJk0aPU7PxtWVAVyRrt%252FHfEwuszRXf7gjLJBx6mOOesn6pinYJRkr1hoGNZoXljVeH3EkXolDIFarihlix4%252FL2KLsPdMjEP8nRIgdM862qNx3b8qPEUvxkAaXTBDug6vTTyICZL7A6EAfSo%252B6ahwxubnmqdTSLHeiM3uXQF6UTokViMBSq%252BF0qas3tmo%252FHl%252B1rQwOfrCxNPmME16Gn8%252B7txDNzLKuCDxYrvuildlG7gSRhmPZFheCYBAB8uuaFXtc6GEqkjER0QDbzOnsabQ%252Ftje3%252FOUWse0kGM8kPFqIVFzon7c7VxoRd87Up2OFKwVOGiiZxYtHAE5M5n%252BxbF90fPafW2m4%252Fw4pktNwS9Nv%252BpFauHrfbA7eTjRH0Gx%252B0aiUC3C5%252FGyHlZpS1vefgYsaEw7B07HLeWdAqW5F%26enqx_theme%3DIggCAECCULgWAAAAh%252FDtntZaiMLGh3DOFtIyq%252B4EtXeapXTeRQEGir3RH5sIZYC78pRuLlbZcov6Ch0FLRnTEYAFjs1MclUBXCtqDzdDNeNNOAlcEuHTF1pimlJTTI%252Fc8kHsLNwuXJOlFPABY6kkrsXP6r8OmOBGEbnwPQ%253D%253D%26equery%3DIggCACCCULjiAAAAHRQpNgBtbRdsq8cuYrr%252F6g%253D%253D%26fgn_city%3D%26fgn_region%3D%26lgl_lat%3D36.352520%26lgl_long%3D127.386049%26lgl_rcode%3D07170112%26ngn_country%3DKR%26nso%3D%26nx_and_query%3D%26nx_search_query%3D%26nx_sub_query%3D%26page%3D1%26prank%3D0%26query%3D%25EB%258C%2580%25EC%25A0%2584%2B%25EB%25A7%259B%25EC%25A7%2591%26sm%3Dtop_hty%26spq%3D0%26ssc%3Dtab.itb.all%26start%3D1%26ur%3D0%26area%3DugB_bsR"
+              - generic [ref=e1809]:
+                - generic [ref=e1811]:
+                  - generic [ref=e1812]: 맛집 인기글
+                  - generic [ref=e1813]: 더보기
+                - img [ref=e1815]
+          - generic [ref=e2622]:
+            - generic [ref=e2625]:
+              - generic [ref=e2626]: 함께 많이 찾는
+              - button [ref=e2627] [cursor=pointer]:
+                - img [ref=e2628]
+            - generic [ref=e2634]:
+              - generic [ref=e2636]:
+                - generic [ref=e2639]:
+                  - generic [ref=e2640]:
+                    - link "대전 성심당 맛집" [ref=e2642] [cursor=pointer]:
+                      - /url: "?where=nexearch&sm=tab_clk.ndT&query=%EB%8C%80%EC%A0%84%20%EC%84%B1%EC%8B%AC%EB%8B%B9%20%EB%A7%9B%EC%A7%91"
+                      - generic [ref=e2645]:
+                        - text: 대전
+                        - mark [ref=e2646]: 성심당
+                        - text: 맛집
+                      - img [ref=e2649]
+                    - link "대전 맛집 추천" [ref=e2653] [cursor=pointer]:
+                      - /url: "?where=nexearch&sm=tab_clk.ndT&query=%EB%8C%80%EC%A0%84%20%EB%A7%9B%EC%A7%91%20%EC%B6%94%EC%B2%9C"
+                      - generic [ref=e2656]:
+                        - text: 대전 맛집
+                        - mark [ref=e2657]: 추천
+                      - img [ref=e2659]
+                  - generic [ref=e2662]:
+                    - link "대전 둔산동 맛집" [ref=e2664] [cursor=pointer]:
+                      - /url: "?where=nexearch&sm=tab_clk.ndT&query=%EB%8C%80%EC%A0%84%20%EB%91%94%EC%82%B0%EB%8F%99%20%EB%A7%9B%EC%A7%91"
+                      - generic [ref=e2667]:
+                        - text: 대전
+                        - mark [ref=e2668]: 둔산동
+                        - text: 맛집
+                      - img [ref=e2670]
+                    - link "대전 맛집 베스트" [ref=e2674] [cursor=pointer]:
+                      - /url: "?where=nexearch&sm=tab_clk.ndT&query=%EB%8C%80%EC%A0%84%20%EB%A7%9B%EC%A7%91%20%EB%B2%A0%EC%8A%A4%ED%8A%B8"
+                      - generic [ref=e2677]:
+                        - text: 대전 맛집
+                        - mark [ref=e2678]: 베스트
+                      - img [ref=e2680]
+                  - generic [ref=e2683]:
+                    - link "대전 유성 맛집" [ref=e2685] [cursor=pointer]:
+                      - /url: "?where=nexearch&sm=tab_clk.ndT&query=%EB%8C%80%EC%A0%84%20%EC%9C%A0%EC%84%B1%20%EB%A7%9B%EC%A7%91"
+                      - generic [ref=e2688]:
+                        - text: 대전
+                        - mark [ref=e2689]: 유성
+                        - text: 맛집
+                      - img [ref=e2691]
+                    - link "대전 은행동 맛집" [ref=e2695] [cursor=pointer]:
+                      - /url: "?where=nexearch&sm=tab_clk.ndT&query=%EB%8C%80%EC%A0%84%20%EC%9D%80%ED%96%89%EB%8F%99%20%EB%A7%9B%EC%A7%91"
+                      - generic [ref=e2698]:
+                        - text: 대전
+                        - mark [ref=e2699]: 은행동
+                        - text: 맛집
+                      - img [ref=e2701]
+                - generic [ref=e2706]:
+                  - generic [ref=e2707]:
+                    - link "대전 대흥동 맛집" [ref=e2709] [cursor=pointer]:
+                      - /url: "?where=nexearch&sm=tab_clk.ndT&query=%EB%8C%80%EC%A0%84%20%EB%8C%80%ED%9D%A5%EB%8F%99%20%EB%A7%9B%EC%A7%91"
+                      - generic [ref=e2712]:
+                        - text: 대전
+                        - mark [ref=e2713]: 대흥동
+                        - text: 맛집
+                      - img [ref=e2715]
+                    - link "대전 유성구 맛집" [ref=e2719] [cursor=pointer]:
+                      - /url: "?where=nexearch&sm=tab_clk.ndT&query=%EB%8C%80%EC%A0%84%20%EC%9C%A0%EC%84%B1%EA%B5%AC%20%EB%A7%9B%EC%A7%91"
+                      - generic [ref=e2722]:
+                        - text: 대전
+                        - mark [ref=e2723]: 유성구
+                        - text: 맛집
+                      - img [ref=e2725]
+                  - generic [ref=e2728]:
+                    - link "대전 봉명동 맛집" [ref=e2730] [cursor=pointer]:
+                      - /url: "?where=nexearch&sm=tab_clk.ndT&query=%EB%8C%80%EC%A0%84%20%EB%B4%89%EB%AA%85%EB%8F%99%20%EB%A7%9B%EC%A7%91"
+                      - generic [ref=e2733]:
+                        - text: 대전
+                        - mark [ref=e2734]: 봉명동
+                        - text: 맛집
+                      - img [ref=e2736]
+                    - link "대전 중구 맛집" [ref=e2740] [cursor=pointer]:
+                      - /url: "?where=nexearch&sm=tab_clk.ndT&query=%EB%8C%80%EC%A0%84%20%EC%A4%91%EA%B5%AC%20%EB%A7%9B%EC%A7%91"
+                      - generic [ref=e2743]:
+                        - text: 대전
+                        - mark [ref=e2744]: 중구
+                        - text: 맛집
+                      - img [ref=e2746]
+                  - generic [ref=e2749]:
+                    - link "대전 서구 맛집" [ref=e2751] [cursor=pointer]:
+                      - /url: "?where=nexearch&sm=tab_clk.ndT&query=%EB%8C%80%EC%A0%84%20%EC%84%9C%EA%B5%AC%20%EB%A7%9B%EC%A7%91"
+                      - generic [ref=e2754]:
+                        - text: 대전
+                        - mark [ref=e2755]: 서구
+                        - text: 맛집
+                      - img [ref=e2757]
+                    - link "대전 한식 맛집" [ref=e2761] [cursor=pointer]:
+                      - /url: "?where=nexearch&sm=tab_clk.ndT&query=%EB%8C%80%EC%A0%84%20%ED%95%9C%EC%8B%9D%20%EB%A7%9B%EC%A7%91"
+                      - generic [ref=e2764]:
+                        - text: 대전
+                        - mark [ref=e2765]: 한식
+                        - text: 맛집
+                      - img [ref=e2767]
+                - generic [ref=e2772]:
+                  - generic [ref=e2773]:
+                    - link "대전 중앙로 맛집" [ref=e2775] [cursor=pointer]:
+                      - /url: "?where=nexearch&sm=tab_clk.ndT&query=%EB%8C%80%EC%A0%84%20%EC%A4%91%EC%95%99%EB%A1%9C%20%EB%A7%9B%EC%A7%91"
+                      - generic [ref=e2778]:
+                        - text: 대전
+                        - mark [ref=e2779]: 중앙로
+                        - text: 맛집
+                      - img [ref=e2781]
+                    - link "대전 근교 맛집" [ref=e2785] [cursor=pointer]:
+                      - /url: "?where=nexearch&sm=tab_clk.ndT&query=%EB%8C%80%EC%A0%84%20%EA%B7%BC%EA%B5%90%20%EB%A7%9B%EC%A7%91"
+                      - generic [ref=e2788]:
+                        - text: 대전
+                        - mark [ref=e2789]: 근교
+                        - text: 맛집
+                      - img [ref=e2791]
+                  - generic [ref=e2794]:
+                    - link "대전 동구 맛집" [ref=e2796] [cursor=pointer]:
+                      - /url: "?where=nexearch&sm=tab_clk.ndT&query=%EB%8C%80%EC%A0%84%20%EB%8F%99%EA%B5%AC%20%EB%A7%9B%EC%A7%91"
+                      - generic [ref=e2799]:
+                        - text: 대전
+                        - mark [ref=e2800]: 동구
+                        - text: 맛집
+                      - img [ref=e2802]
+                    - link "박세리 대전 맛집" [ref=e2806] [cursor=pointer]:
+                      - /url: "?where=nexearch&sm=tab_clk.ndT&query=%EB%B0%95%EC%84%B8%EB%A6%AC%20%EB%8C%80%EC%A0%84%20%EB%A7%9B%EC%A7%91"
+                      - generic [ref=e2809]:
+                        - mark [ref=e2810]: 박세리
+                        - text: 대전 맛집
+                      - img [ref=e2812]
+                  - generic [ref=e2815]:
+                    - link "대전 용전동 맛집" [ref=e2817] [cursor=pointer]:
+                      - /url: "?where=nexearch&sm=tab_clk.ndT&query=%EB%8C%80%EC%A0%84%20%EC%9A%A9%EC%A0%84%EB%8F%99%20%EB%A7%9B%EC%A7%91"
+                      - generic [ref=e2820]:
+                        - text: 대전
+                        - mark [ref=e2821]: 용전동
+                        - text: 맛집
+                      - img [ref=e2823]
+                    - link "대전 만년동 맛집" [ref=e2827] [cursor=pointer]:
+                      - /url: "?where=nexearch&sm=tab_clk.ndT&query=%EB%8C%80%EC%A0%84%20%EB%A7%8C%EB%85%84%EB%8F%99%20%EB%A7%9B%EC%A7%91"
+                      - generic [ref=e2830]:
+                        - text: 대전
+                        - mark [ref=e2831]: 만년동
+                        - text: 맛집
+                      - img [ref=e2833]
+              - navigation [ref=e2836]:
+                - generic [ref=e2837]:
+                  - button "이전 페이지로 가기" [disabled] [ref=e2838]:
+                    - img [ref=e2840]
+                  - generic [ref=e2842]:
+                    - generic [ref=e2844]: "1"
+                    - img [ref=e2845]
+                    - generic [ref=e2848]: "3"
+                  - button "다음 페이지로 가기" [ref=e2849] [cursor=pointer]:
+                    - img [ref=e2851]
+          - generic [ref=e1819]:
+            - generic [ref=e1820]:
+              - generic [ref=e1821]:
+                - generic [ref=e1822]:
+                  - generic [ref=e1823]:
+                    - link "나무위키 namu.wiki›대전광역시›음식" [ref=e1824] [cursor=pointer]:
+                      - /url: https://namu.wiki/w/%EB%8C%80%EC%A0%84%EA%B4%91%EC%97%AD%EC%8B%9C/%EC%9D%8C%EC%8B%9D
+                      - generic [ref=e1826]:
+                        - generic [ref=e1831]: 나무위키
+                        - generic [ref=e1835]: namu.wiki›대전광역시›음식
+                    - button "옵션 메뉴 열기" [ref=e1837] [cursor=pointer]:
+                      - img [ref=e1838]
+                  - generic [ref=e1842]:
+                    - link "<mark>대전</mark>광역시/음식 - 나무위키의 이미지" [ref=e1843] [cursor=pointer]:
+                      - /url: https://namu.wiki/w/%EB%8C%80%EC%A0%84%EA%B4%91%EC%97%AD%EC%8B%9C/%EC%9D%8C%EC%8B%9D
+                      - img "<mark>대전</mark>광역시/음식 - 나무위키의 이미지" [ref=e1845]
+                    - link "대전광역시/음식 - 나무위키" [ref=e1848] [cursor=pointer]:
+                      - /url: https://namu.wiki/w/%EB%8C%80%EC%A0%84%EA%B4%91%EC%97%AD%EC%8B%9C/%EC%9D%8C%EC%8B%9D
+                      - generic [ref=e1849]:
+                        - mark [ref=e1850]: 대전
+                        - text: 광역시/음식 - 나무위키
+                    - link "대전광역시는 전체적으로 다른 지역들에 비교해보면, 그렇게 음식으로 유명한 지역은 아니다. 일단 도시 자체가 철도(경부선, 호남선)가 놓이면서 조성된 곳이라 도시의 역사가 얼마 되지 않았기 때문인데, 대전에서 유명한 음식들 중 상당수는 대전의 초창기 발전하던 시절부터 인구를 흡수해온 공주시의 영향을 받았다. 애초에 대전이 전통적으로는 공주의, 옛날 표현으로는 속현(屬縣) 내지는 그 영향력 하에 있었기도 하다. 특별히 특산품이 있는 것이 아니기도 하고, 물류의 중심지이기는 하지만 좋은 재료는 우리나라의 특성상 먼저..." [ref=e1852] [cursor=pointer]:
+                      - /url: https://namu.wiki/w/%EB%8C%80%EC%A0%84%EA%B4%91%EC%97%AD%EC%8B%9C/%EC%9D%8C%EC%8B%9D
+                      - generic [ref=e1853]:
+                        - mark [ref=e1854]: 대전
+                        - text: 광역시는 전체적으로 다른 지역들에 비교해보면, 그렇게 음식으로 유명한 지역은 아니다. 일단 도시 자체가 철도(경부선, 호남선)가 놓이면서 조성된 곳이라 도시의 역사가 얼마 되지 않았기 때문인데,
+                        - mark [ref=e1855]: 대전
+                        - text: 에서 유명한 음식들 중 상당수는
+                        - mark [ref=e1856]: 대전
+                        - text: 의 초창기 발전하던 시절부터 인구를 흡수해온 공주시의 영향을 받았다. 애초에
+                        - mark [ref=e1857]: 대전
+                        - text: 이 전통적으로는 공주의, 옛날 표현으로는 속현(屬縣) 내지는 그 영향력 하에 있었기도 하다. 특별히 특산품이 있는 것이 아니기도 하고, 물류의 중심지이기는 하지만 좋은 재료는 우리나라의 특성상 먼저...
+                - generic [ref=e1858]:
+                  - link "개요" [ref=e1859] [cursor=pointer]:
+                    - /url: https://namu.wiki/w/%EB%8C%80%EC%A0%84%EA%B4%91%EC%97%AD%EC%8B%9C/%EC%9D%8C%EC%8B%9D#s-1
+                    - generic [ref=e1860]: 개요
+                  - link "종류별" [ref=e1861] [cursor=pointer]:
+                    - /url: https://namu.wiki/w/%EB%8C%80%EC%A0%84%EA%B4%91%EC%97%AD%EC%8B%9C/%EC%9D%8C%EC%8B%9D#s-2
+                    - generic [ref=e1862]: 종류별
+                  - link "프랜차이즈" [ref=e1863] [cursor=pointer]:
+                    - /url: https://namu.wiki/w/%EB%8C%80%EC%A0%84%EA%B4%91%EC%97%AD%EC%8B%9C/%EC%9D%8C%EC%8B%9D#s-3
+                    - generic [ref=e1864]: 프랜차이즈
+                  - link "지역별" [ref=e1865] [cursor=pointer]:
+                    - /url: https://namu.wiki/w/%EB%8C%80%EC%A0%84%EA%B4%91%EC%97%AD%EC%8B%9C/%EC%9D%8C%EC%8B%9D#s-4
+                    - generic [ref=e1866]: 지역별
+                  - link "제과점 (빵)" [ref=e1867] [cursor=pointer]:
+                    - /url: https://namu.wiki/w/%EB%8C%80%EC%A0%84%EA%B4%91%EC%97%AD%EC%8B%9C/%EC%9D%8C%EC%8B%9D#s-2.1
+                    - generic [ref=e1868]: 제과점 (빵)
+                  - link "가락국수" [ref=e1869] [cursor=pointer]:
+                    - /url: https://namu.wiki/w/%EB%8C%80%EC%A0%84%EA%B4%91%EC%97%AD%EC%8B%9C/%EC%9D%8C%EC%8B%9D#s-2.2
+                    - generic [ref=e1870]: 가락국수
+                  - link "칼국수 와 두부두루치기" [ref=e1871] [cursor=pointer]:
+                    - /url: https://namu.wiki/w/%EB%8C%80%EC%A0%84%EA%B4%91%EC%97%AD%EC%8B%9C/%EC%9D%8C%EC%8B%9D#s-2.3
+                    - generic [ref=e1872]: 칼국수 와 두부두루치기
+                  - link "묵밥" [ref=e1873] [cursor=pointer]:
+                    - /url: https://namu.wiki/w/%EB%8C%80%EC%A0%84%EA%B4%91%EC%97%AD%EC%8B%9C/%EC%9D%8C%EC%8B%9D#s-2.4
+                    - generic [ref=e1874]: 묵밥
+                  - link "중국집" [ref=e1875] [cursor=pointer]:
+                    - /url: https://namu.wiki/w/%EB%8C%80%EC%A0%84%EA%B4%91%EC%97%AD%EC%8B%9C/%EC%9D%8C%EC%8B%9D#s-2.5
+                    - generic [ref=e1876]: 중국집
+                  - link "냉면" [ref=e1877] [cursor=pointer]:
+                    - /url: https://namu.wiki/w/%EB%8C%80%EC%A0%84%EA%B4%91%EC%97%AD%EC%8B%9C/%EC%9D%8C%EC%8B%9D#s-2.6
+                    - generic [ref=e1878]: 냉면
+              - generic [ref=e1880]:
+                - generic [ref=e1881]:
+                  - generic [ref=e1882]:
+                    - link "대전광역시청 www.daejeon.go.kr›fod" [ref=e1883] [cursor=pointer]:
+                      - /url: https://www.daejeon.go.kr/fod/fodRestaurantStaList.do?menuSeq=163
+                      - generic [ref=e1885]:
+                        - generic [ref=e1890]: 대전광역시청
+                        - generic [ref=e1894]: www.daejeon.go.kr›fod
+                    - button "옵션 메뉴 열기" [ref=e1896] [cursor=pointer]:
+                      - img [ref=e1897]
+                  - generic [ref=e1901]:
+                    - link "대전광역시-대전의 맛 - 대전광역시 ,일류 경제도시 대전" [ref=e1903] [cursor=pointer]:
+                      - /url: https://www.daejeon.go.kr/fod/fodRestaurantStaList.do?menuSeq=163
+                      - generic [ref=e1904]:
+                        - mark [ref=e1905]: 대전
+                        - text: 광역시-
+                        - mark [ref=e1906]: 대전
+                        - text: 의 맛 -
+                        - mark [ref=e1907]: 대전
+                        - text: 광역시 ,일류 경제도시
+                        - mark [ref=e1908]: 대전
+                    - 'link "대전 맛집 가이드 대전 맛집 가이드 유성구 동구 건강음식점0개 모범음식점0개 대덕구 동구 건강음식점0개 모범음식점0개 동구 동구 건강음식점0개 모범음식점0개 중구 동구 건강음식점0개 모범음식점0개 서구 동구 건강음식점0개 모범음식점0개 메뉴, 지역에 따라 원하는 맛집정보를 찾아보세요. 구분 메뉴 지역 총 197건 : 1/33 페이지 레시피(제과) 대덕구..." [ref=e1910] [cursor=pointer]':
+                      - /url: https://www.daejeon.go.kr/fod/fodRestaurantStaList.do?menuSeq=163
+                      - generic [ref=e1911]:
+                        - mark [ref=e1912]: 대전 맛집
+                        - text: 가이드
+                        - mark [ref=e1913]: 대전 맛집
+                        - text: 가이드 유성구 동구 건강음식점0개 모범음식점0개 대덕구 동구 건강음식점0개 모범음식점0개 동구 동구 건강음식점0개 모범음식점0개 중구 동구 건강음식점0개 모범음식점0개 서구 동구 건강음식점0개 모범음식점0개 메뉴, 지역에 따라 원하는
+                        - mark [ref=e1914]: 맛집
+                        - text: "정보를 찾아보세요. 구분 메뉴 지역 총 197건 : 1/33 페이지 레시피(제과) 대덕구..."
+                - generic [ref=e1915]:
+                  - generic [ref=e1917]:
+                    - link "대전 맛집 가이드 - 대전광역시 ,일류 경제도시 대전" [ref=e1918] [cursor=pointer]:
+                      - /url: https://www.daejeon.go.kr/fod/ContentsHtmlView.do?menuSeq=7799
+                      - generic [ref=e1919]:
+                        - mark [ref=e1920]: 대전 맛집
+                        - text: 가이드 -
+                        - mark [ref=e1921]: 대전
+                        - text: 광역시 ,일류 경제도시
+                        - mark [ref=e1922]: 대전
+                    - generic [ref=e1924]:
+                      - text: 시민과 전문가들이 추천한
+                      - mark [ref=e1925]: 대전맛집
+                      - text: (2022-2023년) ;
+                      - mark [ref=e1926]: 대전
+                      - text: 을 대표하는 전통
+                      - mark [ref=e1927]: 맛집
+                      - text: 과 젊은 층이 선호하는 핫플레이스 외식업소를 시민 추천받아 전문가 현지방문 시식 및 종합평가를 통해 선정된 곳입니다.
+                  - link "관련문서 더보기" [ref=e1929] [cursor=pointer]:
+                    - /url: "?page=2&query=%EB%8C%80%EC%A0%84+%EB%A7%9B%EC%A7%91+site%3Awww.daejeon.go.kr&qvt=0&where=web"
+                    - generic [ref=e1930]: 관련문서 더보기
+                    - img [ref=e1931]
+              - generic [ref=e1935]:
+                - generic [ref=e1936]:
+                  - link "대한민국 구석구석 korean.visitkorea.or.kr›대전맛집" [ref=e1937] [cursor=pointer]:
+                    - /url: https://korean.visitkorea.or.kr/list/all_list.do?choiceTag=%EB%8C%80%EC%A0%84%EB%A7%9B%EC%A7%91&choiceTagId=337844bf-275c-43eb-a933-9d6920a289c6
+                    - generic [ref=e1939]:
+                      - generic [ref=e1944]: 대한민국 구석구석
+                      - generic [ref=e1948]: korean.visitkorea.or.kr›대전맛집
+                  - button "옵션 메뉴 열기" [ref=e1950] [cursor=pointer]:
+                    - img [ref=e1951]
+                - generic [ref=e1955]:
+                  - link "대전맛집 추천 여행 리스트" [ref=e1957] [cursor=pointer]:
+                    - /url: https://korean.visitkorea.or.kr/list/all_list.do?choiceTag=%EB%8C%80%EC%A0%84%EB%A7%9B%EC%A7%91&choiceTagId=337844bf-275c-43eb-a933-9d6920a289c6
+                    - generic [ref=e1958]:
+                      - mark [ref=e1959]: 대전맛집
+                      - text: 추천 여행 리스트
+                  - link "대전맛집 추천여행 리스트를 확인해 보세요. 장어구이 어장,워낭명가,황토기와집..." [ref=e1961] [cursor=pointer]:
+                    - /url: https://korean.visitkorea.or.kr/list/all_list.do?choiceTag=%EB%8C%80%EC%A0%84%EB%A7%9B%EC%A7%91&choiceTagId=337844bf-275c-43eb-a933-9d6920a289c6
+                    - generic [ref=e1962]:
+                      - mark [ref=e1963]: 대전맛집
+                      - text: 추천여행 리스트를 확인해 보세요. 장어구이 어장,워낭명가,황토기와집...
+            - link "검색결과 더보기" [ref=e1965] [cursor=pointer]:
+              - /url: "?nso=&page=2&query=%EB%8C%80%EC%A0%84+%EB%A7%9B%EC%A7%91&sm=tab_pge&start=1&where=web"
+              - generic [ref=e1968]:
+                - generic [ref=e1971]: 검색결과 더보기
+                - img [ref=e1973]
+          - generic [ref=e1977]:
+            - generic [ref=e1979]:
+              - generic [ref=e1980]:
+                - generic [ref=e1981]: 인플루언서
+                - button [ref=e1982] [cursor=pointer]:
+                  - img [ref=e1983]
+              - link "서비스 홈 바로가기" [ref=e1988] [cursor=pointer]:
+                - /url: https://in.naver.com/discover
+                - generic [ref=e1989]: 서비스 홈 바로가기
+            - generic [ref=e1990]:
+              - generic [ref=e1991]:
+                - generic [ref=e1994]:
+                  - generic [ref=e1995]:
+                    - link [ref=e1997] [cursor=pointer]:
+                      - /url: https://in.naver.com/myfeed?areacode=ink*A&query=%EB%8C%80%EC%A0%84+%EB%A7%9B%EC%A7%91&filterSpaceId=275125267907904&selectedSpaceId=275125267907904
+                      - img [ref=e2000]
+                    - link "세미츄" [ref=e2003] [cursor=pointer]:
+                      - /url: https://in.naver.com/myfeed?areacode=ink*A&query=%EB%8C%80%EC%A0%84+%EB%A7%9B%EC%A7%91&filterSpaceId=275125267907904&selectedSpaceId=275125267907904
+                    - generic [ref=e2006]: 1주 전
+                  - button "옵션 메뉴 열기" [ref=e2008] [cursor=pointer]:
+                    - img [ref=e2009]
+                - generic [ref=e2014]:
+                  - generic [ref=e2015]:
+                    - link "대전 맛집 40년 전통의 맛 복수분식 얼큰이칼국수 바로 이 맛이지" [ref=e2016] [cursor=pointer]:
+                      - /url: https://in.naver.com/semee.chuchu/contents/internal/959991897369312?areacode=ink*A&query=%EB%8C%80%EC%A0%84+%EB%A7%9B%EC%A7%91
+                      - generic [ref=e2017]:
+                        - mark [ref=e2018]: 대전 맛집
+                        - text: 40년 전통의 맛 복수분식 얼큰이칼국수 바로 이 맛이지
+                    - link "안녕하세요 푸드 전문 블로거 세미츄 입니당 ❤️ 🍜 이번에는 대전 사람의 소울푸드이자 저의 최애 음식 얼큰이칼국수 맛집 소개할게요 40년 전통의 대전 맛집 복수분식 복수분식은 제가 맛있는 얼큰이칼국수 먹고 싶을 때 생각나는 식당 중 한 곳 이에요 이번에 칼국수만 먹고 오기 아쉬워서 주먹밥도 먹고 왔는데 진짜..." [ref=e2020] [cursor=pointer]:
+                      - /url: https://in.naver.com/semee.chuchu/contents/internal/959991897369312?areacode=ink*A&query=%EB%8C%80%EC%A0%84+%EB%A7%9B%EC%A7%91
+                      - generic [ref=e2021]:
+                        - text: 안녕하세요 푸드 전문 블로거 세미츄 입니당 ❤️ 🍜 이번에는 대전 사람의 소울푸드이자 저의 최애 음식 얼큰이칼국수 맛집 소개할게요 40년 전통의
+                        - mark [ref=e2022]: 대전 맛집
+                        - text: 복수분식 복수분식은 제가 맛있는 얼큰이칼국수 먹고 싶을 때 생각나는 식당 중 한 곳 이에요 이번에 칼국수만 먹고 오기 아쉬워서 주먹밥도 먹고 왔는데 진짜...
+                  - generic [ref=e2023]:
+                    - link [ref=e2024] [cursor=pointer]:
+                      - /url: https://in.naver.com/semee.chuchu/contents/internal/959991897369312?areacode=ink*A&query=%EB%8C%80%EC%A0%84+%EB%A7%9B%EC%A7%91
+                      - img [ref=e2026]
+                    - link [ref=e2027] [cursor=pointer]:
+                      - /url: https://in.naver.com/semee.chuchu/contents/internal/959991897369312?areacode=ink*A&query=%EB%8C%80%EC%A0%84+%EB%A7%9B%EC%A7%91
+                      - img [ref=e2029]
+                    - link [ref=e2030] [cursor=pointer]:
+                      - /url: https://in.naver.com/semee.chuchu/contents/internal/959991897369312?areacode=ink*A&query=%EB%8C%80%EC%A0%84+%EB%A7%9B%EC%A7%91
+                      - img [ref=e2032]
+                    - link [ref=e2033] [cursor=pointer]:
+                      - /url: https://in.naver.com/semee.chuchu/contents/internal/959991897369312?areacode=ink*A&query=%EB%8C%80%EC%A0%84+%EB%A7%9B%EC%A7%91
+                      - img [ref=e2035]
+                    - link [ref=e2036] [cursor=pointer]:
+                      - /url: https://in.naver.com/semee.chuchu/contents/internal/959991897369312?areacode=ink*A&query=%EB%8C%80%EC%A0%84+%EB%A7%9B%EC%A7%91
+                      - img [ref=e2038]
+                    - generic [ref=e2041]: "34"
+              - generic [ref=e2043]:
+                - generic [ref=e2046]:
+                  - generic [ref=e2047]:
+                    - link [ref=e2049] [cursor=pointer]:
+                      - /url: https://in.naver.com/myfeed?areacode=ink*A&query=%EB%8C%80%EC%A0%84+%EB%A7%9B%EC%A7%91&filterSpaceId=248088977770976&selectedSpaceId=248088977770976
+                      - img [ref=e2052]
+                    - link "대전맛집" [ref=e2055] [cursor=pointer]:
+                      - /url: https://in.naver.com/myfeed?areacode=ink*A&query=%EB%8C%80%EC%A0%84+%EB%A7%9B%EC%A7%91&filterSpaceId=248088977770976&selectedSpaceId=248088977770976
+                    - generic [ref=e2058]: 2주 전
+                  - button "옵션 메뉴 열기" [ref=e2060] [cursor=pointer]:
+                    - img [ref=e2061]
+                - generic [ref=e2066]:
+                  - generic [ref=e2067]:
+                    - link "대전 맛집 유명한 둔산동 앞산큰골집 회식장소 룸식당 추천" [ref=e2068] [cursor=pointer]:
+                      - /url: https://in.naver.com/chicken_coke/contents/internal/957389333367744?areacode=ink*A&query=%EB%8C%80%EC%A0%84+%EB%A7%9B%EC%A7%91
+                      - generic [ref=e2069]:
+                        - mark [ref=e2070]: 대전 맛집
+                        - text: 유명한 둔산동 앞산큰골집 회식장소 룸식당 추천
+                    - link "대전 맛집 유명한 둔산동 앞산큰골집 회식장소 룸식당 추천 유튜브 '또간집' 대구편에 나와서 궁금했던 둔산동 앞산큰골집에 다녀왔습니다. 대구 본점 명성 그대로 대전에서도 당일 조리한 한정 수량 등갈비찜을 맛볼 수 있는 대전 맛집인데요. 여기 사장님이 대구 본점에서 1년간 일하며 교육받아서 본점과 동일한 맛과..." [ref=e2072] [cursor=pointer]:
+                      - /url: https://in.naver.com/chicken_coke/contents/internal/957389333367744?areacode=ink*A&query=%EB%8C%80%EC%A0%84+%EB%A7%9B%EC%A7%91
+                      - generic [ref=e2073]:
+                        - mark [ref=e2074]: 대전 맛집
+                        - text: 유명한 둔산동 앞산큰골집 회식장소 룸식당 추천 유튜브 '또간집' 대구편에 나와서 궁금했던 둔산동 앞산큰골집에 다녀왔습니다. 대구 본점 명성 그대로 대전에서도 당일 조리한 한정 수량 등갈비찜을 맛볼 수 있는
+                        - mark [ref=e2075]: 대전 맛집
+                        - text: 인데요. 여기 사장님이 대구 본점에서 1년간 일하며 교육받아서 본점과 동일한 맛과...
+                  - link "34" [ref=e2076] [cursor=pointer]:
+                    - /url: https://in.naver.com/chicken_coke/contents/internal/957389333367744?areacode=ink*A&query=%EB%8C%80%EC%A0%84+%EB%A7%9B%EC%A7%91
+                    - generic [ref=e2077]:
+                      - img [ref=e2079]
+                      - generic [ref=e2082]: "34"
+              - generic [ref=e2084]:
+                - generic [ref=e2087]:
+                  - generic [ref=e2088]:
+                    - link [ref=e2090] [cursor=pointer]:
+                      - /url: https://in.naver.com/myfeed?areacode=ink*A&query=%EB%8C%80%EC%A0%84+%EB%A7%9B%EC%A7%91&filterSpaceId=375327786261952&selectedSpaceId=375327786261952
+                      - img [ref=e2093]
+                    - link "직딩" [ref=e2096] [cursor=pointer]:
+                      - /url: https://in.naver.com/myfeed?areacode=ink*A&query=%EB%8C%80%EC%A0%84+%EB%A7%9B%EC%A7%91&filterSpaceId=375327786261952&selectedSpaceId=375327786261952
+                    - generic [ref=e2099]: 2주 전
+                  - button "옵션 메뉴 열기" [ref=e2101] [cursor=pointer]:
+                    - img [ref=e2102]
+                - generic [ref=e2107]:
+                  - generic [ref=e2108]:
+                    - link "대전레스토랑 대전 맛집 둔산동 레스토랑 다이너 대전데이트코스 추천" [ref=e2109] [cursor=pointer]:
+                      - /url: https://in.naver.com/romeyo1013/contents/internal/955974643436160?areacode=ink*A&query=%EB%8C%80%EC%A0%84+%EB%A7%9B%EC%A7%91
+                      - generic [ref=e2110]:
+                        - text: 대전레스토랑
+                        - mark [ref=e2111]: 대전 맛집
+                        - text: 둔산동 레스토랑 다이너 대전데이트코스 추천
+                    - link "대전레스토랑 대전 맛집 둔산동 레스토랑 다이너 대전데이트코스 추천 안녕하세요! 오늘은 사랑하는 가족, 연인과 함께 가기 좋은 대전의 핫플레이스를 소개해 드리려고 합니다. 얼마 전 대전 둔산동 근처에서 분위기 좋은 양식 레스토랑을 찾다가 다이너를 방문하게 됐어요. 위치부터 인테리어, 그리고 음식의 퀄리티까지 모든..." [ref=e2113] [cursor=pointer]:
+                      - /url: https://in.naver.com/romeyo1013/contents/internal/955974643436160?areacode=ink*A&query=%EB%8C%80%EC%A0%84+%EB%A7%9B%EC%A7%91
+                      - generic [ref=e2114]:
+                        - text: 대전레스토랑
+                        - mark [ref=e2115]: 대전 맛집
+                        - text: 둔산동 레스토랑 다이너 대전데이트코스 추천 안녕하세요! 오늘은 사랑하는 가족, 연인과 함께 가기 좋은 대전의 핫플레이스를 소개해 드리려고 합니다. 얼마 전 대전 둔산동 근처에서 분위기 좋은 양식 레스토랑을 찾다가 다이너를 방문하게 됐어요. 위치부터 인테리어, 그리고 음식의 퀄리티까지 모든...
+                  - link "24" [ref=e2116] [cursor=pointer]:
+                    - /url: https://in.naver.com/romeyo1013/contents/internal/955974643436160?areacode=ink*A&query=%EB%8C%80%EC%A0%84+%EB%A7%9B%EC%A7%91
+                    - generic [ref=e2117]:
+                      - img [ref=e2119]
+                      - generic [ref=e2122]: "24"
+            - link "인플루언서 더보기" [ref=e2125] [cursor=pointer]:
+              - /url: "?query=%EB%8C%80%EC%A0%84+%EB%A7%9B%EC%A7%91&sm=tab_nmr&ssc=tab.influencer.chl"
+              - generic [ref=e2126]:
+                - generic [ref=e2127]:
+                  - generic [ref=e2128]: 인플루언서
+                  - generic [ref=e2129]: 더보기
+                - img [ref=e2130]
+          - generic [ref=e2133]:
+            - generic [ref=e2135]: 이전
+            - generic [ref=e2136]:
+              - link "1페이지" [ref=e2137] [cursor=pointer]:
+                - /url: "?nso=&query=%EB%8C%80%EC%A0%84+%EB%A7%9B%EC%A7%91&sm=tab_pge&where=nexearch"
+                - text: "1"
+              - link "2페이지" [ref=e2138] [cursor=pointer]:
+                - /url: "?nso=&page=2&query=%EB%8C%80%EC%A0%84+%EB%A7%9B%EC%A7%91&sm=tab_pge&start=1&where=web"
+                - text: "2"
+              - link "3페이지" [ref=e2139] [cursor=pointer]:
+                - /url: "?nso=&page=3&query=%EB%8C%80%EC%A0%84+%EB%A7%9B%EC%A7%91&sm=tab_pge&start=16&where=web"
+                - text: "3"
+              - link "4페이지" [ref=e2140] [cursor=pointer]:
+                - /url: "?nso=&page=4&query=%EB%8C%80%EC%A0%84+%EB%A7%9B%EC%A7%91&sm=tab_pge&start=31&where=web"
+                - text: "4"
+              - link "5페이지" [ref=e2141] [cursor=pointer]:
+                - /url: "?nso=&page=5&query=%EB%8C%80%EC%A0%84+%EB%A7%9B%EC%A7%91&sm=tab_pge&start=46&where=web"
+                - text: "5"
+              - link "6페이지" [ref=e2142] [cursor=pointer]:
+                - /url: "?nso=&page=6&query=%EB%8C%80%EC%A0%84+%EB%A7%9B%EC%A7%91&sm=tab_pge&start=61&where=web"
+                - text: "6"
+              - link "7페이지" [ref=e2143] [cursor=pointer]:
+                - /url: "?nso=&page=7&query=%EB%8C%80%EC%A0%84+%EB%A7%9B%EC%A7%91&sm=tab_pge&start=76&where=web"
+                - text: "7"
+              - link "8페이지" [ref=e2144] [cursor=pointer]:
+                - /url: "?nso=&page=8&query=%EB%8C%80%EC%A0%84+%EB%A7%9B%EC%A7%91&sm=tab_pge&start=91&where=web"
+                - text: "8"
+              - link "9페이지" [ref=e2145] [cursor=pointer]:
+                - /url: "?nso=&page=9&query=%EB%8C%80%EC%A0%84+%EB%A7%9B%EC%A7%91&sm=tab_pge&start=106&where=web"
+                - text: "9"
+              - link "10페이지" [ref=e2146] [cursor=pointer]:
+                - /url: "?nso=&page=10&query=%EB%8C%80%EC%A0%84+%EB%A7%9B%EC%A7%91&sm=tab_pge&start=121&where=web"
+                - text: "10"
+            - link "다음" [ref=e2147] [cursor=pointer]:
+              - /url: "?nso=&page=2&query=%EB%8C%80%EC%A0%84+%EB%A7%9B%EC%A7%91&sm=tab_pge&start=1&where=web"
+              - generic [ref=e2148]: 다음
+        - generic [ref=e2149]:
+          - generic [ref=e2152]:
+            - generic [ref=e2155]:
+              - heading "함께 보는 여행맛집 종합 숏텐츠" [level=2] [ref=e2156]:
+                - generic [ref=e2157]:
+                  - generic [ref=e2158]: 함께 보는
+                  - generic [ref=e2159]: 여행맛집 종합
+                  - generic [ref=e2160]: 숏텐츠
+              - button [ref=e2161] [cursor=pointer]:
+                - img [ref=e2162]
+            - generic [ref=e2166]:
+              - link "분당 서현맛집 할머니부뚜막 정식 『분당 서현맛집』할머니의부뚜막-부뚜막정식 3인,들기름 계란후라이. 4일 전" [ref=e2167] [cursor=pointer]:
+                - /url: "?mra=QkRS%5EU2JUX0NQbQ%3D%3D%5EU2xUX1NBeA%3D%3D%5ETk9DX1hJVQ%3D%3D%5EU3hUX0NQdA%3D%3D&mra2=U0RC%5EU3hUX0NQdA%3D%3D&query=%EB%B6%84%EB%8B%B9+%EC%84%9C%ED%98%84%EB%A7%9B%EC%A7%91+%ED%95%A0%EB%A8%B8%EB%8B%88%EB%B6%80%EB%9A%9C%EB%A7%89+%EC%A0%95%EC%8B%9D&qvt=0&sm=tab_sht.best&where=nexearch&x_cue=%7B%22act%22%3A%22resrch%22%2C%22from%22%3A%22shortents%22%7D&x_shortents=%7B%22category%22%3A%22%EC%97%AC%ED%96%89%EB%A7%9B%EC%A7%91+%EC%A2%85%ED%95%A9%22%2C%22gdid%22%3A%2290000003_000000000000003439FA8DD8%22%7D"
+                - generic [ref=e2168]:
+                  - img [ref=e2169]
+                  - generic [ref=e2175]:
+                    - generic [ref=e2176]: 분당 서현맛집 할머니부뚜막 정식
+                    - img [ref=e2177]
+                  - img [ref=e2858]
+                - generic [ref=e2181]:
+                  - generic [ref=e2182]:
+                    - text: 『분당 서현맛집』할머니의부뚜막-부뚜막정식 3인,들기름 계란후라이.
+                    - generic [ref=e2183]: 4일 전
+                  - img [ref=e2185]
+              - link "오키나와 장마 날씨·옷차림 가이드 오키나와 여행 장마 시즌 괜찮을까? 6월 7월 날씨 옷차림 쇼핑리스트 14시간 전" [ref=e2186] [cursor=pointer]:
+                - /url: "?mra=QkRS%5EU2JUX0NQbQ%3D%3D%5EU2xUX1NBeA%3D%3D%5ETk9DX1hJVQ%3D%3D%5EU3hUX0NQdA%3D%3D&mra2=U0RC%5EU3hUX0NQdA%3D%3D&query=%EC%98%A4%ED%82%A4%EB%82%98%EC%99%80+%EC%9E%A5%EB%A7%88+%EB%82%A0%EC%94%A8%C2%B7%EC%98%B7%EC%B0%A8%EB%A6%BC+%EA%B0%80%EC%9D%B4%EB%93%9C&qvt=0&sm=tab_sht.best&where=nexearch&x_cue=%7B%22act%22%3A%22resrch%22%2C%22from%22%3A%22shortents%22%7D&x_shortents=%7B%22category%22%3A%22%EC%97%AC%ED%96%89%EB%A7%9B%EC%A7%91+%EC%A2%85%ED%95%A9%22%2C%22gdid%22%3A%2290000003_00000000000000343A2E9570%22%7D"
+                - generic [ref=e2187]:
+                  - img [ref=e2188]
+                  - generic [ref=e2194]:
+                    - generic [ref=e2195]: 오키나와 장마 날씨·옷차림 가이드
+                    - img [ref=e2196]
+                  - img [ref=e2204]
+                - generic [ref=e2205]:
+                  - generic [ref=e2206]:
+                    - text: 오키나와 여행 장마 시즌 괜찮을까? 6월 7월 날씨 옷차림 쇼핑리스트
+                    - generic [ref=e2207]: 14시간 전
+                  - img [ref=e2209]
+              - link "동해 무릉별유천지 라벤더축제 정보 동해 무릉별유천지 라벤더축제 방문 전 알아둘 정보와 촬영포인트 1일 전" [ref=e2210] [cursor=pointer]:
+                - /url: "?mra=QkRS%5EU2JUX0NQbQ%3D%3D%5EU2xUX1NBeA%3D%3D%5ETk9DX1hJVQ%3D%3D%5EU3hUX0NQdA%3D%3D&mra2=U0RC%5EU3hUX0NQdA%3D%3D&query=%EB%8F%99%ED%95%B4+%EB%AC%B4%EB%A6%89%EB%B3%84%EC%9C%A0%EC%B2%9C%EC%A7%80+%EB%9D%BC%EB%B2%A4%EB%8D%94%EC%B6%95%EC%A0%9C+%EC%A0%95%EB%B3%B4&qvt=0&sm=tab_sht.best&where=nexearch&x_cue=%7B%22act%22%3A%22resrch%22%2C%22from%22%3A%22shortents%22%7D&x_shortents=%7B%22category%22%3A%22%EC%97%AC%ED%96%89%EB%A7%9B%EC%A7%91+%EC%A2%85%ED%95%A9%22%2C%22gdid%22%3A%2290000003_00000000000000343A247E01%22%7D"
+                - generic [ref=e2211]:
+                  - img [ref=e2212]
+                  - generic [ref=e2218]:
+                    - generic [ref=e2219]: 동해 무릉별유천지 라벤더축제 정보
+                    - img [ref=e2220]
+                  - img [ref=e2228]
+                - generic [ref=e2229]:
+                  - generic [ref=e2230]:
+                    - text: 동해 무릉별유천지 라벤더축제 방문 전 알아둘 정보와 촬영포인트
+                    - generic [ref=e2231]: 1일 전
+                  - img [ref=e2233]
+              - link "6월 제주 수국 명소 답다니 6월 제주 여행 필수 코스 제주도 수국 명소 답다니 수국밭 2일 전" [ref=e2234] [cursor=pointer]:
+                - /url: "?mra=QkRS%5EU2JUX0NQbQ%3D%3D%5EU2xUX1NBeA%3D%3D%5ETk9DX1hJVQ%3D%3D%5EU3hUX0NQdA%3D%3D&mra2=U0RC%5EU3hUX0NQdA%3D%3D&query=6%EC%9B%94+%EC%A0%9C%EC%A3%BC+%EC%88%98%EA%B5%AD+%EB%AA%85%EC%86%8C+%EB%8B%B5%EB%8B%A4%EB%8B%88&qvt=0&sm=tab_sht.best&where=nexearch&x_cue=%7B%22act%22%3A%22resrch%22%2C%22from%22%3A%22shortents%22%7D&x_shortents=%7B%22category%22%3A%22%EC%97%AC%ED%96%89%EB%A7%9B%EC%A7%91+%EC%A2%85%ED%95%A9%22%2C%22gdid%22%3A%2290000003_00000000000000343A1D6F9D%22%7D"
+                - generic [ref=e2235]:
+                  - img [ref=e2236]
+                  - generic [ref=e2242]:
+                    - generic [ref=e2243]: 6월 제주 수국 명소 답다니
+                    - img [ref=e2244]
+                  - img [ref=e2252]
+                - generic [ref=e2253]:
+                  - generic [ref=e2254]:
+                    - text: 6월 제주 여행 필수 코스 제주도 수국 명소 답다니 수국밭
+                    - generic [ref=e2255]: 2일 전
+                  - img [ref=e2257]
+              - link "예당호 출렁다리·황새공원 맛집 충남 예산 가볼만한곳 예당호 출렁다리 황새공원 시장 먹거리 5일 전" [ref=e2258] [cursor=pointer]:
+                - /url: "?mra=QkRS%5EU2JUX0NQbQ%3D%3D%5EU2xUX1NBeA%3D%3D%5ETk9DX1hJVQ%3D%3D%5EU3hUX0NQdA%3D%3D&mra2=U0RC%5EU3hUX0NQdA%3D%3D&query=%EC%98%88%EB%8B%B9%ED%98%B8+%EC%B6%9C%EB%A0%81%EB%8B%A4%EB%A6%AC%C2%B7%ED%99%A9%EC%83%88%EA%B3%B5%EC%9B%90+%EB%A7%9B%EC%A7%91&qvt=0&sm=tab_sht.best&where=nexearch&x_cue=%7B%22act%22%3A%22resrch%22%2C%22from%22%3A%22shortents%22%7D&x_shortents=%7B%22category%22%3A%22%EC%97%AC%ED%96%89%EB%A7%9B%EC%A7%91+%EC%A2%85%ED%95%A9%22%2C%22gdid%22%3A%2290000003_000000000000003439E201E3%22%7D"
+                - generic [ref=e2259]:
+                  - img [ref=e2260]
+                  - generic [ref=e2266]:
+                    - generic [ref=e2267]: 예당호 출렁다리·황새공원 맛집
+                    - img [ref=e2268]
+                - generic [ref=e2277]:
+                  - generic [ref=e2278]:
+                    - text: 충남 예산 가볼만한곳 예당호 출렁다리 황새공원 시장 먹거리
+                    - generic [ref=e2279]: 5일 전
+                  - img [ref=e2281]
+            - link "숏텐츠 더보기" [ref=e2284] [cursor=pointer]:
+              - /url: "?category=%EC%97%AC%ED%96%89%EB%A7%9B%EC%A7%91+%EC%A2%85%ED%95%A9&query=%EC%97%AC%ED%96%89%EB%A7%9B%EC%A7%91+%EC%A2%85%ED%95%A9+%EC%88%8F%ED%85%90%EC%B8%A0&sm=tab_tmr&ssc=tab.shortents.all"
+              - generic [ref=e2285]:
+                - generic [ref=e2286]:
+                  - generic [ref=e2287]: 숏텐츠
+                  - generic [ref=e2288]: 더보기
+                - img [ref=e2289]
+          - generic [ref=e2293]:
+            - link "오늘의 경험, 클립으로 연결해요 정보태그 붙이고 Npay포인트 적립" [ref=e2294] [cursor=pointer]:
+              - /url: https://mkt.naver.com/p1/atrb?channel_id=naver_pcsearchmktbanner&campaign_id=2603-naverclip-001&target=https%3A%2F%2Fclipcreators.naver.com%2Fpromotion%2Ftoday%3Fdtm_source%3Dnaver_pcsearchmktbanner%26dtm_medium%3Dmktatrb_etc%26dtm_campaign%3D2603-naverclip-001
+              - generic [ref=e2296]:
+                - strong [ref=e2297]: 오늘의 경험, 클립으로 연결해요
+                - paragraph [ref=e2298]: 정보태그 붙이고 Npay포인트 적립
+            - link "화제의 인벤타리오 문구 스토어 랭킹 공개" [ref=e2299] [cursor=pointer]:
+              - /url: https://mkt.naver.com/p1/atrb?channel_id=naver_pcsearchmktbanner&campaign_id=2512-shopping-024&material=L&target=https%3A%2F%2Fmkt.naver.com%2Fstore_discovery%3Fdtm_detail%3DL%26dtm_source%3Dnaver_pcsearchmktbanner%26dtm_medium%3Dmktatrb_etc%26dtm_campaign%3D2512-shopping-024
+              - generic [ref=e2301]:
+                - strong [ref=e2302]: 화제의 인벤타리오
+                - paragraph [ref=e2303]: 문구 스토어 랭킹 공개
+            - link "컬리N마트 5O% 첫 구매 혜택 반값 쿠폰 받고 최대 2만원 적립까지" [ref=e2304] [cursor=pointer]:
+              - /url: https://mkt.naver.com/p1/atrb?channel_id=naver_pcsearchmktbanner&campaign_id=2604-shopping-033&target=https%3A%2F%2Fshopping.naver.com%2Ffesta%2Fonsale%2Ffood%2F69e0ad173cda702a9b5553dc%3Fdtm_source%3Dnaver_pcsearchmktbanner%26dtm_medium%3Dmktatrb_etc%26dtm_campaign%3D2604-shopping-033
+              - generic [ref=e2306]:
+                - strong [ref=e2307]: 컬리N마트 5O% 첫 구매 혜택
+                - paragraph [ref=e2308]: 반값 쿠폰 받고 최대 2만원 적립까지
+            - link "2026 FIFA 북중미 월드컵 네이버와 함께하세요" [ref=e2309] [cursor=pointer]:
+              - /url: https://mkt.naver.com/p1/atrb?channel_id=naver_pcsearchmktbanner&campaign_id=2606-sports-001&material=naver_pcsearchmktbanner_001&target=https%3A%2F%2Fm.sports.naver.com%2Ffifaworldcup2026%3Fdtm_detail%3Dnaver_pcsearchmktbanner_001%26dtm_source%3Dnaver_pcsearchmktbanner%26dtm_medium%3Dmktatrb_etc%26dtm_campaign%3D2606-sports-001
+              - generic [ref=e2311]:
+                - strong [ref=e2312]: 2026 FIFA 북중미 월드컵
+                - paragraph [ref=e2313]: 네이버와 함께하세요
+    - generic [ref=e2314]:
+      - link "맨위로" [ref=e2316] [cursor=pointer]:
+        - /url: "#"
+        - generic [ref=e2317]: 맨위로
+      - generic [ref=e2319]:
+        - link "전체서비스" [ref=e2321] [cursor=pointer]:
+          - /url: https://www.naver.com/more.html
+        - link "이용약관" [ref=e2323] [cursor=pointer]:
+          - /url: https://policy.naver.com/policy/service.html
+        - link "개인정보처리방침" [ref=e2325] [cursor=pointer]:
+          - /url: https://policy.naver.com/policy/privacy.html
+          - strong [ref=e2326]: 개인정보처리방침
+        - link "검색 고객센터" [ref=e2328] [cursor=pointer]:
+          - /url: https://help.naver.com/alias/search/integration/main.naver
+        - link "© NAVER Corp." [ref=e2330] [cursor=pointer]:
+          - /url: https://www.navercorp.com/

@@ -1,0 +1,66 @@
+- generic [active] [ref=e1]:
+  - banner [ref=e2]:
+    - generic [ref=e5]:
+      - link "Books to Scrape" [ref=e6] [cursor=pointer]:
+        - /url: ../../index.html
+      - text: We love being scraped!
+  - generic [ref=e8]:
+    - list [ref=e9]:
+      - listitem [ref=e10]:
+        - link "Home" [ref=e11] [cursor=pointer]:
+          - /url: ../../index.html
+      - listitem [ref=e12]:
+        - text: /
+        - link "Books" [ref=e13] [cursor=pointer]:
+          - /url: ../category/books_1/index.html
+      - listitem [ref=e14]:
+        - text: /
+        - link "Poetry" [ref=e15] [cursor=pointer]:
+          - /url: ../category/books/poetry_23/index.html
+      - listitem [ref=e16]: / A Light in the Attic
+    - article [ref=e19]:
+      - generic [ref=e20]:
+        - img "A Light in the Attic" [ref=e26]
+        - generic [ref=e27]:
+          - heading "A Light in the Attic" [level=1] [ref=e28]
+          - paragraph [ref=e29]: £51.77
+          - paragraph [ref=e30]:
+            - generic [ref=e31]: 
+            - text: In stock (22 available)
+          - paragraph [ref=e32]:
+            - generic [ref=e33]: 
+            - generic [ref=e34]: 
+            - generic [ref=e35]: 
+            - generic [ref=e36]: 
+            - generic [ref=e37]: 
+          - separator [ref=e38]
+          - alert [ref=e39]:
+            - strong [ref=e40]: Warning!
+            - text: This is a demo website for web scraping purposes. Prices and ratings here were randomly assigned and have no real meaning.
+      - heading "Product Description" [level=2] [ref=e42]
+      - paragraph [ref=e43]: It's hard to imagine a world without A Light in the Attic. This now-classic collection of poetry and drawings from Shel Silverstein celebrates its 20th anniversary with this special edition. Silverstein's humorous and creative verse can amuse the dowdiest of readers. Lemon-faced adults and fidgety kids sit still and read these rhythmic words and laugh and smile and love th It's hard to imagine a world without A Light in the Attic. This now-classic collection of poetry and drawings from Shel Silverstein celebrates its 20th anniversary with this special edition. Silverstein's humorous and creative verse can amuse the dowdiest of readers. Lemon-faced adults and fidgety kids sit still and read these rhythmic words and laugh and smile and love that Silverstein. Need proof of his genius? RockabyeRockabye baby, in the treetopDon't you know a treetopIs no safe place to rock?And who put you up there,And your cradle, too?Baby, I think someone down here'sGot it in for you. Shel, you never sounded so good. ...more
+      - heading "Product Information" [level=2] [ref=e45]
+      - table [ref=e46]:
+        - rowgroup [ref=e47]:
+          - row "UPC a897fe39b1053632" [ref=e48]:
+            - rowheader "UPC" [ref=e49]
+            - cell "a897fe39b1053632" [ref=e50]
+          - row "Product Type Books" [ref=e51]:
+            - rowheader "Product Type" [ref=e52]
+            - cell "Books" [ref=e53]
+          - row "Price (excl. tax) £51.77" [ref=e54]:
+            - rowheader "Price (excl. tax)" [ref=e55]
+            - cell "£51.77" [ref=e56]
+          - row "Price (incl. tax) £51.77" [ref=e57]:
+            - rowheader "Price (incl. tax)" [ref=e58]
+            - cell "£51.77" [ref=e59]
+          - row "Tax £0.00" [ref=e60]:
+            - rowheader "Tax" [ref=e61]
+            - cell "£0.00" [ref=e62]
+          - row "Availability In stock (22 available)" [ref=e63]:
+            - rowheader "Availability" [ref=e64]
+            - cell "In stock (22 available)" [ref=e65]
+          - row "Number of reviews 0" [ref=e66]:
+            - rowheader "Number of reviews" [ref=e67]
+            - cell "0" [ref=e68]
+  - contentinfo
