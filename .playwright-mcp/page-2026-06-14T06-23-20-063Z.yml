@@ -1,0 +1,64 @@
+- generic [ref=e1]:
+  - generic [ref=e3]:
+    - generic [ref=e4]:
+      - generic [ref=e6]:
+        - generic [ref=e7]: 로드 중
+        - progressbar [active] [ref=e8]
+      - main [ref=e86]:
+        - generic [ref=e87]:
+          - img [ref=e90]
+          - generic [ref=e95]:
+            - heading "시작하기" [level=1] [ref=e96]
+            - link "gimseongjo110@gmail.com 항목이 선택되었습니다. 계정 전환" [ref=e98] [cursor=pointer]:
+              - img [ref=e101]
+              - generic [ref=e103]: gimseongjo110@gmail.com
+              - img [ref=e105]
+        - generic [ref=e108]:
+          - generic [ref=e29]:
+            - generic [ref=e34]:
+              - generic [ref=e39]:
+                - textbox "이메일 또는 휴대전화" [ref=e40]: gimseongjo110@gmail.com
+                - generic: 이메일 또는 휴대전화
+              - button "이메일을 잊으셨나요?" [ref=e44] [cursor=pointer]
+            - generic [ref=e47]:
+              - text: 내 컴퓨터가 아닌가요? 게스트 모드를 사용하여 비공개로 로그인하세요.
+              - link "게스트 모드 사용 방법 자세히 알아보기(외부, 새 창에서 열림)" [ref=e48] [cursor=pointer]:
+                - /url: https://support.google.com/chrome/answer/6130773?hl=ko
+                - text: 게스트 모드 사용 방법 자세히 알아보기
+          - generic [ref=e115]:
+            - generic [ref=e123]:
+              - textbox "비밀번호 입력" [ref=e124]
+              - generic: 비밀번호 입력
+            - generic [ref=e131]:
+              - generic [ref=e134] [cursor=pointer]:
+                - checkbox "비밀번호 표시" [ref=e135]
+                - generic:
+                  - img
+              - generic [ref=e138] [cursor=pointer]: 비밀번호 표시
+        - generic [ref=e140]:
+          - button "다음" [ref=e144]:
+            - generic [ref=e147]: 다음
+          - button "다른 방법 시도" [ref=e151]:
+            - generic [ref=e154]: 다른 방법 시도
+    - contentinfo [ref=e69]:
+      - combobox "언어 변경 한국어" [ref=e73] [cursor=pointer]:
+        - generic:
+          - generic: 한국어
+        - generic:
+          - img
+      - list [ref=e75]:
+        - listitem [ref=e76]:
+          - link "Google 계정 고객센터 열기(외부, 새 창에서 열림)" [ref=e77] [cursor=pointer]:
+            - /url: https://support.google.com/accounts?hl=ko&p=account_iph
+            - text: 도움말
+        - listitem [ref=e78]:
+          - link "개인정보처리방침(외부, 새 창에서 열림)" [ref=e79] [cursor=pointer]:
+            - /url: https://accounts.google.com/TOS?loc=KR&hl=ko&privacy=true
+            - text: 개인정보처리방침
+        - listitem [ref=e80]:
+          - link "Google 서비스 약관(외부, 새 창에서 열림)" [ref=e81] [cursor=pointer]:
+            - /url: https://accounts.google.com/TOS?loc=KR&hl=ko
+            - text: 약관
+  - iframe [ref=e82]:
+    
+  - generic [ref=e158]: 시작하기

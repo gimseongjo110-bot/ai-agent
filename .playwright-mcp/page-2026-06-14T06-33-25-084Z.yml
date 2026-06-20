@@ -1,0 +1,236 @@
+- generic [ref=e1]:
+  - generic [ref=e3]:
+    - generic [ref=e4]:
+      - complementary [ref=e487]:
+        - link [ref=e488] [cursor=pointer]:
+          - /url: /
+          - generic [ref=e7]: 기본 콘텐츠로 건너뛰기
+        - button [ref=e489]:
+          - generic [ref=e9]: 키보드 단축키
+        - link [ref=e490] [cursor=pointer]:
+          - /url: https://cloud.google.com/docs/accessibility?hl=ko
+          - generic [ref=e11]:
+            - text: 접근성 도움말
+            - img [ref=e492]:
+              - img [ref=e14]
+        - link [ref=e493] [cursor=pointer]:
+          - /url: https://support.google.com/accessibility/contact/feedback?hl=ko
+          - generic [ref=e17]:
+            - text: 접근성 관련 의견
+            - img [ref=e495]:
+              - img [ref=e20]
+      - banner [ref=e23]:
+        - generic [ref=e24]:
+          - navigation [ref=e27]:
+            - button [ref=e496] [cursor=pointer]:
+              - img [ref=e30]
+          - link [ref=e497] [cursor=pointer]:
+            - /url: /
+            - generic:
+              - img
+          - button [ref=e498]:
+            - generic [ref=e231]:
+              - img [ref=e233]
+              - generic [ref=e236]: gws-workspace
+        - button [ref=e499] [cursor=pointer]:
+          - img [ref=e49]
+        - generic [ref=e51]:
+          - generic [ref=e52]:
+            - button [ref=e500] [cursor=pointer]:
+              - img [ref=e242]
+            - button [ref=e501] [cursor=pointer]:
+              - img [ref=e249]
+            - button [ref=e502] [cursor=pointer]:
+              - img [ref=e253]
+            - button [ref=e503] [cursor=pointer]:
+              - img [ref=e61]
+            - button [ref=e504] [cursor=pointer]:
+              - img [ref=e69]
+          - button [ref=e505]:
+            - img [ref=e258]
+    - generic [ref=e82]:
+      - navigation [ref=e506]:
+        - link [ref=e507] [cursor=pointer]:
+          - /url: /auth?project=gws-workspace-sbs2026
+          - img [ref=e269]
+          - generic [ref=e273]: Google 인증 플랫폼
+        - list [ref=e274]:
+          - listitem [ref=e275]:
+            - generic [ref=e276]: /
+            - link [ref=e508] [cursor=pointer]:
+              - /url: /auth/clients?project=gws-workspace-sbs2026
+              - generic [ref=e281]: 클라이언트
+          - listitem [ref=e282]:
+            - generic [ref=e283]: /
+            - link [ref=e509] [cursor=pointer]:
+              - /url: /auth/clients/713356574437-3v60otlcru5p6q6va32afpo2laq21p6h.apps.googleusercontent.com?project=gws-workspace-sbs2026
+              - generic [ref=e288]: "클라이언트: 713356574437-3v60otlcru5p6q6va32afpo2laq21p6h.apps.googleusercontent.com"
+      - generic [ref=e93]:
+        - navigation [ref=e510]:
+          - generic [ref=e101]:
+            - list [ref=e511]:
+              - listitem [ref=e292]:
+                - generic [ref=e295]:
+                  - link [ref=e512] [cursor=pointer]:
+                    - /url: /auth/overview?project=gws-workspace-sbs2026
+                    - generic [ref=e297]:
+                      - img [ref=e300]
+                      - generic [ref=e302]: 개요
+                  - button [ref=e513] [cursor=pointer]:
+                    - img [ref=e306]
+              - listitem [ref=e308]:
+                - generic [ref=e311]:
+                  - link [ref=e514] [cursor=pointer]:
+                    - /url: /auth/branding?project=gws-workspace-sbs2026
+                    - generic [ref=e313]:
+                      - img [ref=e316]
+                      - generic [ref=e322]: 브랜딩
+                  - button [ref=e515] [cursor=pointer]:
+                    - img [ref=e326]
+              - listitem [ref=e328]:
+                - generic [ref=e331]:
+                  - link [ref=e516] [cursor=pointer]:
+                    - /url: /auth/audience?project=gws-workspace-sbs2026
+                    - generic [ref=e333]:
+                      - img [ref=e336]
+                      - generic [ref=e338]: 대상
+                  - button [ref=e517] [cursor=pointer]:
+                    - img [ref=e342]
+              - listitem [ref=e344]:
+                - generic [ref=e347]:
+                  - link [ref=e518] [cursor=pointer]:
+                    - /url: /auth/clients?project=gws-workspace-sbs2026
+                    - generic [ref=e349]:
+                      - img [ref=e352]
+                      - generic [ref=e354]: 클라이언트
+                  - button [ref=e519] [cursor=pointer]:
+                    - img [ref=e358]
+              - listitem [ref=e360]:
+                - generic [ref=e363]:
+                  - link [ref=e520] [cursor=pointer]:
+                    - /url: /auth/scopes?project=gws-workspace-sbs2026
+                    - generic [ref=e365]:
+                      - img [ref=e368]
+                      - generic [ref=e371]: 데이터 액세스
+                  - button [ref=e521] [cursor=pointer]:
+                    - img [ref=e375]
+              - listitem [ref=e377]:
+                - generic [ref=e380]:
+                  - link [ref=e522] [cursor=pointer]:
+                    - /url: /auth/verification?project=gws-workspace-sbs2026
+                    - generic [ref=e382]:
+                      - img [ref=e385]
+                      - generic [ref=e388]: 인증 센터
+                  - button [ref=e523] [cursor=pointer]:
+                    - img [ref=e392]
+              - listitem [ref=e394]:
+                - generic [ref=e397]:
+                  - link [ref=e524] [cursor=pointer]:
+                    - /url: /auth/settings?project=gws-workspace-sbs2026
+                    - generic [ref=e399]:
+                      - img [ref=e402]
+                      - generic [ref=e404]: 설정
+                  - button [ref=e525] [cursor=pointer]:
+                    - img [ref=e408]
+            - button [pressed] [ref=e526] [cursor=pointer]:
+              - img [ref=e201]
+        - main [ref=e204]:
+          - generic [ref=e421]:
+            - generic [ref=e424]:
+              - button [ref=e527] [cursor=pointer]:
+                - img [ref=e430]
+              - heading [level=1] [ref=e528]:
+                - generic [ref=e435]: 데스크톱의 클라이언트 ID
+              - generic [ref=e437]:
+                - button [ref=e529]:
+                  - img [ref=e444]
+                  - generic [ref=e446]: 삭제
+                - button [active] [ref=e530] [cursor=pointer]:
+                  - img [ref=e452]
+            - generic [ref=e462]:
+              - generic [ref=e465]:
+                - generic [ref=e467] [cursor=pointer]:
+                  - generic [ref=e468]:
+                    - text: 이름
+                    - generic [ref=e469]: "*"
+                  - textbox [ref=e531]: gws CLI
+                - generic [ref=e474]: OAuth 2.0 클라이언트의 이름입니다. 이 이름은 콘솔에서 클라이언트를 식별하는 용도로만 사용되며 최종 사용자에게 표시되지 않습니다.
+              - paragraph [ref=e476]: "참고: 설정이 적용되는 데 5분에서 몇 시간이 걸릴 수 있습니다."
+              - button [ref=e532]:
+                - generic [ref=e480]: 저장
+              - button [ref=e533]:
+                - generic [ref=e482]: 취소
+  - iframe [ref=e229]:
+    
+  - iframe [ref=e486]:
+    
+  - generic:
+    - generic [ref=e536]: 정보 및 요약
+    - dialog "Additional information" [ref=e538]:
+      - generic [ref=e541]:
+        - generic [ref=e544]:
+          - heading "Additional information" [level=1] [ref=e547]:
+            - generic [ref=e548]: Additional information
+          - button "닫기" [ref=e554] [cursor=pointer]:
+            - img [ref=e556]
+        - region "페이지 요약" [ref=e561]:
+          - generic [ref=e563]:
+            - generic [ref=e564]:
+              - generic [ref=e565]:
+                - generic [ref=e566]:
+                  - term [ref=e567]: 클라이언트 ID
+                  - definition [ref=e568]: 713356574437-3v60otlcru5p6q6va32afpo2laq21p6h.apps.googleusercontent.com
+                - generic [ref=e569]:
+                  - term [ref=e570]: 생성일
+                  - definition [ref=e571]: 2026년 6월 14일 PM 3시 31분 20초 GMT+9
+                - generic [ref=e572]:
+                  - term [ref=e573]: 마지막 사용일
+                  - definition [ref=e574]: "2026년 6월 13일 (Note: this data could be delayed by a day or more.)"
+              - generic [ref=e576]:
+                - img "정보" [ref=e577]:
+                  - img [ref=e578]
+                - generic [ref=e582]:
+                  - text: 비활성 OAuth 클라이언트는 6개월 동안 사용되지 않으면 삭제됩니다. 비활성으로 인한 삭제 알림이 전송되며 삭제 후 최대 30일 동안 클라이언트를 복원할 수 있습니다.
+                  - link "미사용 클라이언트 삭제 자세히 알아보기 새 창에서 외부 링크 열기" [ref=e583] [cursor=pointer]:
+                    - /url: https://support.google.com/cloud/answer/15549257?hl=ko#unused-client-deletion
+                    - text: Learn more
+                    - img "새 창에서 외부 링크 열기" [ref=e584]:
+                      - img [ref=e585]
+            - generic [ref=e587]:
+              - heading "클라이언트 보안 비밀번호" [level=2] [ref=e588]
+              - generic [ref=e589]:
+                - generic [ref=e590]:
+                  - text: 클라이언트 보안 비밀번호를 변경하는 중인 경우 다운타임 없이 수동으로 순환할 수 있습니다.
+                  - link "OAuth 클라이언트 보안 비밀번호 순환 자세히 알아보기 새 창에서 외부 링크 열기" [ref=e591] [cursor=pointer]:
+                    - /url: https://support.google.com/cloud/answer/6158849?hl=ko#rotate-client-secret
+                    - text: 자세히 알아보기
+                    - img "새 창에서 외부 링크 열기" [ref=e592]:
+                      - img [ref=e593]
+                - generic [ref=e596]:
+                  - img "정보" [ref=e597]:
+                    - img [ref=e598]
+                  - generic [ref=e602]:
+                    - text: 클라이언트 보안 비밀번호를 더 이상 보거나 다운로드할 수 없습니다. 아래 보안 비밀번호를 분실한 경우 새 보안 비밀번호를 추가하세요. 클라이언트 보안 비밀번호는 안전하게 저장하고 최대한 주의하여 다루어야 합니다. 보안 비밀번호를 코드 저장소에 보관해서는 안 됩니다.
+                    - link "OAuth 클라이언트 보안 비밀번호 접근성 변경사항 자세히 알아보기 새 창에서 외부 링크 열기" [ref=e603] [cursor=pointer]:
+                      - /url: https://support.google.com/cloud/answer/15549257?hl=ko#client-secret-hashing
+                      - text: 자세히 알아보기
+                      - img "새 창에서 외부 링크 열기" [ref=e604]:
+                        - img [ref=e605]
+                - generic [ref=e607]:
+                  - generic [ref=e608]:
+                    - term [ref=e609]: 클라이언트 보안 비밀번호
+                    - definition [ref=e610]:
+                      - generic [ref=e611]: "****rNUQ"
+                  - generic [ref=e612]:
+                    - term [ref=e613]: 생성일
+                    - definition [ref=e614]:
+                      - generic [ref=e615]: 2026년 6월 14일 PM 3시 31분 20초 GMT+9
+                  - generic [ref=e616]:
+                    - term [ref=e617]: 상태
+                    - definition [ref=e618]:
+                      - generic [ref=e619]:
+                        - img [ref=e621]
+                        - text: 사용 설정됨
+                - button "클라이언트 보안 비밀번호 추가" [ref=e625]:
+                  - img [ref=e627]
+                  - generic [ref=e629]: Add secret

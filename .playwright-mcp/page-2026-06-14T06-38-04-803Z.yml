@@ -1,0 +1,47 @@
+- generic [ref=e3]:
+  - generic [ref=e4]:
+    - generic [ref=e6]:
+      - generic [ref=e7]: 로드 중
+      - progressbar [ref=e8]
+    - main [ref=e15]:
+      - generic [ref=e16]:
+        - generic [ref=e19]:
+          - img [ref=e21]
+          - generic [ref=e26]: Google 계정으로 로그인
+        - generic [ref=e27]:
+          - heading "gws CLI에 다시 로그인하는 중입니다" [level=1] [ref=e28]
+          - link "gimseongjo110@gmail.com 항목이 선택되었습니다. 계정 전환" [ref=e30] [cursor=pointer]:
+            - generic [ref=e33]: gimseongjo110@gmail.com
+            - img [ref=e35]
+      - generic [ref=e47]:
+        - generic [ref=e48]: gws CLI의 개인정보처리방침 및 서비스 약관을 검토하여 gws CLI에서 내 데이터를 처리하고 보호하는 방법을 알아보세요.
+        - generic [ref=e49]:
+          - link "Google 계정" [ref=e50] [cursor=pointer]:
+            - /url: https://myaccount.google.com/connections#filter=4
+          - text: 에서 언제든지 변경할 수 있습니다.
+        - generic [ref=e51]:
+          - link "Google 계정으로 로그인" [ref=e52] [cursor=pointer]:
+            - /url: https://support.google.com/accounts/answer/12921417?sjid=1919169284593837430-NC
+          - text: 에 대해 자세히 알아보기
+      - generic [ref=e55]:
+        - button "취소" [ref=e59]: 취소
+        - button "계속" [ref=e65]: 계속
+  - contentinfo [ref=e71]:
+    - combobox "언어 변경 한국어" [ref=e75] [cursor=pointer]:
+      - generic:
+        - generic: 한국어
+      - generic:
+        - img
+    - list [ref=e77]:
+      - listitem [ref=e78]:
+        - link "Google 계정 고객센터 열기(외부, 새 창에서 열림)" [ref=e79] [cursor=pointer]:
+          - /url: https://support.google.com/accounts?hl=ko&p=account_iph
+          - text: 도움말
+      - listitem [ref=e80]:
+        - link "개인정보처리방침(외부, 새 창에서 열림)" [ref=e81] [cursor=pointer]:
+          - /url: https://accounts.google.com/TOS?loc=KR&hl=ko&privacy=true
+          - text: 개인정보처리방침
+      - listitem [ref=e82]:
+        - link "Google 서비스 약관(외부, 새 창에서 열림)" [ref=e83] [cursor=pointer]:
+          - /url: https://accounts.google.com/TOS?loc=KR&hl=ko
+          - text: 약관

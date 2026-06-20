@@ -1,0 +1,193 @@
+- generic [ref=e1]:
+  - region "console.cloud.google.com 에서는 서비스 제공 및 서비스 품질 개선과 트래픽 분석을 위해 Google 쿠키를 사용합니다." [ref=e2]:
+    - paragraph [ref=e3]:
+      - text: console.cloud.google.com 에서는 서비스 제공 및 서비스 품질 개선과 트래픽 분석을 위해 Google 쿠키를 사용합니다.
+      - link "Google에서 쿠키를 사용하는 방법을 자세히 알아보세요. 새 탭에서 열립니다." [ref=e4] [cursor=pointer]:
+        - /url: https://policies.google.com/technologies/cookies?hl=ko
+        - text: 자세히 알아보세요
+    - button "확인" [ref=e5] [cursor=pointer]
+  - generic [ref=e7]:
+    - generic [ref=e8]:
+      - complementary "링크 건너뛰기" [ref=e9]:
+        - link "기본 콘텐츠로 건너뛰기" [ref=e10] [cursor=pointer]:
+          - /url: /
+          - generic [ref=e11]: 기본 콘텐츠로 건너뛰기
+        - button "키보드 단축키" [ref=e12]:
+          - generic [ref=e13]: 키보드 단축키
+        - link "접근성 도움말 새 창에서 외부 링크 열기" [ref=e14] [cursor=pointer]:
+          - /url: https://cloud.google.com/docs/accessibility?hl=ko
+          - generic [ref=e15]:
+            - text: 접근성 도움말
+            - generic "새 창에서 외부 링크 열기" [ref=e16]:
+              - img "새 창에서 외부 링크 열기" [ref=e17]:
+                - img [ref=e18]
+        - link "접근성 관련 의견 새 창에서 외부 링크 열기" [ref=e20] [cursor=pointer]:
+          - /url: https://support.google.com/accessibility/contact/feedback?hl=ko
+          - generic [ref=e21]:
+            - text: 접근성 관련 의견
+            - generic "새 창에서 외부 링크 열기" [ref=e22]:
+              - img "새 창에서 외부 링크 열기" [ref=e23]:
+                - img [ref=e24]
+      - banner [ref=e27]:
+        - generic [ref=e28]:
+          - navigation [ref=e31]:
+            - button "탐색 메뉴 (.)" [ref=e32] [cursor=pointer]:
+              - img [ref=e34]
+          - link "Google Cloud Platform 홈" [ref=e36] [cursor=pointer]:
+            - /url: /?project=gws-workspace-sbs2026
+            - generic:
+              - img
+          - button "현재 gws-workspace에서 작업 중입니다. 프로젝트, 폴더 또는 조직을 전환하려면 Enter 키를 누르세요." [ref=e271]:
+            - generic [ref=e272]:
+              - img [ref=e274]
+              - generic [ref=e277]: gws-workspace
+        - button "검색 열기" [ref=e51] [cursor=pointer]:
+          - img [ref=e53]
+        - generic [ref=e55]:
+          - generic [ref=e56]:
+            - button "Gemini AI 채팅 열기 (Alt G)" [ref=e281] [cursor=pointer]:
+              - img [ref=e283]
+            - button "무료 평가판 상태" [ref=e422] [cursor=pointer]:
+              - img [ref=e424]
+            - button "Cloud Shell 활성화 (G then S)" [ref=e426] [cursor=pointer]:
+              - img [ref=e428]
+            - button "알림 열기" [ref=e63] [cursor=pointer]:
+              - img [ref=e65]
+            - button "설정 및 유틸리티" [ref=e71] [cursor=pointer]:
+              - img [ref=e73]
+          - 'button "계정: 김성조 (gimseongjo110@gmail.com)" [ref=e432]':
+            - img [ref=e433]
+    - generic [ref=e86]:
+      - navigation "탐색경로" [ref=e289]:
+        - link "Google 인증 플랫폼" [ref=e292] [cursor=pointer]:
+          - /url: /auth?project=gws-workspace-sbs2026
+          - img [ref=e295]
+          - generic [ref=e299]: Google 인증 플랫폼
+        - list [ref=e300]:
+          - listitem [ref=e301]:
+            - generic [ref=e302]: /
+            - link "개요" [ref=e305] [cursor=pointer]:
+              - /url: /auth/overview?project=gws-workspace-sbs2026
+              - generic [ref=e307]: 개요
+          - listitem [ref=e308]:
+            - generic [ref=e309]: /
+            - link "브랜딩 만들기" [ref=e312] [cursor=pointer]:
+              - /url: /auth/overview/create?project=gws-workspace-sbs2026
+              - generic [ref=e314]: 브랜딩 만들기
+      - generic [ref=e97]:
+        - navigation "Google 인증 플랫폼" [ref=e104]:
+          - generic [ref=e105]:
+            - list "개요, 7개 중 1개 옵션 더보기 브랜딩, 7개 중 2개 옵션 더보기 대상, 7개 중 3개 옵션 더보기 클라이언트, 7개 중 4개 옵션 더보기 데이터 액세스, 7개 중 5개 옵션 더보기 인증 센터, 7개 중 6개 옵션 더보기 설정, 7개 중 7개 옵션 더보기" [ref=e119]:
+              - listitem [ref=e120]:
+                - generic [ref=e123]:
+                  - link "개요, 7개 중 1개" [ref=e124] [cursor=pointer]:
+                    - /url: /auth/overview?project=gws-workspace-sbs2026
+                    - generic [ref=e125]:
+                      - img [ref=e128]
+                      - generic [ref=e130]: 개요
+                  - button "옵션 더보기" [ref=e132] [cursor=pointer]:
+                    - img [ref=e134]
+              - listitem [ref=e136]:
+                - generic [ref=e139]:
+                  - link "브랜딩, 7개 중 2개" [ref=e140] [cursor=pointer]:
+                    - /url: /auth/branding?project=gws-workspace-sbs2026
+                    - generic [ref=e141]:
+                      - img [ref=e144]
+                      - generic [ref=e150]: 브랜딩
+                  - button "옵션 더보기" [ref=e152] [cursor=pointer]:
+                    - img [ref=e154]
+              - listitem [ref=e156]:
+                - generic [ref=e159]:
+                  - link "대상, 7개 중 3개" [ref=e160] [cursor=pointer]:
+                    - /url: /auth/audience?project=gws-workspace-sbs2026
+                    - generic [ref=e161]:
+                      - img [ref=e164]
+                      - generic [ref=e166]: 대상
+                  - button "옵션 더보기" [ref=e168] [cursor=pointer]:
+                    - img [ref=e170]
+              - listitem [ref=e172]:
+                - generic [ref=e175]:
+                  - link "클라이언트, 7개 중 4개" [ref=e176] [cursor=pointer]:
+                    - /url: /auth/clients?project=gws-workspace-sbs2026
+                    - generic [ref=e177]:
+                      - img [ref=e180]
+                      - generic [ref=e182]: 클라이언트
+                  - button "옵션 더보기" [ref=e184] [cursor=pointer]:
+                    - img [ref=e186]
+              - listitem [ref=e188]:
+                - generic [ref=e191]:
+                  - link "데이터 액세스, 7개 중 5개" [ref=e192] [cursor=pointer]:
+                    - /url: /auth/scopes?project=gws-workspace-sbs2026
+                    - generic [ref=e193]:
+                      - img [ref=e196]
+                      - generic [ref=e199]: 데이터 액세스
+                  - button "옵션 더보기" [ref=e201] [cursor=pointer]:
+                    - img [ref=e203]
+              - listitem [ref=e205]:
+                - generic [ref=e208]:
+                  - link "인증 센터, 7개 중 6개" [ref=e209] [cursor=pointer]:
+                    - /url: /auth/verification?project=gws-workspace-sbs2026
+                    - generic [ref=e210]:
+                      - img [ref=e213]
+                      - generic [ref=e216]: 인증 센터
+                  - button "옵션 더보기" [ref=e218] [cursor=pointer]:
+                    - img [ref=e220]
+              - listitem [ref=e222]:
+                - generic [ref=e225]:
+                  - link "설정, 7개 중 7개" [ref=e226] [cursor=pointer]:
+                    - /url: /auth/settings?project=gws-workspace-sbs2026
+                    - generic [ref=e227]:
+                      - img [ref=e230]
+                      - generic [ref=e232]: 설정
+                  - button "옵션 더보기" [ref=e234] [cursor=pointer]:
+                    - img [ref=e236]
+            - button "Google 인증 플랫폼 탐색 메뉴 전환" [pressed] [ref=e239] [cursor=pointer]:
+              - img [ref=e242]
+        - main [ref=e245]:
+          - generic [ref=e320]:
+            - heading "프로젝트 구성" [level=1] [ref=e326]:
+              - generic [ref=e327]: 프로젝트 구성
+            - generic [ref=e337]:
+              - generic [ref=e339]:
+                - heading "앱 정보, 1/4단계, 완료" [level=2] [ref=e566]:
+                  - generic [ref=e343]:
+                    - img [ref=e462]:
+                      - img [ref=e463]
+                    - generic [ref=e347]: 앱 정보
+                - generic [ref=e348]: "* *"
+              - heading "대상, 2/4단계, 완료" [level=2] [ref=e568]:
+                - generic [ref=e381]:
+                  - img [ref=e509]:
+                    - img [ref=e510]
+                  - generic [ref=e385]: 대상
+              - generic [ref=e389]:
+                - heading "연락처 정보, 3/4단계, 완료" [level=2] [ref=e570]:
+                  - generic [ref=e393]:
+                    - img [ref=e546]:
+                      - img [ref=e547]
+                    - generic [ref=e397]: 연락처 정보
+                - generic [ref=e398]: "*"
+              - heading "완료, 4/4단계, 완료" [level=2] [ref=e571]:
+                - button "완료, 4/4단계, 완료" [ref=e572] [cursor=pointer]:
+                  - generic [ref=e405]:
+                    - img [ref=e575]:
+                      - img [ref=e576]
+                    - generic [ref=e409]: 완료
+              - generic [ref=e411]:
+                - progressbar "처리 중..." [active] [ref=e578]:
+                  - generic [ref=e579]:
+                    - img [ref=e580]:
+                      - img [ref=e582]
+                      - generic [ref=e585]:
+                        - img [ref=e587]
+                        - img [ref=e590]
+                        - img [ref=e593]
+                    - generic [ref=e595]: 로드 중
+                  - text: 처리 중...
+                - button "취소" [disabled]:
+                  - generic: 취소
+  - iframe [ref=e269]:
+    
+  - iframe [ref=e444]:
+    
+  - paragraph [ref=e596]: 처리 중...

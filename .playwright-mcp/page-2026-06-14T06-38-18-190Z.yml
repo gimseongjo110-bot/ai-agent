@@ -1,0 +1,164 @@
+- generic [active] [ref=e1]:
+  - generic [ref=e2]:
+    - generic [ref=e3]:
+      - progressbar [ref=e5]
+      - generic [ref=e13]:
+        - generic [ref=e14]:
+          - generic [ref=e16]:
+            - img [ref=e18]
+            - generic [ref=e23]: Google 계정으로 로그인
+          - generic [ref=e24]:
+            - heading "gws CLI에서 Google 계정에 대한 추가 액세스를 요청합니다." [level=1] [ref=e25]:
+              - generic [ref=e27]: gws CLI에서 Google 계정에 대한 추가 액세스를 요청합니다.
+            - generic [ref=e34]: gimseongjo110@gmail.com
+        - generic [ref=e37]:
+          - generic [ref=e40]:
+            - generic [ref=e41]:
+              - heading "gws CLI 에서 액세스할 수 있는 항목을 선택하세요." [level=2] [ref=e43]:
+                - generic [ref=e44]:
+                  - button "gws CLI" [ref=e45] [cursor=pointer]
+                  - text: 에서 액세스할 수 있는 항목을 선택하세요.
+              - generic [ref=e49]:
+                - generic [ref=e51]:
+                  - generic [ref=e54] [cursor=pointer]:
+                    - checkbox "모두 선택" [ref=e55]
+                    - generic:
+                      - img
+                  - generic [ref=e58] [cursor=pointer]: 모두 선택
+                - generic [ref=e60] [cursor=pointer]:
+                  - img [ref=e62]
+                  - generic [ref=e65]:
+                    - text: Google Drive 파일 보기, 수정, 생성, 삭제.
+                    - link "자세히 알아보기" [ref=e66]:
+                      - /url: ""
+                  - generic [ref=e69]:
+                    - checkbox "Google Drive 파일 보기, 수정, 생성, 삭제. 자세히 알아보기" [ref=e70]
+                    - generic:
+                      - img
+                - generic [ref=e72] [cursor=pointer]:
+                  - img [ref=e74]
+                  - generic [ref=e77]:
+                    - text: 모든 Google Slides 프레젠테이션 확인, 수정, 생성, 삭제.
+                    - link "자세히 알아보기" [ref=e78]:
+                      - /url: ""
+                  - generic [ref=e81]:
+                    - checkbox "모든 Google Slides 프레젠테이션 확인, 수정, 생성, 삭제. 자세히 알아보기" [ref=e82]
+                    - generic:
+                      - img
+                - generic [ref=e84] [cursor=pointer]:
+                  - img [ref=e86]
+                  - generic [ref=e89]:
+                    - text: 모든 Google Docs 문서 확인, 수정, 생성, 삭제.
+                    - link "자세히 알아보기" [ref=e90]:
+                      - /url: ""
+                  - generic [ref=e93]:
+                    - checkbox "모든 Google Docs 문서 확인, 수정, 생성, 삭제. 자세히 알아보기" [ref=e94]
+                    - generic:
+                      - img
+                - generic [ref=e96] [cursor=pointer]:
+                  - img [ref=e98]
+                  - generic [ref=e101]:
+                    - text: 모든 Google Sheets 스프레드시트 확인, 수정, 생성, 삭제.
+                    - link "자세히 알아보기" [ref=e102]:
+                      - /url: ""
+                  - generic [ref=e105]:
+                    - checkbox "모든 Google Sheets 스프레드시트 확인, 수정, 생성, 삭제. 자세히 알아보기" [ref=e106]
+                    - generic:
+                      - img
+                - generic [ref=e108] [cursor=pointer]:
+                  - img [ref=e110]
+                  - generic [ref=e113]:
+                    - text: Google Calendar를 사용하여 액세스할 수 있는 모든 캘린더 보기, 수정, 공유, 영구 삭제.
+                    - link "자세히 알아보기" [ref=e114]:
+                      - /url: ""
+                  - generic [ref=e117]:
+                    - checkbox "Google Calendar를 사용하여 액세스할 수 있는 모든 캘린더 보기, 수정, 공유, 영구 삭제. 자세히 알아보기" [ref=e118]
+                    - generic:
+                      - img
+                - generic [ref=e120] [cursor=pointer]:
+                  - img [ref=e122]
+                  - generic [ref=e125]:
+                    - text: Gmail 계정에서 이메일 읽기, 작성 및 전송.
+                    - link "자세히 알아보기" [ref=e126]:
+                      - /url: ""
+                  - generic [ref=e129]:
+                    - checkbox "Gmail 계정에서 이메일 읽기, 작성 및 전송. 자세히 알아보기" [ref=e130]
+                    - generic:
+                      - img
+                - generic [ref=e132] [cursor=pointer]:
+                  - img [ref=e134]
+                  - generic [ref=e137]:
+                    - text: 게시/구독 주제와 구독 항목 보기 및 관리.
+                    - link "자세히 알아보기" [ref=e138]:
+                      - /url: ""
+                  - generic [ref=e141]:
+                    - checkbox "게시/구독 주제와 구독 항목 보기 및 관리. 자세히 알아보기" [ref=e142]
+                    - generic:
+                      - img
+                - generic [ref=e144] [cursor=pointer]:
+                  - img [ref=e146]
+                  - generic [ref=e149]:
+                    - text: Google Cloud 데이터 확인, 수정, 구성, 삭제 및 Google 계정의 이메일 주소 확인.
+                    - link "자세히 알아보기" [ref=e150]:
+                      - /url: ""
+                  - generic [ref=e153]:
+                    - checkbox "Google Cloud 데이터 확인, 수정, 구성, 삭제 및 Google 계정의 이메일 주소 확인. 자세히 알아보기" [ref=e154]
+                    - generic:
+                      - img
+                - generic [ref=e156] [cursor=pointer]:
+                  - img [ref=e158]
+                  - generic [ref=e161]:
+                    - text: 할 일 생성, 수정, 정리, 삭제.
+                    - link "자세히 알아보기" [ref=e162]:
+                      - /url: ""
+                  - generic [ref=e165]:
+                    - checkbox "할 일 생성, 수정, 정리, 삭제. 자세히 알아보기" [ref=e166]
+                    - generic:
+                      - img
+            - generic [ref=e167]:
+              - heading "gws CLI에 이미 일부 액세스 권한이 있음" [level=2] [ref=e169]:
+                - img [ref=e171]
+                - generic [ref=e173]: gws CLI에 이미 일부 액세스 권한이 있음
+              - generic [ref=e176]:
+                - text: gws CLI에서 액세스할 수 있는 서비스
+                - button "3개 서비스" [ref=e177] [cursor=pointer]
+                - text: 개를 확인하세요.
+          - generic [ref=e180]:
+            - heading "gws CLI 앱을 신뢰할 수 있는지 확인" [level=2] [ref=e182]:
+              - generic [ref=e183]: gws CLI 앱을 신뢰할 수 있는지 확인
+            - generic [ref=e186]:
+              - generic [ref=e187]:
+                - heading [level=2] [ref=e189]:
+                  - img [ref=e191]
+                - link "gws CLI의 개인정보처리방침 또는 서비스 약관 링크가 표시되지 않는 이유 알아보기" [ref=e196] [cursor=pointer]:
+                  - /url: https://support.google.com/accounts?p=oauth_notos
+              - generic [ref=e197]: gws CLI의 개인정보처리방침 및 서비스 약관을 검토하여 gws CLI에서 내 데이터를 처리하고 보호하는 방법을 알아보세요.
+              - generic [ref=e198]:
+                - link "Google 계정" [ref=e199] [cursor=pointer]:
+                  - /url: https://myaccount.google.com/connections
+                - text: 에서 언제든지 변경할 수 있습니다.
+              - generic [ref=e200]:
+                - text: Google이
+                - link "데이터를 안전하게 공유" [ref=e201] [cursor=pointer]:
+                  - /url: https://support.google.com/accounts/answer/14012355
+                - text: 하는 방법을 알아보세요.
+        - generic [ref=e204]:
+          - button "취소" [ref=e208]: 취소
+          - button "계속" [ref=e214]: 계속
+    - contentinfo [ref=e218]:
+      - combobox "‪한국어‬" [ref=e222] [cursor=pointer]:
+        - generic:
+          - generic: ‪한국어‬
+        - generic:
+          - img
+      - list [ref=e224]:
+        - listitem [ref=e225]:
+          - link "도움말" [ref=e226] [cursor=pointer]:
+            - /url: https://support.google.com/accounts?hl=ko&p=account_iph
+        - listitem [ref=e227]:
+          - link "개인정보처리방침" [ref=e228] [cursor=pointer]:
+            - /url: https://accounts.google.com/TOS?loc=KR&hl=ko&privacy=true
+        - listitem [ref=e229]:
+          - link "약관" [ref=e230] [cursor=pointer]:
+            - /url: https://accounts.google.com/TOS?loc=KR&hl=ko
+  - generic [ref=e232]: gws CLI에서 Google 계정에 대한 추가 액세스를 요청합니다.

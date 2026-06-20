@@ -1,0 +1,111 @@
+- generic [active] [ref=e1]:
+  - generic [ref=e3]:
+    - generic [ref=e4]:
+      - complementary "링크 건너뛰기" [ref=e5]:
+        - link "기본 콘텐츠로 건너뛰기" [ref=e6] [cursor=pointer]:
+          - /url: /
+          - generic [ref=e7]: 기본 콘텐츠로 건너뛰기
+        - button "키보드 단축키" [ref=e8]:
+          - generic [ref=e9]: 키보드 단축키
+        - link "접근성 도움말 새 창에서 외부 링크 열기" [ref=e10] [cursor=pointer]:
+          - /url: https://cloud.google.com/docs/accessibility?hl=ko
+          - generic [ref=e11]:
+            - text: 접근성 도움말
+            - generic "새 창에서 외부 링크 열기" [ref=e12]:
+              - img "새 창에서 외부 링크 열기" [ref=e13]:
+                - img [ref=e14]
+        - link "접근성 관련 의견 새 창에서 외부 링크 열기" [ref=e16] [cursor=pointer]:
+          - /url: https://support.google.com/accessibility/contact/feedback?hl=ko
+          - generic [ref=e17]:
+            - text: 접근성 관련 의견
+            - generic "새 창에서 외부 링크 열기" [ref=e18]:
+              - img "새 창에서 외부 링크 열기" [ref=e19]:
+                - img [ref=e20]
+      - banner [ref=e23]:
+        - generic [ref=e24]:
+          - navigation [ref=e27]:
+            - button "탐색 메뉴 (.)" [ref=e28] [cursor=pointer]:
+              - img [ref=e30]
+          - link "Google Cloud Platform 홈" [ref=e32] [cursor=pointer]:
+            - /url: /
+            - generic:
+              - img
+          - button "선택한 프로젝트가 없습니다. 프로젝트, 폴더 또는 조직을 선택하려면 Enter 키를 누르세요." [ref=e40]
+        - button "검색 열기" [ref=e47] [cursor=pointer]:
+          - img [ref=e49]
+        - generic [ref=e51]:
+          - generic [ref=e52]:
+            - generic [ref=e55]:
+              - button "Cloud Shell 활성화 (G then S)" [disabled]:
+                - generic:
+                  - img
+            - button "알림 열기" [ref=e59] [cursor=pointer]:
+              - img [ref=e61]
+            - button "설정 및 유틸리티" [ref=e67] [cursor=pointer]:
+              - img [ref=e69]
+          - img [ref=e73]
+    - generic [ref=e93]:
+      - navigation "API 및 서비스" [ref=e100]:
+        - generic [ref=e101]:
+          - heading "API 및 서비스" [level=2] [ref=e103]:
+            - link "API 및 서비스" [ref=e104] [cursor=pointer]:
+              - /url: /apis
+              - img [ref=e107]
+              - generic [ref=e111]: API 및 서비스
+          - list "사용 설정된 API 및 서비스, 5개 중 1개 옵션 더보기 라이브러리, 5개 중 2개 옵션 더보기 사용자 인증 정보, 5개 중 3개 옵션 더보기 OAuth 동의 화면, 5개 중 4개 옵션 더보기 페이지 사용 동의, 5개 중 5개 옵션 더보기" [ref=e115]:
+            - listitem [ref=e116]:
+              - generic [ref=e119]:
+                - link "사용 설정된 API 및 서비스, 5개 중 1개" [ref=e120] [cursor=pointer]:
+                  - /url: /apis/dashboard
+                  - generic [ref=e121]:
+                    - img [ref=e124]
+                    - generic [ref=e126]: 사용 설정된 API 및 서비스
+                - button "옵션 더보기" [ref=e128] [cursor=pointer]:
+                  - img [ref=e130]
+            - listitem [ref=e132]:
+              - generic [ref=e135]:
+                - link "라이브러리, 5개 중 2개" [ref=e136] [cursor=pointer]:
+                  - /url: /apis/library
+                  - generic [ref=e137]:
+                    - img [ref=e140]
+                    - generic [ref=e142]: 라이브러리
+                - button "옵션 더보기" [ref=e144] [cursor=pointer]:
+                  - img [ref=e146]
+            - listitem [ref=e148]:
+              - generic [ref=e151]:
+                - link "사용자 인증 정보, 5개 중 3개" [ref=e152] [cursor=pointer]:
+                  - /url: /apis/credentials
+                  - generic [ref=e153]:
+                    - img [ref=e156]
+                    - generic [ref=e158]: 사용자 인증 정보
+                - button "옵션 더보기" [ref=e160] [cursor=pointer]:
+                  - img [ref=e162]
+            - listitem [ref=e164]:
+              - generic [ref=e167]:
+                - link "OAuth 동의 화면, 5개 중 4개" [ref=e168] [cursor=pointer]:
+                  - /url: /apis/credentials/consent
+                  - generic [ref=e169]:
+                    - img [ref=e172]
+                    - generic [ref=e174]: OAuth 동의 화면
+                - button "옵션 더보기" [ref=e176] [cursor=pointer]:
+                  - img [ref=e178]
+            - listitem [ref=e180]:
+              - generic [ref=e183]:
+                - link "페이지 사용 동의, 5개 중 5개" [ref=e184] [cursor=pointer]:
+                  - /url: /apis/agreements
+                  - generic [ref=e185]:
+                    - img [ref=e188]
+                    - generic [ref=e191]: 페이지 사용 동의
+                - button "옵션 더보기" [ref=e193] [cursor=pointer]:
+                  - img [ref=e195]
+          - button "API 및 서비스 탐색 메뉴 전환" [pressed] [ref=e198] [cursor=pointer]:
+            - img [ref=e201]
+      - main [ref=e204]:
+        - progressbar [ref=e212]:
+          - img [ref=e214]
+          - generic [ref=e217]:
+            - img [ref=e219]
+            - img [ref=e222]
+            - img [ref=e225]
+  - iframe [ref=e229]:
+    

@@ -1,0 +1,248 @@
+- generic [ref=e1]:
+  - generic [ref=e3]:
+    - alertdialog [ref=e5]:
+      - generic [ref=e6]:
+        - generic [ref=e7]:
+          - img [ref=e10]
+          - generic [ref=e13]:
+            - text: $300 크레딧으로 무료 체험판을 시작해 보세요. 크레딧을 모두 사용해도 요금이 청구되지 않으니 걱정하지 마세요.
+            - link [ref=e14] [cursor=pointer]:
+              - /url: https://cloud.google.com/free/?hl=ko
+              - text: 자세히 알아보기
+              - img [ref=e15]:
+                - img [ref=e16]
+        - generic [ref=e18]:
+          - button [ref=e19]:
+            - generic [ref=e20]: 닫기
+          - button [ref=e21]:
+            - generic [ref=e22]: 무료로 시작하기
+    - generic [ref=e23]:
+      - complementary [ref=e24]:
+        - link [ref=e25] [cursor=pointer]:
+          - /url: /
+          - generic [ref=e26]: 기본 콘텐츠로 건너뛰기
+        - button [ref=e27]:
+          - generic [ref=e28]: 키보드 단축키
+        - link [ref=e29] [cursor=pointer]:
+          - /url: https://cloud.google.com/docs/accessibility?hl=ko
+          - generic [ref=e30]:
+            - text: 접근성 도움말
+            - img [ref=e32]:
+              - img [ref=e33]
+        - link [ref=e35] [cursor=pointer]:
+          - /url: https://support.google.com/accessibility/contact/feedback?hl=ko
+          - generic [ref=e36]:
+            - text: 접근성 관련 의견
+            - img [ref=e38]:
+              - img [ref=e39]
+      - banner [ref=e42]:
+        - generic [ref=e43]:
+          - navigation [ref=e46]:
+            - button [ref=e47] [cursor=pointer]:
+              - img [ref=e49]
+          - link [ref=e51] [cursor=pointer]:
+            - /url: /
+            - generic:
+              - img
+          - button [ref=e59]:
+            - generic [ref=e60]:
+              - img [ref=e62]
+              - generic [ref=e65]: gws-workspace
+        - button [ref=e72] [cursor=pointer]:
+          - img [ref=e74]
+        - generic [ref=e76]:
+          - generic [ref=e77]:
+            - button [ref=e81] [cursor=pointer]:
+              - img [ref=e83]
+            - button [ref=e88] [cursor=pointer]:
+              - img [ref=e90]
+            - button [ref=e95] [cursor=pointer]:
+              - img [ref=e97]
+            - button [ref=e103] [cursor=pointer]:
+              - img [ref=e105]
+          - button [ref=e111]:
+            - img [ref=e112]
+    - generic [ref=e121]:
+      - navigation [ref=e126]:
+        - link [ref=e129] [cursor=pointer]:
+          - /url: /auth?project=gws-workspace-sbs2026
+          - img [ref=e132]
+          - generic [ref=e136]: Google 인증 플랫폼
+        - list [ref=e137]:
+          - listitem [ref=e138]:
+            - generic [ref=e139]: /
+            - link [ref=e142] [cursor=pointer]:
+              - /url: /auth/overview?project=gws-workspace-sbs2026
+              - generic [ref=e144]: 개요
+      - generic [ref=e155]:
+        - navigation [ref=e162]:
+          - generic [ref=e163]:
+            - list [ref=e167]:
+              - listitem [ref=e168]:
+                - generic [ref=e171]:
+                  - link [ref=e172] [cursor=pointer]:
+                    - /url: /auth/overview?project=gws-workspace-sbs2026
+                    - generic [ref=e173]:
+                      - img [ref=e176]
+                      - generic [ref=e178]: 개요
+                  - button [ref=e180] [cursor=pointer]:
+                    - img [ref=e182]
+              - listitem [ref=e184]:
+                - generic [ref=e187]:
+                  - link [ref=e188] [cursor=pointer]:
+                    - /url: /auth/branding?project=gws-workspace-sbs2026
+                    - generic [ref=e189]:
+                      - img [ref=e192]
+                      - generic [ref=e198]: 브랜딩
+                  - button [ref=e200] [cursor=pointer]:
+                    - img [ref=e202]
+              - listitem [ref=e204]:
+                - generic [ref=e207]:
+                  - link [ref=e208] [cursor=pointer]:
+                    - /url: /auth/audience?project=gws-workspace-sbs2026
+                    - generic [ref=e209]:
+                      - img [ref=e212]
+                      - generic [ref=e214]: 대상
+                  - button [ref=e216] [cursor=pointer]:
+                    - img [ref=e218]
+              - listitem [ref=e220]:
+                - generic [ref=e223]:
+                  - link [ref=e224] [cursor=pointer]:
+                    - /url: /auth/clients?project=gws-workspace-sbs2026
+                    - generic [ref=e225]:
+                      - img [ref=e228]
+                      - generic [ref=e230]: 클라이언트
+                  - button [ref=e232] [cursor=pointer]:
+                    - img [ref=e234]
+              - listitem [ref=e236]:
+                - generic [ref=e239]:
+                  - link [ref=e240] [cursor=pointer]:
+                    - /url: /auth/scopes?project=gws-workspace-sbs2026
+                    - generic [ref=e241]:
+                      - img [ref=e244]
+                      - generic [ref=e247]: 데이터 액세스
+                  - button [ref=e249] [cursor=pointer]:
+                    - img [ref=e251]
+              - listitem [ref=e253]:
+                - generic [ref=e256]:
+                  - link [ref=e257] [cursor=pointer]:
+                    - /url: /auth/verification?project=gws-workspace-sbs2026
+                    - generic [ref=e258]:
+                      - img [ref=e261]
+                      - generic [ref=e264]: 인증 센터
+                  - button [ref=e266] [cursor=pointer]:
+                    - img [ref=e268]
+              - listitem [ref=e270]:
+                - generic [ref=e273]:
+                  - link [ref=e274] [cursor=pointer]:
+                    - /url: /auth/settings?project=gws-workspace-sbs2026
+                    - generic [ref=e275]:
+                      - img [ref=e278]
+                      - generic [ref=e280]: 설정
+                  - button [ref=e282] [cursor=pointer]:
+                    - img [ref=e284]
+            - button [pressed] [ref=e287] [cursor=pointer]:
+              - img [ref=e290]
+        - main [ref=e293]:
+          - generic [ref=e310]:
+            - heading [level=1] [ref=e316]:
+              - generic [ref=e317]: OAuth 개요
+            - generic [ref=e322]:
+              - img [ref=e324]
+              - generic [ref=e329]:
+                - heading [level=2] [ref=e331]: Google 인증 플랫폼이 아직 구성되지 않음
+                - generic [ref=e332]:
+                  - text: 시작하여 애플리케이션의 ID를 구성하고 Google API 호출 및 Google 계정으로 로그인에 사용할 사용자 인증 정보를 관리하세요.
+                  - link [ref=e333] [cursor=pointer]:
+                    - /url: https://developers.google.com/identity?hl=ko
+                    - text: 자세히 알아보기
+                    - img [ref=e334]:
+                      - img [ref=e335]
+              - link [ref=e338] [cursor=pointer]:
+                - /url: /auth/overview/create?project=gws-workspace-sbs2026
+                - generic [ref=e339]: 시작하기
+  - iframe [ref=e341]:
+    
+  - dialog "Google Cloud" [ref=e345]:
+    - generic [ref=e349]:
+      - generic [ref=e350]:
+        - img "Google Cloud" [ref=e352]
+        - heading "김성조님, 환영합니다" [level=1] [ref=e354]:
+          - generic [ref=e355]: 김성조님, 환영합니다
+        - paragraph [ref=e356]: Google Cloud 인스턴스, 디스크, 네트워크, 기타 리소스를 한 곳에서 만들고 관리할 수 있습니다.
+        - paragraph
+        - generic [ref=e357]:
+          - generic [ref=e358]:
+            - generic [ref=e361]:
+              - img [ref=e363]
+              - generic [ref=e364]:
+                - generic [ref=e365]: 김성조
+                - generic [ref=e366]: gimseongjo110@gmail.com
+            - button "계정 전환" [ref=e368]:
+              - generic [ref=e369]: 계정 전환
+          - generic [ref=e371]:
+            - generic [ref=e374]:
+              - heading "국가" [level=2] [ref=e376]
+              - combobox "국가" [ref=e381] [cursor=pointer]:
+                - generic [ref=e382]:
+                  - generic [ref=e384]: 대한민국
+                  - img [ref=e386]
+            - generic [ref=e388]:
+              - heading "서비스 약관" [level=2] [ref=e390]
+              - generic [ref=e392]:
+                - generic [ref=e393] [cursor=pointer]:
+                  - checkbox "Google Cloud Platform 서비스 약관 새 창에서 외부 링크 열기과 관련 서비스 및 API의 서비스 약관에 동의합니다. Starter 등급 프로젝트를 사용하는 경우 해당 프로젝트의 모든 리소스 사용에 Starter 등급 서비스 약관 새 창에서 외부 링크 열기이 적용됩니다." [checked] [ref=e394]
+                  - generic:
+                    - img
+                - paragraph [ref=e396] [cursor=pointer]:
+                  - generic [ref=e397]:
+                    - link "Google Cloud Platform 서비스 약관 새 창에서 외부 링크 열기" [ref=e398]:
+                      - /url: https://cloud.google.com/terms/?hl=ko&_gl=1*1mytf0s*_ga*ODI0NzQ0MjY5LjE3ODE0MTgyNTc.*_ga_WH2QY8WWF5*czE3ODE0MTgyNTckbzEkZzEkdDE3ODE0MTgyNjEkajU2JGwwJGgw
+                      - text: Google Cloud Platform 서비스 약관
+                      - img "새 창에서 외부 링크 열기" [ref=e399]:
+                        - img [ref=e400]
+                    - text: 과
+                    - link "관련 서비스 및 API" [ref=e402]:
+                      - /url: /terms?project=gws-workspace-sbs2026
+                    - text: 의 서비스 약관에 동의합니다.
+                  - generic [ref=e403]:
+                    - text: Starter 등급 프로젝트를 사용하는 경우 해당 프로젝트의 모든 리소스 사용에
+                    - link "Starter 등급 서비스 약관 새 창에서 외부 링크 열기" [ref=e404]:
+                      - /url: https://cloud.google.com/terms/starter-tier-additional-terms-of-service?hl=ko
+                      - text: Starter 등급 서비스 약관
+                      - img "새 창에서 외부 링크 열기" [ref=e405]:
+                        - img [ref=e406]
+                    - text: 이 적용됩니다.
+              - generic [ref=e410]:
+                - generic [ref=e411] [cursor=pointer]:
+                  - checkbox "현재 또는 향후에 상업적 목적 새 창에서 외부 링크 열기으로 Google Cloud Platform을 사용할 계획입니다." [checked] [ref=e412]
+                  - generic:
+                    - img
+                - paragraph [ref=e414] [cursor=pointer]:
+                  - text: 현재 또는 향후에
+                  - link "상업적 목적 새 창에서 외부 링크 열기" [ref=e415]:
+                    - /url: https://cloud.google.com/billing/docs/resources/vat-overview?hl=ko
+                    - text: 상업적 목적
+                    - img "새 창에서 외부 링크 열기" [ref=e416]:
+                      - img [ref=e417]
+                  - text: 으로 Google Cloud Platform을 사용할 계획입니다.
+            - generic [ref=e421]:
+              - heading "이메일 업데이트" [level=2] [ref=e423]
+              - generic [ref=e425]:
+                - generic [ref=e426] [cursor=pointer]:
+                  - checkbox "Google Cloud 및 Google Cloud 파트너가 보내는 뉴스, 제품 업데이트, 특별 이벤트에 대한 정기적인 이메일을 수신하겠습니다." [checked] [ref=e427]
+                  - generic:
+                    - img
+                - paragraph [ref=e429] [cursor=pointer]: Google Cloud 및 Google Cloud 파트너가 보내는 뉴스, 제품 업데이트, 특별 이벤트에 대한 정기적인 이메일을 수신하겠습니다.
+      - progressbar "로드 중" [active] [ref=e438]:
+        - generic [ref=e439]:
+          - img [ref=e440]:
+            - img [ref=e442]
+            - generic [ref=e445]:
+              - img [ref=e447]
+              - img [ref=e450]
+              - img [ref=e453]
+          - generic [ref=e455]: 로드 중
+  - iframe [ref=e434]:
+    
+  - paragraph [ref=e456]: 로드 중

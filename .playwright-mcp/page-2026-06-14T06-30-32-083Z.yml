@@ -1,0 +1,170 @@
+- generic [active] [ref=e1]:
+  - generic [ref=e3]:
+    - generic [ref=e4]:
+      - complementary "링크 건너뛰기" [ref=e5]:
+        - link "기본 콘텐츠로 건너뛰기" [ref=e6] [cursor=pointer]:
+          - /url: /
+          - generic [ref=e7]: 기본 콘텐츠로 건너뛰기
+        - button "키보드 단축키" [ref=e8]:
+          - generic [ref=e9]: 키보드 단축키
+        - link "접근성 도움말 새 창에서 외부 링크 열기" [ref=e10] [cursor=pointer]:
+          - /url: https://cloud.google.com/docs/accessibility?hl=ko
+          - generic [ref=e11]:
+            - text: 접근성 도움말
+            - generic "새 창에서 외부 링크 열기" [ref=e12]:
+              - img "새 창에서 외부 링크 열기" [ref=e13]:
+                - img [ref=e14]
+        - link "접근성 관련 의견 새 창에서 외부 링크 열기" [ref=e16] [cursor=pointer]:
+          - /url: https://support.google.com/accessibility/contact/feedback?hl=ko
+          - generic [ref=e17]:
+            - text: 접근성 관련 의견
+            - generic "새 창에서 외부 링크 열기" [ref=e18]:
+              - img "새 창에서 외부 링크 열기" [ref=e19]:
+                - img [ref=e20]
+      - banner [ref=e23]:
+        - generic [ref=e24]:
+          - navigation [ref=e27]:
+            - button "탐색 메뉴 (.)" [ref=e28] [cursor=pointer]:
+              - img [ref=e30]
+          - link "Google Cloud Platform 홈" [ref=e32] [cursor=pointer]:
+            - /url: /
+            - generic:
+              - img
+          - button "현재 gws-workspace에서 작업 중입니다. 프로젝트, 폴더 또는 조직을 전환하려면 Enter 키를 누르세요." [ref=e267]:
+            - generic [ref=e268]:
+              - img [ref=e270]
+              - generic [ref=e273]: gws-workspace
+        - button "검색 열기" [ref=e47] [cursor=pointer]:
+          - img [ref=e49]
+        - generic [ref=e51]:
+          - generic [ref=e52]:
+            - button "Gemini AI 채팅 열기 (Alt G)" [ref=e277] [cursor=pointer]:
+              - img [ref=e279]
+            - button "무료 평가판 상태" [ref=e284] [cursor=pointer]:
+              - img [ref=e286]
+            - button "Cloud Shell 활성화 (G then S)" [ref=e288] [cursor=pointer]:
+              - img [ref=e290]
+            - button "알림 열기" [ref=e59] [cursor=pointer]:
+              - img [ref=e61]
+            - button "설정 및 유틸리티" [ref=e67] [cursor=pointer]:
+              - img [ref=e69]
+          - 'button "계정: 김성조 (gimseongjo110@gmail.com)" [ref=e294]':
+            - img [ref=e295]
+    - generic [ref=e82]:
+      - navigation "탐색경로" [ref=e300]:
+        - link "Google 인증 플랫폼" [ref=e303] [cursor=pointer]:
+          - /url: /auth?project=gws-workspace-sbs2026
+          - img [ref=e306]
+          - generic [ref=e310]: Google 인증 플랫폼
+        - list [ref=e311]:
+          - listitem [ref=e312]:
+            - generic [ref=e313]: /
+            - link "클라이언트" [ref=e316] [cursor=pointer]:
+              - /url: /auth/clients?project=gws-workspace-sbs2026
+              - generic [ref=e318]: 클라이언트
+          - listitem [ref=e319]:
+            - generic [ref=e320]: /
+            - link "클라이언트 만들기" [ref=e323] [cursor=pointer]:
+              - /url: /auth/clients/create?project=gws-workspace-sbs2026
+              - generic [ref=e325]: 클라이언트 만들기
+      - generic [ref=e93]:
+        - navigation "Google 인증 플랫폼" [ref=e100]:
+          - generic [ref=e101]:
+            - list "개요, 7개 중 1개 옵션 더보기 브랜딩, 7개 중 2개 옵션 더보기 대상, 7개 중 3개 옵션 더보기 클라이언트, 7개 중 4개 옵션 더보기 데이터 액세스, 7개 중 5개 옵션 더보기 인증 센터, 7개 중 6개 옵션 더보기 설정, 7개 중 7개 옵션 더보기" [ref=e115]:
+              - listitem [ref=e116]:
+                - generic [ref=e119]:
+                  - link "개요, 7개 중 1개" [ref=e120] [cursor=pointer]:
+                    - /url: /auth/overview
+                    - generic [ref=e121]:
+                      - img [ref=e124]
+                      - generic [ref=e126]: 개요
+                  - button "옵션 더보기" [ref=e128] [cursor=pointer]:
+                    - img [ref=e130]
+              - listitem [ref=e132]:
+                - generic [ref=e135]:
+                  - link "브랜딩, 7개 중 2개" [ref=e136] [cursor=pointer]:
+                    - /url: /auth/branding
+                    - generic [ref=e137]:
+                      - img [ref=e140]
+                      - generic [ref=e146]: 브랜딩
+                  - button "옵션 더보기" [ref=e148] [cursor=pointer]:
+                    - img [ref=e150]
+              - listitem [ref=e152]:
+                - generic [ref=e155]:
+                  - link "대상, 7개 중 3개" [ref=e156] [cursor=pointer]:
+                    - /url: /auth/audience
+                    - generic [ref=e157]:
+                      - img [ref=e160]
+                      - generic [ref=e162]: 대상
+                  - button "옵션 더보기" [ref=e164] [cursor=pointer]:
+                    - img [ref=e166]
+              - listitem [ref=e168]:
+                - generic [ref=e171]:
+                  - link "클라이언트, 7개 중 4개" [ref=e172] [cursor=pointer]:
+                    - /url: /auth/clients
+                    - generic [ref=e173]:
+                      - img [ref=e176]
+                      - generic [ref=e178]: 클라이언트
+                  - button "옵션 더보기" [ref=e180] [cursor=pointer]:
+                    - img [ref=e182]
+              - listitem [ref=e184]:
+                - generic [ref=e187]:
+                  - link "데이터 액세스, 7개 중 5개" [ref=e188] [cursor=pointer]:
+                    - /url: /auth/scopes
+                    - generic [ref=e189]:
+                      - img [ref=e192]
+                      - generic [ref=e195]: 데이터 액세스
+                  - button "옵션 더보기" [ref=e197] [cursor=pointer]:
+                    - img [ref=e199]
+              - listitem [ref=e201]:
+                - generic [ref=e204]:
+                  - link "인증 센터, 7개 중 6개" [ref=e205] [cursor=pointer]:
+                    - /url: /auth/verification
+                    - generic [ref=e206]:
+                      - img [ref=e209]
+                      - generic [ref=e212]: 인증 센터
+                  - button "옵션 더보기" [ref=e214] [cursor=pointer]:
+                    - img [ref=e216]
+              - listitem [ref=e218]:
+                - generic [ref=e221]:
+                  - link "설정, 7개 중 7개" [ref=e222] [cursor=pointer]:
+                    - /url: /auth/settings
+                    - generic [ref=e223]:
+                      - img [ref=e226]
+                      - generic [ref=e228]: 설정
+                  - button "옵션 더보기" [ref=e230] [cursor=pointer]:
+                    - img [ref=e232]
+            - button "Google 인증 플랫폼 탐색 메뉴 전환" [pressed] [ref=e235] [cursor=pointer]:
+              - img [ref=e238]
+        - main [ref=e241]:
+          - generic [ref=e336]:
+            - generic [ref=e339]:
+              - button "이전 페이지(으)로 돌아가기" [ref=e343] [cursor=pointer]:
+                - img [ref=e345]
+              - heading "OAuth 클라이언트 ID 만들기" [level=1] [ref=e349]:
+                - generic [ref=e350]: OAuth 클라이언트 ID 만들기
+            - generic [ref=e352]:
+              - paragraph [ref=e353]:
+                - text: 클라이언트 ID는 Google OAuth 서버에서 단일 앱을 식별하는 데 사용됩니다. 앱이 여러 플랫폼에서 실행되는 경우 각각 자체 클라이언트 ID가 있어야 합니다. 자세한 내용은
+                - link "OAuth 2.0 설정 새 창에서 외부 링크 열기" [ref=e354] [cursor=pointer]:
+                  - /url: https://developers.google.com/identity/protocols/oauth2/?hl=ko
+                  - text: OAuth 2.0 설정
+                  - img "새 창에서 외부 링크 열기" [ref=e355]:
+                    - img [ref=e356]
+                - text: 을 참조하세요. OAuth 클라이언트 유형을
+                - link "OAuth 클라이언트 유형 자세히 알아보기 새 창에서 외부 링크 열기" [ref=e358] [cursor=pointer]:
+                  - /url: https://support.google.com/cloud/answer/6158849?hl=ko
+                  - text: 자세히 알아보세요
+                  - img "새 창에서 외부 링크 열기" [ref=e359]:
+                    - img [ref=e360]
+                - text: .
+              - generic [ref=e365] [cursor=pointer]:
+                - generic [ref=e366]:
+                  - text: 애플리케이션 유형
+                  - generic [ref=e367]: "*"
+                - combobox "애플리케이션 유형" [ref=e369]:
+                  - img [ref=e373]
+  - iframe [ref=e265]:
+    
+  - iframe [ref=e376]:
+    

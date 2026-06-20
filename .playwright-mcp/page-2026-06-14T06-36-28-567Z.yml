@@ -1,0 +1,64 @@
+- generic [ref=e3]:
+  - generic [ref=e4]:
+    - generic [ref=e6]:
+      - generic [ref=e7]: 로드 중
+      - progressbar [ref=e8]
+    - main [ref=e15]:
+      - generic [ref=e16]:
+        - generic [ref=e19]:
+          - img [ref=e21]
+          - generic [ref=e26]: Google 계정으로 로그인
+        - generic [ref=e27]:
+          - heading "gws CLI 서비스로 로그인" [level=1] [ref=e28]
+          - link "gimseongjo110@gmail.com 항목이 선택되었습니다. 계정 전환" [ref=e30] [cursor=pointer]:
+            - generic [ref=e33]: gimseongjo110@gmail.com
+            - img [ref=e35]
+      - generic [ref=e44]:
+        - generic [ref=e45]:
+          - heading "Google에서 나에 관한 이 정보에 gws CLI의 액세스를 허용하게 됩니다." [level=2] [ref=e47]:
+            - generic [ref=e48]: Google에서 나에 관한 이 정보에 gws CLI의 액세스를 허용하게 됩니다.
+          - list [ref=e52]:
+            - listitem [ref=e53]:
+              - generic [ref=e54]:
+                - img [ref=e56]
+                - generic [ref=e59]:
+                  - generic [ref=e60]: 김성조
+                  - generic [ref=e61]: 이름 및 프로필 사진
+            - listitem [ref=e62]:
+              - generic [ref=e63]:
+                - img [ref=e65]
+                - generic [ref=e67]:
+                  - generic [ref=e68]: gimseongjo110@gmail.com
+                  - generic [ref=e69]: 이메일 주소
+        - generic [ref=e72]:
+          - generic [ref=e73]: gws CLI의 개인정보처리방침 및 서비스 약관을 검토하여 gws CLI에서 내 데이터를 처리하고 보호하는 방법을 알아보세요.
+          - generic [ref=e74]:
+            - link "Google 계정" [ref=e75] [cursor=pointer]:
+              - /url: https://myaccount.google.com/connections#filter=4
+            - text: 에서 언제든지 변경할 수 있습니다.
+          - generic [ref=e76]:
+            - link "Google 계정으로 로그인" [ref=e77] [cursor=pointer]:
+              - /url: https://support.google.com/accounts/answer/12921417?sjid=1919169284593837430-NC
+            - text: 에 대해 자세히 알아보기
+      - generic [ref=e80]:
+        - button "취소" [ref=e84]: 취소
+        - button "계속" [ref=e90]: 계속
+  - contentinfo [ref=e96]:
+    - combobox "언어 변경 한국어" [ref=e100] [cursor=pointer]:
+      - generic:
+        - generic: 한국어
+      - generic:
+        - img
+    - list [ref=e102]:
+      - listitem [ref=e103]:
+        - link "Google 계정 고객센터 열기(외부, 새 창에서 열림)" [ref=e104] [cursor=pointer]:
+          - /url: https://support.google.com/accounts?hl=ko&p=account_iph
+          - text: 도움말
+      - listitem [ref=e105]:
+        - link "개인정보처리방침(외부, 새 창에서 열림)" [ref=e106] [cursor=pointer]:
+          - /url: https://accounts.google.com/TOS?loc=KR&hl=ko&privacy=true
+          - text: 개인정보처리방침
+      - listitem [ref=e107]:
+        - link "Google 서비스 약관(외부, 새 창에서 열림)" [ref=e108] [cursor=pointer]:
+          - /url: https://accounts.google.com/TOS?loc=KR&hl=ko
+          - text: 약관

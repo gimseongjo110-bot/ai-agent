@@ -1,0 +1,240 @@
+- generic [ref=e1]:
+  - generic [ref=e7]:
+    - generic [ref=e8]:
+      - complementary [ref=e450]:
+        - link [ref=e451] [cursor=pointer]:
+          - /url: /
+          - generic [ref=e11]: 기본 콘텐츠로 건너뛰기
+        - button [ref=e452]:
+          - generic [ref=e13]: 키보드 단축키
+        - link [ref=e453] [cursor=pointer]:
+          - /url: https://cloud.google.com/docs/accessibility?hl=ko
+          - generic [ref=e15]:
+            - text: 접근성 도움말
+            - img [ref=e455]:
+              - img [ref=e18]
+        - link [ref=e456] [cursor=pointer]:
+          - /url: https://support.google.com/accessibility/contact/feedback?hl=ko
+          - generic [ref=e21]:
+            - text: 접근성 관련 의견
+            - img [ref=e458]:
+              - img [ref=e24]
+      - banner [ref=e27]:
+        - generic [ref=e28]:
+          - navigation [ref=e31]:
+            - button [ref=e459] [cursor=pointer]:
+              - img [ref=e34]
+          - link [ref=e460] [cursor=pointer]:
+            - /url: /
+            - generic:
+              - img
+          - button [ref=e461]:
+            - generic [ref=e272]:
+              - img [ref=e274]
+              - generic [ref=e277]: gws-workspace
+        - button [ref=e462] [cursor=pointer]:
+          - img [ref=e53]
+        - generic [ref=e55]:
+          - generic [ref=e56]:
+            - button [ref=e463] [cursor=pointer]:
+              - img [ref=e283]
+            - button [ref=e464] [cursor=pointer]:
+              - img [ref=e443]
+            - button [ref=e465] [cursor=pointer]:
+              - img [ref=e447]
+            - button [ref=e466] [cursor=pointer]:
+              - img [ref=e65]
+            - button [ref=e467] [cursor=pointer]:
+              - img [ref=e73]
+          - button [ref=e468]:
+            - img [ref=e288]
+    - generic [ref=e86]:
+      - navigation [ref=e469]:
+        - link [ref=e470] [cursor=pointer]:
+          - /url: /auth?project=gws-workspace-sbs2026
+          - img [ref=e299]
+          - generic [ref=e303]: Google 인증 플랫폼
+        - list [ref=e304]:
+          - listitem [ref=e305]:
+            - generic [ref=e306]: /
+            - link [ref=e471] [cursor=pointer]:
+              - /url: /auth/audience?project=gws-workspace-sbs2026
+              - generic [ref=e311]: 대상
+      - generic [ref=e97]:
+        - navigation [ref=e472]:
+          - generic [ref=e105]:
+            - list [ref=e473]:
+              - listitem [ref=e120]:
+                - generic [ref=e123]:
+                  - link [ref=e474] [cursor=pointer]:
+                    - /url: /auth/overview
+                    - generic [ref=e125]:
+                      - img [ref=e128]
+                      - generic [ref=e130]: 개요
+                  - button [ref=e475] [cursor=pointer]:
+                    - img [ref=e134]
+              - listitem [ref=e136]:
+                - generic [ref=e139]:
+                  - link [ref=e476] [cursor=pointer]:
+                    - /url: /auth/branding
+                    - generic [ref=e141]:
+                      - img [ref=e144]
+                      - generic [ref=e150]: 브랜딩
+                  - button [ref=e477] [cursor=pointer]:
+                    - img [ref=e154]
+              - listitem [ref=e156]:
+                - generic [ref=e159]:
+                  - link [ref=e478] [cursor=pointer]:
+                    - /url: /auth/audience
+                    - generic [ref=e161]:
+                      - img [ref=e164]
+                      - generic [ref=e166]: 대상
+                  - button [ref=e479] [cursor=pointer]:
+                    - img [ref=e170]
+              - listitem [ref=e172]:
+                - generic [ref=e175]:
+                  - link [ref=e480] [cursor=pointer]:
+                    - /url: /auth/clients
+                    - generic [ref=e177]:
+                      - img [ref=e180]
+                      - generic [ref=e182]: 클라이언트
+                  - button [ref=e481] [cursor=pointer]:
+                    - img [ref=e186]
+              - listitem [ref=e188]:
+                - generic [ref=e191]:
+                  - link [ref=e482] [cursor=pointer]:
+                    - /url: /auth/scopes
+                    - generic [ref=e193]:
+                      - img [ref=e196]
+                      - generic [ref=e199]: 데이터 액세스
+                  - button [ref=e483] [cursor=pointer]:
+                    - img [ref=e203]
+              - listitem [ref=e205]:
+                - generic [ref=e208]:
+                  - link [ref=e484] [cursor=pointer]:
+                    - /url: /auth/verification
+                    - generic [ref=e210]:
+                      - img [ref=e213]
+                      - generic [ref=e216]: 인증 센터
+                  - button [ref=e485] [cursor=pointer]:
+                    - img [ref=e220]
+              - listitem [ref=e222]:
+                - generic [ref=e225]:
+                  - link [ref=e486] [cursor=pointer]:
+                    - /url: /auth/settings
+                    - generic [ref=e227]:
+                      - img [ref=e230]
+                      - generic [ref=e232]: 설정
+                  - button [ref=e487] [cursor=pointer]:
+                    - img [ref=e236]
+            - button [pressed] [ref=e488] [cursor=pointer]:
+              - img [ref=e242]
+        - main [ref=e245]:
+          - generic [ref=e322]:
+            - heading [level=1] [ref=e489]:
+              - generic [ref=e329]: 대상
+            - generic [ref=e331]:
+              - generic [ref=e332]:
+                - generic [ref=e334]:
+                  - text: 게시 상태
+                  - button [ref=e490] [cursor=pointer]:
+                    - img [ref=e338]
+                - paragraph [ref=e340]: 테스트 중
+                - button [ref=e491]:
+                  - generic [ref=e343]: 앱 게시
+              - generic [ref=e344]:
+                - generic [ref=e345]: 사용자 유형
+                - paragraph [ref=e346]:
+                  - text: 외부
+                  - button [ref=e492] [cursor=pointer]:
+                    - img [ref=e350]
+                - button [disabled] [ref=e493]:
+                  - generic [ref=e354]: 내부로 설정
+              - generic [ref=e355]:
+                - text: OAuth 사용자 한도
+                - button [ref=e494] [cursor=pointer]:
+                  - img [ref=e359]
+              - generic [ref=e362]:
+                - group [ref=e495]:
+                  - generic [ref=e366]:
+                    - paragraph [ref=e367]:
+                      - text: 게시 상태가 '테스트 중'으로 설정된 동안에는 테스트 사용자만 앱에 액세스할 수 있습니다. 앱 인증 전에 허용되는 사용자 한도는 100명이며 앱의 전체 수명 주기에서 계산됩니다.
+                      - link [ref=e496] [cursor=pointer]:
+                        - /url: https://support.google.com/cloud/answer/7454865?hl=ko
+                        - text: 자세히 알아보기
+                        - img [ref=e497]:
+                          - img [ref=e370]
+                    - generic [ref=e383]: 사용자 1명(테스트 1명, 기타 0명)/사용자 한도100명
+                    - button [ref=e498] [cursor=pointer]:
+                      - img [ref=e387]
+                    - generic [ref=e389]: 테스트 사용자
+                    - button [ref=e499]:
+                      - generic [ref=e391]:
+                        - img [ref=e393]:
+                          - img [ref=e394]
+                        - text: Add users
+                    - generic [ref=e399]:
+                      - img [ref=e401]
+                      - generic [ref=e403]: 필터
+                      - group [ref=e500]:
+                        - combobox [ref=e501]: 속성 이름 또는 값 입력
+                      - button [ref=e502] [cursor=pointer]:
+                        - img [ref=e410]
+                    - grid [ref=e503]:
+                      - rowgroup [ref=e420]:
+                        - row [ref=e504]:
+                          - columnheader [ref=e505]:
+                            - generic [ref=e424]: 사용자 정보
+                          - columnheader [ref=e506]
+                      - rowgroup [ref=e427]:
+                        - row [ref=e581]:
+                          - gridcell [ref=e582]: gimseongjo110@gmail.com
+                          - gridcell [ref=e583]:
+                            - button [ref=e584] [cursor=pointer]:
+                              - img [ref=e586]:
+                                - img [ref=e587]
+                - button [expanded] [ref=e509]:
+                  - generic [ref=e433]:
+                    - img [ref=e435]
+                    - text: 간략히 보기
+  - iframe [ref=e269]:
+    
+  - iframe [ref=e449]:
+    
+  - dialog "사용자 추가" [ref=e511]:
+    - generic [ref=e515]:
+      - generic [ref=e518]:
+        - button "닫기" [ref=e522] [cursor=pointer]:
+          - img [ref=e524]
+        - heading "사용자 추가" [level=1] [ref=e528]:
+          - generic [ref=e529]: 사용자 추가
+      - generic [ref=e531]:
+        - status [ref=e533]:
+          - img "경고" [ref=e534]:
+            - img [ref=e535]
+          - generic [ref=e537]:
+            - generic [ref=e539]: 게시 상태가 '테스트 중'으로 설정된 동안에는 테스트 사용자만 앱에 액세스할 수 있습니다. 앱 인증 전에 허용되는 사용자 한도는 100명이며 앱의 전체 수명 주기에서 계산됩니다.
+            - link "사용자 할당량 제한사항 자세히 알아보기 새 창에서 외부 링크 열기" [ref=e541] [cursor=pointer]:
+              - /url: https://support.google.com/cloud/answer/7454865?hl=ko
+              - generic [ref=e542]:
+                - text: Learn more
+                - img "새 창에서 외부 링크 열기" [ref=e543]:
+                  - img "새 창에서 외부 링크 열기" [ref=e544]:
+                    - img [ref=e545]
+        - generic [ref=e547]:
+          - generic [ref=e550]:
+            - generic [ref=e552] [cursor=pointer]:
+              - grid [ref=e572]:
+                - row "gimseongjo110@gmail.com 클릭하여 이메일 삭제" [ref=e573]:
+                  - gridcell "gimseongjo110@gmail.com" [ref=e574]:
+                    - generic [ref=e575]: gimseongjo110@gmail.com
+                  - gridcell "클릭하여 이메일 삭제" [ref=e576]:
+                    - button "클릭하여 이메일 삭제" [ref=e577]:
+                      - img [ref=e578]:
+                        - img [ref=e579]
+                - textbox "이메일 텍스트 필드" [ref=e555]
+              - button "이메일 도움말" [ref=e558]:
+                - img [ref=e560]
+            - generic [ref=e565]: 1 / 100
+          - button "Save" [active] [ref=e568] [cursor=pointer]:
+            - generic [ref=e569]: 저장
